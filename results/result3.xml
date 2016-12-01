@@ -1,0 +1,51 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<?xml-stylesheet type="text/xsl" href="result3.xsl"?>
+<slice>
+  <department>
+    <deptno tstart="1994-05-01" tend="1996-05-06">d001</deptno>
+    <deptname tstart="1994-05-01" tend="1996-05-06">Marketing</deptname>
+    <mgrno tstart="1994-05-01" tend="1996-05-06">110039</mgrno>
+  </department>
+  <department>
+    <deptno tstart="1994-05-01" tend="1996-05-06">d002</deptno>
+    <deptname tstart="1994-05-01" tend="1996-05-06">Finance</deptname>
+    <mgrno tstart="1994-05-01" tend="1996-05-06">110114</mgrno>
+  </department>
+  <department>
+    <deptno tstart="1994-05-01" tend="1996-05-06">d003</deptno>
+    <deptname tstart="1994-05-01" tend="1996-05-06">Human Resources</deptname>
+    <mgrno tstart="1994-05-01" tend="1996-05-06">110228</mgrno>
+  </department>
+  <department>
+    <deptno tstart="1994-05-01" tend="1996-05-06">d004</deptno>
+    <deptname tstart="1994-05-01" tend="1996-05-06">Production</deptname>
+    <mgrno tstart="1994-05-01" tend="1996-05-06">110386</mgrno>
+  </department>
+  <department>
+    <deptno tstart="1994-05-01" tend="1996-05-06">d005</deptno>
+    <deptname tstart="1994-05-01" tend="1996-05-06">Development</deptname>
+    <mgrno tstart="1994-05-01" tend="1996-05-06">110567</mgrno>
+  </department>
+  <department>
+    <deptno tstart="1994-05-01" tend="1996-05-06">d006</deptno>
+    <deptname tstart="1994-05-01" tend="1996-05-06">Quality Management</deptname>
+    <mgrno tstart="1994-05-01" tend="1994-06-28">110800</mgrno>
+    <mgrno tstart="1994-06-28" tend="1996-05-06">110854</mgrno>
+  </department>
+  <department>
+    <deptno tstart="1994-05-01" tend="1996-05-06">d007</deptno>
+    <deptname tstart="1994-05-01" tend="1996-05-06">Sales</deptname>
+    <mgrno tstart="1994-05-01" tend="1996-05-06">111133</mgrno>
+  </department>
+  <department>
+    <deptno tstart="1994-05-01" tend="1996-05-06">d008</deptno>
+    <deptname tstart="1994-05-01" tend="1996-05-06">Research</deptname>
+    <mgrno tstart="1994-05-01" tend="1996-05-06">111534</mgrno>
+  </department>
+  <department>
+    <deptno tstart="1994-05-01" tend="1996-05-06">d009</deptno>
+    <deptname tstart="1994-05-01" tend="1996-05-06">Cuustomer Service</deptname>
+    <mgrno tstart="1994-05-01" tend="1996-01-03">111877</mgrno>
+    <mgrno tstart="1996-01-03" tend="1996-05-06">111939</mgrno>
+  </department>
+</slice>

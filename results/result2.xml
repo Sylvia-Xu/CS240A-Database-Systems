@@ -1,0 +1,166 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<?xml-stylesheet type="text/xsl" href="result2.xsl"?>
+<snapshot>
+  <employee>
+    <firstname>Patricio</firstname>
+    <lastname>Bridgland</lastname>
+    <deptno name="Development">d005</deptno>
+    <salary>42318</salary>
+  </employee>
+  <employee>
+    <firstname>Mingsen</firstname>
+    <lastname>Casley</lastname>
+    <deptno name="Production">d004</deptno>
+    <salary>40919</salary>
+  </employee>
+  <employee>
+    <firstname>Lucien</firstname>
+    <lastname>Rosenbaum</lastname>
+    <deptno name="Research">d008</deptno>
+    <salary>43485</salary>
+  </employee>
+  <employee>
+    <firstname>Basil</firstname>
+    <lastname>Tramer</lastname>
+    <deptno name="Cuustomer Service">d009</deptno>
+    <salary>40484</salary>
+  </employee>
+  <employee>
+    <firstname>Mona</firstname>
+    <lastname>Azuma</lastname>
+    <deptno name="Human Resources">d003</deptno>
+    <salary>40000</salary>
+  </employee>
+  <employee>
+    <firstname>Kenroku</firstname>
+    <lastname>Malabarba</lastname>
+    <deptno name="Production">d004</deptno>
+    <salary>40000</salary>
+  </employee>
+  <employee>
+    <firstname>Amabile</firstname>
+    <lastname>Gomatam</lastname>
+    <deptno name="Development">d005</deptno>
+    <salary>43812</salary>
+  </employee>
+  <employee>
+    <firstname>Mariusz</firstname>
+    <lastname>Prampolini</lastname>
+    <deptno name="Production">d004</deptno>
+    <salary>42756</salary>
+  </employee>
+  <employee>
+    <firstname>Zhonghui</firstname>
+    <lastname>Zyda</lastname>
+    <deptno name="Development">d005</deptno>
+    <salary>43697</salary>
+  </employee>
+  <employee>
+    <firstname>Tzvetan</firstname>
+    <lastname>Hettesheimer</lastname>
+    <deptno name="Development">d005</deptno>
+    <salary>41712</salary>
+  </employee>
+  <employee>
+    <firstname>Karsten</firstname>
+    <lastname>Szmurlo</lastname>
+    <deptno name="Human Resources">d003</deptno>
+    <salary>43868</salary>
+  </employee>
+  <employee>
+    <firstname>Kasidit</firstname>
+    <lastname>Krzyzanowski</lastname>
+    <deptno name="Development">d005</deptno>
+    <salary>40000</salary>
+  </employee>
+  <employee>
+    <firstname>Mabhin</firstname>
+    <lastname>Leijenhorst</lastname>
+    <deptno name="Production">d004</deptno>
+    <salary>41982</salary>
+  </employee>
+  <employee>
+    <firstname>Jackson</firstname>
+    <lastname>Kakkad</lastname>
+    <deptno name="Cuustomer Service">d009</deptno>
+    <salary>40000</salary>
+  </employee>
+  <employee>
+    <firstname>Genta</firstname>
+    <lastname>Kolvik</lastname>
+    <deptno name="Development">d005</deptno>
+    <salary>42829</salary>
+  </employee>
+  <employee>
+    <firstname>Lein</firstname>
+    <lastname>Vendrig</lastname>
+    <deptno name="Human Resources">d003</deptno>
+    <salary>40000</salary>
+  </employee>
+  <employee>
+    <firstname>Ramalingam</firstname>
+    <lastname>Gente</lastname>
+    <deptno name="Research">d008</deptno>
+    <salary>40000</salary>
+  </employee>
+  <employee>
+    <firstname>Saddek</firstname>
+    <lastname>Gopalakrishnan</lastname>
+    <deptno name="Cuustomer Service">d009</deptno>
+    <salary>40000</salary>
+  </employee>
+  <employee>
+    <firstname>Shay</firstname>
+    <lastname>Poulakidas</lastname>
+    <deptno name="Development">d005</deptno>
+    <salary>43428</salary>
+  </employee>
+  <employee>
+    <firstname>Hausi</firstname>
+    <lastname>Sidhu</lastname>
+    <deptno name="Quality Management">d006</deptno>
+    <salary>40000</salary>
+  </employee>
+  <employee>
+    <firstname>Clyde</firstname>
+    <lastname>Fandrianto</lastname>
+    <deptno name="Sales">d007</deptno>
+    <salary>42419</salary>
+  </employee>
+  <employee>
+    <firstname>Khatoun</firstname>
+    <lastname>Imataki</lastname>
+    <deptno name="Production">d004</deptno>
+    <salary>40771</salary>
+  </employee>
+  <employee>
+    <firstname>Irena</firstname>
+    <lastname>Reutenauer</lastname>
+    <deptno name="Production">d004</deptno>
+    <salary>43242</salary>
+  </employee>
+  <employee>
+    <firstname>Maik</firstname>
+    <lastname>Ushiama</lastname>
+    <deptno name="Development">d005</deptno>
+    <salary>43444</salary>
+  </employee>
+  <employee>
+    <firstname>Duro</firstname>
+    <lastname>Coney</lastname>
+    <deptno name="Production">d004</deptno>
+    <salary>40616</salary>
+  </employee>
+  <employee>
+    <firstname>Mihalis</firstname>
+    <lastname>Heering</lastname>
+    <deptno name="Development">d005</deptno>
+    <salary>40000</salary>
+  </employee>
+  <employee>
+    <firstname>Valter</firstname>
+    <lastname>Cappelletti</lastname>
+    <deptno name="Production">d004</deptno>
+    <salary>40000</salary>
+  </employee>
+</snapshot>

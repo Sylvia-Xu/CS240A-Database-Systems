@@ -1,0 +1,29 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<?xml-stylesheet type="text/xsl" href="result7.xsl"?>
+<max_salaries>
+  <max_salary tstart="1985-02-24" tend="1985-05-17">40000</max_salary>
+  <max_salary tstart="1985-05-17" tend="1986-02-26">66280</max_salary>
+  <max_salary tstart="1986-02-26" tend="1986-05-17">69736</max_salary>
+  <max_salary tstart="1986-05-17" tend="1987-02-26">70375</max_salary>
+  <max_salary tstart="1987-02-26" tend="1987-03-23">72147</max_salary>
+  <max_salary tstart="1987-03-23" tend="1987-11-16">73259</max_salary>
+  <max_salary tstart="1987-11-16" tend="1988-02-26">74014</max_salary>
+  <max_salary tstart="1988-02-26" tend="1988-05-16">76616</max_salary>
+  <max_salary tstart="1988-05-16" tend="1989-02-25">76648</max_salary>
+  <max_salary tstart="1989-02-25" tend="1989-11-15">78885</max_salary>
+  <max_salary tstart="1989-11-15" tend="1990-02-25">79310</max_salary>
+  <max_salary tstart="1990-02-25" tend="1991-02-25">82819</max_salary>
+  <max_salary tstart="1991-02-25" tend="1992-02-25">84064</max_salary>
+  <max_salary tstart="1992-02-25" tend="1992-05-15">84161</max_salary>
+  <max_salary tstart="1992-05-15" tend="1993-05-15">86445</max_salary>
+  <max_salary tstart="1993-05-15" tend="1994-05-15">90341</max_salary>
+  <max_salary tstart="1994-05-15" tend="1995-05-15">89891</max_salary>
+  <max_salary tstart="1995-05-15" tend="1996-05-14">94064</max_salary>
+  <max_salary tstart="1996-05-14" tend="1997-05-14">97898</max_salary>
+  <max_salary tstart="1997-05-14" tend="1998-05-14">100587</max_salary>
+  <max_salary tstart="1998-05-14" tend="1999-05-14">102901</max_salary>
+  <max_salary tstart="1999-05-14" tend="2000-05-13">105128</max_salary>
+  <max_salary tstart="2000-05-13" tend="2001-05-13">105845</max_salary>
+  <max_salary tstart="2001-05-13" tend="2002-05-13">106912</max_salary>
+  <max_salary tstart="2002-05-13" tend="9999-12-31">110212</max_salary>
+</max_salaries>

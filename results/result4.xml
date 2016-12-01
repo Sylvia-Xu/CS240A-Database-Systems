@@ -1,0 +1,3437 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<?xml-stylesheet type="text/xsl" href="result4.xsl"?>
+<duration>
+  <employee tstart="1986-06-26" tend="2016-11-30">
+    <firstname tend="9999-12-31" tstart="1986-06-26">Joe</firstname>
+    <lastname tend="9999-12-31" tstart="1986-06-26">Doe</lastname>
+    <LongestPeriod>P5275D</LongestPeriod>
+    <salary tstart="1986-06-26" tend="2016-11-30">88958</salary>
+  </employee>
+  <employee tstart="1996-08-03" tend="2016-11-30">
+    <firstname tend="9999-12-31" tstart="1996-08-03">Bezalel</firstname>
+    <lastname tend="9999-12-31" tstart="1996-08-03">Simmel</lastname>
+    <LongestPeriod>P5599D</LongestPeriod>
+    <salary tstart="1996-08-03" tend="2016-11-30">72527</salary>
+  </employee>
+  <employee tstart="1995-12-03" tend="2016-11-30">
+    <firstname tend="9999-12-31" tstart="1995-12-03">Parto</firstname>
+    <lastname tend="9999-12-31" tstart="1995-12-03">Bamford</lastname>
+    <LongestPeriod>P5478D</LongestPeriod>
+    <salary tstart="1995-12-03" tend="2016-11-30">43311</salary>
+  </employee>
+  <employee tstart="1986-12-01" tend="2016-11-30">
+    <firstname tend="9999-12-31" tstart="1986-12-01">Chirstian</firstname>
+    <lastname tend="9999-12-31" tstart="1986-12-01">Koblick</lastname>
+    <LongestPeriod>P5482D</LongestPeriod>
+    <salary tstart="1986-12-01" tend="2016-11-30">74057</salary>
+  </employee>
+  <employee tstart="1989-09-12" tend="2016-11-30">
+    <firstname tend="9999-12-31" tstart="1989-09-12">Kyoichi</firstname>
+    <lastname tend="9999-12-31" tstart="1989-09-12">Maliniak</lastname>
+    <LongestPeriod>P5561D</LongestPeriod>
+    <salary tstart="1989-09-12" tend="2016-11-30">94692</salary>
+  </employee>
+  <employee tstart="1990-08-05" tend="2016-11-30">
+    <firstname tend="9999-12-31" tstart="1990-08-05">Anneke</firstname>
+    <lastname tend="9999-12-31" tstart="1990-08-05">Preusig</lastname>
+    <LongestPeriod>P5599D</LongestPeriod>
+    <salary tstart="1990-08-05" tend="2016-11-30">59755</salary>
+  </employee>
+  <employee tstart="1989-02-10" tend="2016-11-30">
+    <firstname tend="9999-12-31" tstart="1989-02-10">Tzvetan</firstname>
+    <lastname tend="9999-12-31" tstart="1989-02-10">Zielinski</lastname>
+    <LongestPeriod>P5410D</LongestPeriod>
+    <salary tstart="1989-02-10" tend="2016-11-30">88070</salary>
+  </employee>
+  <employee tstart="1998-03-11" tend="2000-07-31">
+    <firstname tend="2000-07-31" tstart="1998-03-11">Saniya</firstname>
+    <lastname tend="2000-07-31" tstart="1998-03-11">Kalloufi</lastname>
+    <LongestPeriod>P365D</LongestPeriod>
+    <salary tstart="1998-03-11" tend="2000-07-31">46671</salary>
+    <salary tstart="1998-03-11" tend="2000-07-31">48584</salary>
+  </employee>
+  <employee tstart="1985-02-18" tend="2016-11-30">
+    <firstname tend="9999-12-31" tstart="1985-02-18">Sumant</firstname>
+    <lastname tend="9999-12-31" tstart="1985-02-18">Peac</lastname>
+    <LongestPeriod>P5403D</LongestPeriod>
+    <salary tstart="1985-02-18" tend="2016-11-30">94409</salary>
+  </employee>
+  <employee tstart="1996-11-24" tend="2016-11-30">
+    <firstname tend="9999-12-31" tstart="1996-11-24">Duangkaew</firstname>
+    <lastname tend="9999-12-31" tstart="1996-11-24">Piveteau</lastname>
+    <LongestPeriod>P5486D</LongestPeriod>
+    <salary tstart="1996-11-24" tend="2016-11-30">80324</salary>
+  </employee>
+  <employee tstart="1990-01-22" tend="1996-11-09">
+    <firstname tend="1996-11-09" tstart="1990-01-22">Mary</firstname>
+    <lastname tend="1996-11-09" tstart="1990-01-22">Sluis</lastname>
+    <LongestPeriod>P365D</LongestPeriod>
+    <salary tstart="1990-01-22" tend="1996-11-09">42365</salary>
+    <salary tstart="1990-01-22" tend="1996-11-09">44200</salary>
+    <salary tstart="1990-01-22" tend="1996-11-09">48214</salary>
+    <salary tstart="1990-01-22" tend="1996-11-09">50927</salary>
+    <salary tstart="1990-01-22" tend="1996-11-09">51470</salary>
+    <salary tstart="1990-01-22" tend="1996-11-09">54545</salary>
+  </employee>
+  <employee tstart="1992-12-18" tend="2016-11-30">
+    <firstname tend="9999-12-31" tstart="1992-12-18">Patricio</firstname>
+    <lastname tend="9999-12-31" tstart="1992-12-18">Bridgland</lastname>
+    <LongestPeriod>P5463D</LongestPeriod>
+    <salary tstart="1992-12-18" tend="2016-11-30">54423</salary>
+  </employee>
+  <employee tstart="1985-10-20" tend="2016-11-30">
+    <firstname tend="9999-12-31" tstart="1985-10-20">Eberhardt</firstname>
+    <lastname tend="9999-12-31" tstart="1985-10-20">Terkki</lastname>
+    <LongestPeriod>P5524D</LongestPeriod>
+    <salary tstart="1985-10-20" tend="2016-11-30">68901</salary>
+  </employee>
+  <employee tstart="1993-12-29" tend="2016-11-30">
+    <firstname tend="9999-12-31" tstart="1993-12-29">Berni</firstname>
+    <lastname tend="9999-12-31" tstart="1993-12-29">Genin</lastname>
+    <LongestPeriod>P5452D</LongestPeriod>
+    <salary tstart="1993-12-29" tend="2016-11-30">60598</salary>
+  </employee>
+  <employee tstart="1992-09-19" tend="1993-08-22">
+    <firstname tend="1993-08-22" tstart="1992-09-19">Guoxiang</firstname>
+    <lastname tend="1993-08-22" tstart="1992-09-19">Nooteboom</lastname>
+    <LongestPeriod>P337D</LongestPeriod>
+    <salary tstart="1992-09-19" tend="1993-08-22">40000</salary>
+  </employee>
+  <employee tstart="1998-02-11" tend="2016-11-30">
+    <firstname tend="9999-12-31" tstart="1998-02-11">Kazuhito</firstname>
+    <lastname tend="9999-12-31" tstart="1998-02-11">Cappelletti</lastname>
+    <LongestPeriod>P5407D</LongestPeriod>
+    <salary tstart="1998-02-11" tend="2016-11-30">77935</salary>
+  </employee>
+  <employee tstart="1993-08-03" tend="2016-11-30">
+    <firstname tend="9999-12-31" tstart="1993-08-03">Cristinel</firstname>
+    <lastname tend="9999-12-31" tstart="1993-08-03">Bouloucos</lastname>
+    <LongestPeriod>P5235D</LongestPeriod>
+    <salary tstart="1993-08-03" tend="2016-11-30">99651</salary>
+  </employee>
+  <employee tstart="1987-04-03" tend="2016-11-30">
+    <firstname tend="9999-12-31" tstart="1987-04-03">Kazuhide</firstname>
+    <lastname tend="9999-12-31" tstart="1987-04-03">Peha</lastname>
+    <LongestPeriod>P5359D</LongestPeriod>
+    <salary tstart="1987-04-03" tend="2016-11-30">84672</salary>
+  </employee>
+  <employee tstart="1999-04-30" tend="2016-11-30">
+    <firstname tend="9999-12-31" tstart="1999-04-30">Lillian</firstname>
+    <lastname tend="9999-12-31" tstart="1999-04-30">Haddadi</lastname>
+    <LongestPeriod>P5329D</LongestPeriod>
+    <salary tstart="1999-04-30" tend="2016-11-30">50032</salary>
+  </employee>
+  <employee tstart="1997-12-30" tend="2016-11-30">
+    <firstname tend="9999-12-31" tstart="1997-12-30">Mayuko</firstname>
+    <lastname tend="9999-12-31" tstart="1997-12-30">Warwick</lastname>
+    <LongestPeriod>P5450D</LongestPeriod>
+    <salary tstart="1997-12-30" tend="2016-11-30">47017</salary>
+  </employee>
+  <employee tstart="1988-02-10" tend="2002-07-15">
+    <firstname tend="2002-07-15" tstart="1988-02-10">Ramzi</firstname>
+    <lastname tend="2002-07-15" tstart="1988-02-10">Erde</lastname>
+    <LongestPeriod>P365D</LongestPeriod>
+    <salary tstart="1988-02-10" tend="2002-07-15">55025</salary>
+    <salary tstart="1988-02-10" tend="2002-07-15">56399</salary>
+    <salary tstart="1988-02-10" tend="2002-07-15">59700</salary>
+    <salary tstart="1988-02-10" tend="2002-07-15">60851</salary>
+    <salary tstart="1988-02-10" tend="2002-07-15">61117</salary>
+    <salary tstart="1988-02-10" tend="2002-07-15">60708</salary>
+    <salary tstart="1988-02-10" tend="2002-07-15">63514</salary>
+    <salary tstart="1988-02-10" tend="2002-07-15">66249</salary>
+    <salary tstart="1988-02-10" tend="2002-07-15">70570</salary>
+    <salary tstart="1988-02-10" tend="2002-07-15">74759</salary>
+    <salary tstart="1988-02-10" tend="2002-07-15">77519</salary>
+    <salary tstart="1988-02-10" tend="2002-07-15">77237</salary>
+    <salary tstart="1988-02-10" tend="2002-07-15">79631</salary>
+    <salary tstart="1988-02-10" tend="2002-07-15">82295</salary>
+  </employee>
+  <employee tstart="1999-09-03" tend="2016-11-30">
+    <firstname tend="9999-12-31" tstart="1999-09-03">Shahaf</firstname>
+    <lastname tend="9999-12-31" tstart="1999-09-03">Famili</lastname>
+    <LongestPeriod>P5568D</LongestPeriod>
+    <salary tstart="1999-09-03" tend="2016-11-30">41348</salary>
+  </employee>
+  <employee tstart="1999-09-27" tend="2016-11-30">
+    <firstname tend="9999-12-31" tstart="1999-09-27">Bojan</firstname>
+    <lastname tend="9999-12-31" tstart="1999-09-27">Montemayor</lastname>
+    <LongestPeriod>P5544D</LongestPeriod>
+    <salary tstart="1999-09-27" tend="2016-11-30">50113</salary>
+  </employee>
+  <employee tstart="1998-06-14" tend="2016-11-30">
+    <firstname tend="9999-12-31" tstart="1998-06-14">Suzette</firstname>
+    <lastname tend="9999-12-31" tstart="1998-06-14">Pettey</lastname>
+    <LongestPeriod>P5284D</LongestPeriod>
+    <salary tstart="1998-06-14" tend="2016-11-30">96646</salary>
+  </employee>
+  <employee tstart="1987-08-17" tend="1997-10-15">
+    <firstname tend="1997-10-15" tstart="1987-08-17">Prasadram</firstname>
+    <lastname tend="1997-10-15" tstart="1987-08-17">Heyers</lastname>
+    <LongestPeriod>P365D</LongestPeriod>
+    <salary tstart="1987-08-17" tend="1997-10-15">40000</salary>
+    <salary tstart="1987-08-17" tend="1997-10-15">44416</salary>
+    <salary tstart="1987-08-17" tend="1997-10-15">48680</salary>
+    <salary tstart="1987-08-17" tend="1997-10-15">50120</salary>
+    <salary tstart="1987-08-17" tend="1997-10-15">50980</salary>
+    <salary tstart="1987-08-17" tend="1997-10-15">54459</salary>
+    <salary tstart="1987-08-17" tend="1997-10-15">54395</salary>
+    <salary tstart="1987-08-17" tend="1997-10-15">56643</salary>
+    <salary tstart="1987-08-17" tend="1997-10-15">57585</salary>
+    <salary tstart="1987-08-17" tend="1997-10-15">57110</salary>
+  </employee>
+  <employee tstart="1995-03-20" tend="2016-11-30">
+    <firstname tend="9999-12-31" tstart="1995-03-20">Yongqiao</firstname>
+    <lastname tend="9999-12-31" tstart="1995-03-20">Berztiss</lastname>
+    <LongestPeriod>P5371D</LongestPeriod>
+    <salary tstart="1995-03-20" tend="2016-11-30">66313</salary>
+  </employee>
+  <employee tstart="1995-04-02" tend="2016-11-30">
+    <firstname tend="9999-12-31" tstart="1995-04-02">Divier</firstname>
+    <lastname tend="9999-12-31" tstart="1995-04-02">Reistad</lastname>
+    <LongestPeriod>P5358D</LongestPeriod>
+    <salary tstart="1995-04-02" tend="2016-11-30">46145</salary>
+  </employee>
+  <employee tstart="1991-10-22" tend="1998-04-06">
+    <firstname tend="1998-04-06" tstart="1991-10-22">Domenick</firstname>
+    <lastname tend="1998-04-06" tstart="1991-10-22">Tempesti</lastname>
+    <LongestPeriod>P365D</LongestPeriod>
+    <salary tstart="1991-10-22" tend="1998-04-06">48859</salary>
+    <salary tstart="1991-10-22" tend="1998-04-06">50805</salary>
+    <salary tstart="1991-10-22" tend="1998-04-06">52082</salary>
+    <salary tstart="1991-10-22" tend="1998-04-06">54949</salary>
+    <salary tstart="1991-10-22" tend="1998-04-06">55963</salary>
+    <salary tstart="1991-10-22" tend="1998-04-06">57831</salary>
+  </employee>
+  <employee tstart="1991-09-18" tend="2016-11-30">
+    <firstname tend="9999-12-31" tstart="1991-09-18">Otmar</firstname>
+    <lastname tend="9999-12-31" tstart="1991-09-18">Herbst</lastname>
+    <LongestPeriod>P5555D</LongestPeriod>
+    <salary tstart="1991-09-18" tend="2016-11-30">77777</salary>
+  </employee>
+  <employee tstart="1994-02-17" tend="2016-11-30">
+    <firstname tend="9999-12-31" tstart="1994-02-17">Elvis</firstname>
+    <lastname tend="9999-12-31" tstart="1994-02-17">Demeyer</lastname>
+    <LongestPeriod>P5402D</LongestPeriod>
+    <salary tstart="1994-02-17" tend="2016-11-30">88806</salary>
+  </employee>
+  <employee tstart="1991-09-01" tend="2016-11-30">
+    <firstname tend="9999-12-31" tstart="1991-09-01">Karsten</firstname>
+    <lastname tend="9999-12-31" tstart="1991-09-01">Joslin</lastname>
+    <LongestPeriod>P5572D</LongestPeriod>
+    <salary tstart="1991-09-01" tend="2016-11-30">56689</salary>
+  </employee>
+  <employee tstart="1990-06-20" tend="2016-11-30">
+    <firstname tend="9999-12-31" tstart="1990-06-20">Jeong</firstname>
+    <lastname tend="9999-12-31" tstart="1990-06-20">Reistad</lastname>
+    <LongestPeriod>P5280D</LongestPeriod>
+    <salary tstart="1990-06-20" tend="2016-11-30">69539</salary>
+  </employee>
+  <employee tstart="1987-03-18" tend="1993-03-24">
+    <firstname tend="1993-03-24" tstart="1987-03-18">Arif</firstname>
+    <lastname tend="1993-03-24" tstart="1987-03-18">Merlo</lastname>
+    <LongestPeriod>P365D</LongestPeriod>
+    <salary tstart="1987-03-18" tend="1993-03-24">51258</salary>
+    <salary tstart="1987-03-18" tend="1993-03-24">54972</salary>
+    <salary tstart="1987-03-18" tend="1993-03-24">55410</salary>
+    <salary tstart="1987-03-18" tend="1993-03-24">56095</salary>
+    <salary tstart="1987-03-18" tend="1993-03-24">56038</salary>
+    <salary tstart="1987-03-18" tend="1993-03-24">57712</salary>
+  </employee>
+  <employee tstart="1995-04-12" tend="1999-10-31">
+    <firstname tend="1999-10-31" tstart="1995-04-12">Bader</firstname>
+    <lastname tend="1999-10-31" tstart="1995-04-12">Swan</lastname>
+    <LongestPeriod>P365D</LongestPeriod>
+    <salary tstart="1995-04-12" tend="1999-10-31">47561</salary>
+    <salary tstart="1995-04-12" tend="1999-10-31">51192</salary>
+    <salary tstart="1995-04-12" tend="1999-10-31">52687</salary>
+    <salary tstart="1995-04-12" tend="1999-10-31">53112</salary>
+  </employee>
+  <employee tstart="1988-09-05" tend="2016-11-30">
+    <firstname tend="9999-12-31" tstart="1988-09-05">Alain</firstname>
+    <lastname tend="9999-12-31" tstart="1988-09-05">Chappelet</lastname>
+    <LongestPeriod>P5568D</LongestPeriod>
+    <salary tstart="1988-09-05" tend="2016-11-30">68755</salary>
+  </employee>
+  <employee tstart="1992-04-28" tend="2016-11-30">
+    <firstname tend="9999-12-31" tstart="1992-04-28">Adamantios</firstname>
+    <lastname tend="9999-12-31" tstart="1992-04-28">Portugali</lastname>
+    <LongestPeriod>P5332D</LongestPeriod>
+    <salary tstart="1992-04-28" tend="2016-11-30">63053</salary>
+  </employee>
+  <employee tstart="1990-12-05" tend="2016-11-30">
+    <firstname tend="9999-12-31" tstart="1990-12-05">Pradeep</firstname>
+    <lastname tend="9999-12-31" tstart="1990-12-05">Makrucki</lastname>
+    <LongestPeriod>P5477D</LongestPeriod>
+    <salary tstart="1990-12-05" tend="2016-11-30">60574</salary>
+  </employee>
+  <employee tstart="1989-09-20" tend="2016-11-30">
+    <firstname tend="9999-12-31" tstart="1989-09-20">Huan</firstname>
+    <lastname tend="9999-12-31" tstart="1989-09-20">Lortz</lastname>
+    <LongestPeriod>P5553D</LongestPeriod>
+    <salary tstart="1989-09-20" tend="2016-11-30">64254</salary>
+  </employee>
+  <employee tstart="1988-01-19" tend="2016-11-30">
+    <firstname tend="9999-12-31" tstart="1988-01-19">Alejandro</firstname>
+    <lastname tend="9999-12-31" tstart="1988-01-19">Brender</lastname>
+    <LongestPeriod>P5433D</LongestPeriod>
+    <salary tstart="1988-01-19" tend="2016-11-30">63918</salary>
+  </employee>
+  <employee tstart="1993-02-14" tend="2016-11-30">
+    <firstname tend="9999-12-31" tstart="1993-02-14">Weiyi</firstname>
+    <lastname tend="9999-12-31" tstart="1993-02-14">Meriste</lastname>
+    <LongestPeriod>P5405D</LongestPeriod>
+    <salary tstart="1993-02-14" tend="2016-11-30">72668</salary>
+  </employee>
+  <employee tstart="1989-11-12" tend="2016-11-30">
+    <firstname tend="9999-12-31" tstart="1989-11-12">Uri</firstname>
+    <lastname tend="9999-12-31" tstart="1989-11-12">Lenart</lastname>
+    <LongestPeriod>P5500D</LongestPeriod>
+    <salary tstart="1989-11-12" tend="2016-11-30">81705</salary>
+  </employee>
+  <employee tstart="1993-03-21" tend="2000-08-10">
+    <firstname tend="2000-08-10" tstart="1993-03-21">Magy</firstname>
+    <lastname tend="2000-08-10" tstart="1993-03-21">Stamatiou</lastname>
+    <LongestPeriod>P365D</LongestPeriod>
+    <salary tstart="1993-03-21" tend="2000-08-10">81662</salary>
+    <salary tstart="1993-03-21" tend="2000-08-10">84183</salary>
+    <salary tstart="1993-03-21" tend="2000-08-10">84389</salary>
+    <salary tstart="1993-03-21" tend="2000-08-10">85501</salary>
+    <salary tstart="1993-03-21" tend="2000-08-10">89833</salary>
+    <salary tstart="1993-03-21" tend="2000-08-10">91161</salary>
+    <salary tstart="1993-03-21" tend="2000-08-10">95035</salary>
+  </employee>
+  <employee tstart="1990-10-20" tend="2016-11-30">
+    <firstname tend="9999-12-31" tstart="1990-10-20">Yishay</firstname>
+    <lastname tend="9999-12-31" tstart="1990-10-20">Tzvieli</lastname>
+    <LongestPeriod>P5523D</LongestPeriod>
+    <salary tstart="1990-10-20" tend="2016-11-30">77659</salary>
+  </employee>
+  <employee tstart="1994-05-21" tend="2016-11-30">
+    <firstname tend="9999-12-31" tstart="1994-05-21">Mingsen</firstname>
+    <lastname tend="9999-12-31" tstart="1994-05-21">Casley</lastname>
+    <LongestPeriod>P5309D</LongestPeriod>
+    <salary tstart="1994-05-21" tend="2016-11-30">58345</salary>
+  </employee>
+  <employee tstart="1996-11-16" tend="2016-11-30">
+    <firstname tend="9999-12-31" tstart="1996-11-16">Moss</firstname>
+    <lastname tend="9999-12-31" tstart="1996-11-16">Shanbhogue</lastname>
+    <LongestPeriod>P5494D</LongestPeriod>
+    <salary tstart="1996-11-16" tend="2016-11-30">47581</salary>
+  </employee>
+  <employee tstart="1992-06-20" tend="2016-11-30">
+    <firstname tend="9999-12-31" tstart="1992-06-20">Lucien</firstname>
+    <lastname tend="9999-12-31" tstart="1992-06-20">Rosenbaum</lastname>
+    <LongestPeriod>P5279D</LongestPeriod>
+    <salary tstart="1992-06-20" tend="2016-11-30">62218</salary>
+  </employee>
+  <employee tstart="1989-03-31" tend="2016-11-30">
+    <firstname tend="9999-12-31" tstart="1989-03-31">Zvonko</firstname>
+    <lastname tend="9999-12-31" tstart="1989-03-31">Nyanchama</lastname>
+    <LongestPeriod>P5361D</LongestPeriod>
+    <salary tstart="1989-03-31" tend="2016-11-30">81037</salary>
+  </employee>
+  <employee tstart="1985-02-24" tend="1987-01-27">
+    <firstname tend="1987-01-27" tstart="1985-02-24">Florian</firstname>
+    <lastname tend="1987-01-27" tstart="1985-02-24">Syrotiuk</lastname>
+    <LongestPeriod>P365D</LongestPeriod>
+    <salary tstart="1985-02-24" tend="1987-01-27">40000</salary>
+  </employee>
+  <employee tstart="1992-05-04" tend="2016-11-30">
+    <firstname tend="9999-12-31" tstart="1992-05-04">Basil</firstname>
+    <lastname tend="9999-12-31" tstart="1992-05-04">Tramer</lastname>
+    <LongestPeriod>P5326D</LongestPeriod>
+    <salary tstart="1992-05-04" tend="2016-11-30">51326</salary>
+  </employee>
+  <employee tstart="1990-12-25" tend="2016-11-30">
+    <firstname tend="9999-12-31" tstart="1990-12-25">Yinghua</firstname>
+    <lastname tend="9999-12-31" tstart="1990-12-25">Dredge</lastname>
+    <LongestPeriod>P5457D</LongestPeriod>
+    <salary tstart="1990-12-25" tend="2016-11-30">97830</salary>
+  </employee>
+  <employee tstart="1992-10-15" tend="2016-11-30">
+    <firstname tend="9999-12-31" tstart="1992-10-15">Hidefumi</firstname>
+    <lastname tend="9999-12-31" tstart="1992-10-15">Caine</lastname>
+    <LongestPeriod>P5527D</LongestPeriod>
+    <salary tstart="1992-10-15" tend="2016-11-30">64905</salary>
+  </employee>
+  <employee tstart="1997-01-31" tend="2016-11-30">
+    <firstname tend="9999-12-31" tstart="1997-01-31">Heping</firstname>
+    <lastname tend="9999-12-31" tstart="1997-01-31">Nitsch</lastname>
+    <LongestPeriod>P5418D</LongestPeriod>
+    <salary tstart="1997-01-31" tend="2016-11-30">67156</salary>
+  </employee>
+  <employee tstart="1994-11-13" tend="2016-11-30">
+    <firstname tend="9999-12-31" tstart="1994-11-13">Sanjiv</firstname>
+    <lastname tend="9999-12-31" tstart="1994-11-13">Zschoche</lastname>
+    <LongestPeriod>P5498D</LongestPeriod>
+    <salary tstart="1994-11-13" tend="2016-11-30">78478</salary>
+  </employee>
+  <employee tstart="1995-07-29" tend="2016-11-30">
+    <firstname tend="9999-12-31" tstart="1995-07-29">Mayumi</firstname>
+    <lastname tend="9999-12-31" tstart="1995-07-29">Schueller</lastname>
+    <LongestPeriod>P5240D</LongestPeriod>
+    <salary tstart="1995-07-29" tend="2016-11-30">53906</salary>
+  </employee>
+  <employee tstart="1992-04-27" tend="1995-07-22">
+    <firstname tend="1995-07-22" tstart="1992-04-27">Georgy</firstname>
+    <lastname tend="1995-07-22" tstart="1992-04-27">Dredge</lastname>
+    <LongestPeriod>P365D</LongestPeriod>
+    <salary tstart="1992-04-27" tend="1995-07-22">80024</salary>
+    <salary tstart="1992-04-27" tend="1995-07-22">83592</salary>
+    <salary tstart="1992-04-27" tend="1995-07-22">87473</salary>
+  </employee>
+  <employee tstart="1990-02-01" tend="2016-11-30">
+    <firstname tend="9999-12-31" tstart="1990-02-01">Brendon</firstname>
+    <lastname tend="9999-12-31" tstart="1990-02-01">Bernini</lastname>
+    <LongestPeriod>P5419D</LongestPeriod>
+    <salary tstart="1990-02-01" tend="2016-11-30">74722</salary>
+  </employee>
+  <employee tstart="1992-01-15" tend="2016-11-30">
+    <firstname tend="9999-12-31" tstart="1992-01-15">Ebbe</firstname>
+    <lastname tend="9999-12-31" tstart="1992-01-15">Callaway</lastname>
+    <LongestPeriod>P5436D</LongestPeriod>
+    <salary tstart="1992-01-15" tend="2016-11-30">68061</salary>
+  </employee>
+  <employee tstart="1988-04-25" tend="2016-11-30">
+    <firstname tend="9999-12-31" tstart="1988-04-25">Berhard</firstname>
+    <lastname tend="9999-12-31" tstart="1988-04-25">McFarlin</lastname>
+    <LongestPeriod>P5336D</LongestPeriod>
+    <salary tstart="1988-04-25" tend="2016-11-30">72542</salary>
+  </employee>
+  <employee tstart="1991-06-26" tend="2016-11-30">
+    <firstname tend="9999-12-31" tstart="1991-06-26">Alejandro</firstname>
+    <lastname tend="9999-12-31" tstart="1991-06-26">McAlpine</lastname>
+    <LongestPeriod>P5274D</LongestPeriod>
+    <salary tstart="1991-06-26" tend="2016-11-30">94161</salary>
+  </employee>
+  <employee tstart="1989-05-28" tend="2016-11-30">
+    <firstname tend="9999-12-31" tstart="1989-05-28">Breannda</firstname>
+    <lastname tend="9999-12-31" tstart="1989-05-28">Billingsley</lastname>
+    <LongestPeriod>P5303D</LongestPeriod>
+    <salary tstart="1989-05-28" tend="2016-11-30">93188</salary>
+  </employee>
+  <employee tstart="1989-12-02" tend="2016-11-30">
+    <firstname tend="9999-12-31" tstart="1989-12-02">Tse</firstname>
+    <lastname tend="9999-12-31" tstart="1989-12-02">Herber</lastname>
+    <LongestPeriod>P5480D</LongestPeriod>
+    <salary tstart="1989-12-02" tend="2016-11-30">97338</salary>
+  </employee>
+  <employee tstart="1991-08-30" tend="2016-11-30">
+    <firstname tend="9999-12-31" tstart="1991-08-30">Anoosh</firstname>
+    <lastname tend="9999-12-31" tstart="1991-08-30">Peyn</lastname>
+    <LongestPeriod>P5574D</LongestPeriod>
+    <salary tstart="1991-08-30" tend="2016-11-30">68559</salary>
+  </employee>
+  <employee tstart="1989-04-08" tend="2016-11-30">
+    <firstname tend="9999-12-31" tstart="1989-04-08">Gino</firstname>
+    <lastname tend="9999-12-31" tstart="1989-04-08">Leonhardt</lastname>
+    <LongestPeriod>P5354D</LongestPeriod>
+    <salary tstart="1989-04-08" tend="2016-11-30">74841</salary>
+  </employee>
+  <employee tstart="1985-11-20" tend="1992-03-02">
+    <firstname tend="1992-03-02" tstart="1985-11-20">Udi</firstname>
+    <lastname tend="1992-03-02" tstart="1985-11-20">Jansch</lastname>
+    <LongestPeriod>P365D</LongestPeriod>
+    <salary tstart="1985-11-20" tend="1992-03-02">40000</salary>
+    <salary tstart="1985-11-20" tend="1992-03-02">39551</salary>
+    <salary tstart="1985-11-20" tend="1992-03-02">41264</salary>
+    <salary tstart="1985-11-20" tend="1992-03-02">40795</salary>
+    <salary tstart="1985-11-20" tend="1992-03-02">43466</salary>
+    <salary tstart="1985-11-20" tend="1992-03-02">45895</salary>
+  </employee>
+  <employee tstart="1998-05-24" tend="2016-11-30">
+    <firstname tend="9999-12-31" tstart="1998-05-24">Satosi</firstname>
+    <lastname tend="9999-12-31" tstart="1998-05-24">Awdeh</lastname>
+    <LongestPeriod>P5305D</LongestPeriod>
+    <salary tstart="1998-05-24" tend="2016-11-30">47437</salary>
+  </employee>
+  <employee tstart="1986-02-26" tend="2016-11-30">
+    <firstname tend="9999-12-31" tstart="1986-02-26">Kwee</firstname>
+    <lastname tend="9999-12-31" tstart="1986-02-26">Schusler</lastname>
+    <LongestPeriod>P5395D</LongestPeriod>
+    <salary tstart="1986-02-26" tend="2016-11-30">103672</salary>
+  </employee>
+  <employee tstart="1987-03-04" tend="2016-11-30">
+    <firstname tend="9999-12-31" tstart="1987-03-04">Claudi</firstname>
+    <lastname tend="9999-12-31" tstart="1987-03-04">Stavenow</lastname>
+    <LongestPeriod>P5389D</LongestPeriod>
+    <salary tstart="1987-03-04" tend="2016-11-30">83254</salary>
+  </employee>
+  <employee tstart="1987-08-07" tend="2016-11-30">
+    <firstname tend="9999-12-31" tstart="1987-08-07">Charlene</firstname>
+    <lastname tend="9999-12-31" tstart="1987-08-07">Brattka</lastname>
+    <LongestPeriod>P5598D</LongestPeriod>
+    <salary tstart="1987-08-07" tend="2016-11-30">113229</salary>
+  </employee>
+  <employee tstart="1992-06-14" tend="2016-11-30">
+    <firstname tend="9999-12-31" tstart="1992-06-14">Margareta</firstname>
+    <lastname tend="9999-12-31" tstart="1992-06-14">Bierman</lastname>
+    <LongestPeriod>P5285D</LongestPeriod>
+    <salary tstart="1992-06-14" tend="2016-11-30">86641</salary>
+  </employee>
+  <employee tstart="1985-10-14" tend="2016-11-30">
+    <firstname tend="9999-12-31" tstart="1985-10-14">Reuven</firstname>
+    <lastname tend="9999-12-31" tstart="1985-10-14">Garigliano</lastname>
+    <LongestPeriod>P5530D</LongestPeriod>
+    <salary tstart="1985-10-14" tend="2016-11-30">96322</salary>
+  </employee>
+  <employee tstart="1995-08-05" tend="2016-11-30">
+    <firstname tend="9999-12-31" tstart="1995-08-05">Hisao</firstname>
+    <lastname tend="9999-12-31" tstart="1995-08-05">Lipner</lastname>
+    <LongestPeriod>P5598D</LongestPeriod>
+    <salary tstart="1995-08-05" tend="2016-11-30">53315</salary>
+  </employee>
+  <employee tstart="1989-05-21" tend="2016-11-30">
+    <firstname tend="9999-12-31" tstart="1989-05-21">Hironoby</firstname>
+    <lastname tend="9999-12-31" tstart="1989-05-21">Sidou</lastname>
+    <LongestPeriod>P5310D</LongestPeriod>
+    <salary tstart="1989-05-21" tend="2016-11-30">64512</salary>
+  </employee>
+  <employee tstart="1998-02-02" tend="1998-02-22">
+    <firstname tend="1998-02-22" tstart="1998-02-02">Shir</firstname>
+    <lastname tend="1998-02-22" tstart="1998-02-02">McClurg</lastname>
+    <LongestPeriod>P20D</LongestPeriod>
+    <salary tstart="1998-02-02" tend="1998-02-22">56473</salary>
+  </employee>
+  <employee tstart="1990-08-13" tend="2016-11-30">
+    <firstname tend="9999-12-31" tstart="1990-08-13">Mokhtar</firstname>
+    <lastname tend="9999-12-31" tstart="1990-08-13">Bernatsky</lastname>
+    <LongestPeriod>P5591D</LongestPeriod>
+    <salary tstart="1990-08-13" tend="2016-11-30">80820</salary>
+  </employee>
+  <employee tstart="1988-05-17" tend="2001-01-15">
+    <firstname tend="2001-01-15" tstart="1988-05-17">Gao</firstname>
+    <lastname tend="2001-01-15" tstart="1988-05-17">Dolinsky</lastname>
+    <LongestPeriod>P365D</LongestPeriod>
+    <salary tstart="1988-05-17" tend="2001-01-15">43815</salary>
+    <salary tstart="1988-05-17" tend="2001-01-15">43590</salary>
+    <salary tstart="1988-05-17" tend="2001-01-15">46087</salary>
+    <salary tstart="1988-05-17" tend="2001-01-15">47765</salary>
+    <salary tstart="1988-05-17" tend="2001-01-15">48606</salary>
+    <salary tstart="1988-05-17" tend="2001-01-15">49208</salary>
+    <salary tstart="1988-05-17" tend="2001-01-15">51099</salary>
+    <salary tstart="1988-05-17" tend="2001-01-15">51323</salary>
+    <salary tstart="1988-05-17" tend="2001-01-15">51238</salary>
+    <salary tstart="1988-05-17" tend="2001-01-15">55463</salary>
+    <salary tstart="1988-05-17" tend="2001-01-15">59623</salary>
+    <salary tstart="1988-05-17" tend="2001-01-15">63624</salary>
+  </employee>
+  <employee tstart="1996-07-15" tend="2016-11-30">
+    <firstname tend="9999-12-31" tstart="1996-07-15">Erez</firstname>
+    <lastname tend="9999-12-31" tstart="1996-07-15">Ritzmann</lastname>
+    <LongestPeriod>P5253D</LongestPeriod>
+    <salary tstart="1996-07-15" tend="2016-11-30">62921</salary>
+  </employee>
+  <employee tstart="1994-12-23" tend="2016-11-30">
+    <firstname tend="9999-12-31" tstart="1994-12-23">Mona</firstname>
+    <lastname tend="9999-12-31" tstart="1994-12-23">Azuma</lastname>
+    <LongestPeriod>P5458D</LongestPeriod>
+    <salary tstart="1994-12-23" tend="2016-11-30">54699</salary>
+  </employee>
+  <employee tstart="1994-09-29" tend="2016-11-30">
+    <firstname tend="9999-12-31" tstart="1994-09-29">Danel</firstname>
+    <lastname tend="9999-12-31" tstart="1994-09-29">Mondadori</lastname>
+    <LongestPeriod>P5543D</LongestPeriod>
+    <salary tstart="1994-09-29" tend="2016-11-30">54652</salary>
+  </employee>
+  <employee tstart="1995-12-13" tend="2016-11-30">
+    <firstname tend="9999-12-31" tstart="1995-12-13">Kshitij</firstname>
+    <lastname tend="9999-12-31" tstart="1995-12-13">Gils</lastname>
+    <LongestPeriod>P5468D</LongestPeriod>
+    <salary tstart="1995-12-13" tend="2016-11-30">67231</salary>
+  </employee>
+  <employee tstart="1994-09-28" tend="2016-11-30">
+    <firstname tend="9999-12-31" tstart="1994-09-28">Premal</firstname>
+    <lastname tend="9999-12-31" tstart="1994-09-28">Baek</lastname>
+    <LongestPeriod>P5544D</LongestPeriod>
+    <salary tstart="1994-09-28" tend="2016-11-30">72729</salary>
+  </employee>
+  <employee tstart="1986-10-30" tend="2016-11-30">
+    <firstname tend="9999-12-31" tstart="1986-10-30">Zhongwei</firstname>
+    <lastname tend="9999-12-31" tstart="1986-10-30">Rosen</lastname>
+    <LongestPeriod>P5514D</LongestPeriod>
+    <salary tstart="1986-10-30" tend="2016-11-30">79351</salary>
+  </employee>
+  <employee tstart="1990-01-03" tend="1990-01-15">
+    <firstname tend="1990-01-15" tstart="1990-01-03">Parviz</firstname>
+    <lastname tend="1990-01-15" tstart="1990-01-03">Lortz</lastname>
+    <LongestPeriod>P12D</LongestPeriod>
+    <salary tstart="1990-01-03" tend="1990-01-15">48935</salary>
+  </employee>
+  <employee tstart="1987-03-31" tend="2016-11-30">
+    <firstname tend="9999-12-31" tstart="1987-03-31">Vishv</firstname>
+    <lastname tend="9999-12-31" tstart="1987-03-31">Zockler</lastname>
+    <LongestPeriod>P5362D</LongestPeriod>
+    <salary tstart="1987-03-31" tend="2016-11-30">77186</salary>
+  </employee>
+  <employee tstart="1995-12-15" tend="2016-11-30">
+    <firstname tend="9999-12-31" tstart="1995-12-15">Tuval</firstname>
+    <lastname tend="9999-12-31" tstart="1995-12-15">Kalloufi</lastname>
+    <LongestPeriod>P5466D</LongestPeriod>
+    <salary tstart="1995-12-15" tend="2016-11-30">93621</salary>
+  </employee>
+  <employee tstart="1994-04-09" tend="2016-11-30">
+    <firstname tend="9999-12-31" tstart="1994-04-09">Kenroku</firstname>
+    <lastname tend="9999-12-31" tstart="1994-04-09">Malabarba</lastname>
+    <LongestPeriod>P5352D</LongestPeriod>
+    <salary tstart="1994-04-09" tend="2016-11-30">60910</salary>
+  </employee>
+  <employee tstart="1992-02-19" tend="2016-11-30">
+    <firstname tend="9999-12-31" tstart="1992-02-19">Somnath</firstname>
+    <lastname tend="9999-12-31" tstart="1992-02-19">Foote</lastname>
+    <LongestPeriod>P5401D</LongestPeriod>
+    <salary tstart="1992-02-19" tend="2016-11-30">96333</salary>
+  </employee>
+  <employee tstart="1997-05-08" tend="2001-01-09">
+    <firstname tend="2001-01-09" tstart="1997-05-08">Xinglin</firstname>
+    <lastname tend="2001-01-09" tstart="1997-05-08">Eugenio</lastname>
+    <LongestPeriod>P365D</LongestPeriod>
+    <salary tstart="1997-05-08" tend="2001-01-09">96750</salary>
+    <salary tstart="1997-05-08" tend="2001-01-09">98200</salary>
+    <salary tstart="1997-05-08" tend="2001-01-09">98460</salary>
+  </employee>
+  <employee tstart="1988-09-02" tend="2016-11-30">
+    <firstname tend="9999-12-31" tstart="1988-09-02">Jungsoon</firstname>
+    <lastname tend="9999-12-31" tstart="1988-09-02">Syrzycki</lastname>
+    <LongestPeriod>P5571D</LongestPeriod>
+    <salary tstart="1988-09-02" tend="2016-11-30">98003</salary>
+  </employee>
+  <employee tstart="1989-01-10" tend="2016-11-30">
+    <firstname tend="9999-12-31" tstart="1989-01-10">Sudharsan</firstname>
+    <lastname tend="9999-12-31" tstart="1989-01-10">Flasterstein</lastname>
+    <LongestPeriod>P5441D</LongestPeriod>
+    <salary tstart="1989-01-10" tend="2016-11-30">77955</salary>
+  </employee>
+  <employee tstart="1986-03-14" tend="1999-05-07">
+    <firstname tend="1999-05-07" tstart="1986-03-14">Kendra</firstname>
+    <lastname tend="1999-05-07" tstart="1986-03-14">Hofting</lastname>
+    <LongestPeriod>P365D</LongestPeriod>
+    <salary tstart="1986-03-14" tend="1999-05-07">44978</salary>
+    <salary tstart="1986-03-14" tend="1999-05-07">47905</salary>
+    <salary tstart="1986-03-14" tend="1999-05-07">48211</salary>
+    <salary tstart="1986-03-14" tend="1999-05-07">50694</salary>
+    <salary tstart="1986-03-14" tend="1999-05-07">54084</salary>
+    <salary tstart="1986-03-14" tend="1999-05-07">54095</salary>
+    <salary tstart="1986-03-14" tend="1999-05-07">56190</salary>
+    <salary tstart="1986-03-14" tend="1999-05-07">58604</salary>
+    <salary tstart="1986-03-14" tend="1999-05-07">61661</salary>
+    <salary tstart="1986-03-14" tend="1999-05-07">64839</salary>
+    <salary tstart="1986-03-14" tend="1999-05-07">69311</salary>
+    <salary tstart="1986-03-14" tend="1999-05-07">71274</salary>
+    <salary tstart="1986-03-14" tend="1999-05-07">71605</salary>
+  </employee>
+  <employee tstart="1992-11-18" tend="2016-11-30">
+    <firstname tend="9999-12-31" tstart="1992-11-18">Amabile</firstname>
+    <lastname tend="9999-12-31" tstart="1992-11-18">Gomatam</lastname>
+    <LongestPeriod>P5493D</LongestPeriod>
+    <salary tstart="1992-11-18" tend="2016-11-30">60014</salary>
+  </employee>
+  <employee tstart="1996-04-22" tend="2016-11-30">
+    <firstname tend="9999-12-31" tstart="1996-04-22">Valdiodio</firstname>
+    <lastname tend="9999-12-31" tstart="1996-04-22">Niizuma</lastname>
+    <LongestPeriod>P5337D</LongestPeriod>
+    <salary tstart="1996-04-22" tend="2016-11-30">66803</salary>
+  </employee>
+  <employee tstart="1997-06-08" tend="2016-11-30">
+    <firstname tend="9999-12-31" tstart="1997-06-08">Sailaja</firstname>
+    <lastname tend="9999-12-31" tstart="1997-06-08">Desikan</lastname>
+    <LongestPeriod>P5290D</LongestPeriod>
+    <salary tstart="1997-06-08" tend="2016-11-30">82715</salary>
+  </employee>
+  <employee tstart="1987-04-18" tend="1997-11-08">
+    <firstname tend="1997-11-08" tstart="1987-04-18">Arumugam</firstname>
+    <lastname tend="1997-11-08" tstart="1987-04-18">Ossenbruggen</lastname>
+    <LongestPeriod>P365D</LongestPeriod>
+    <salary tstart="1987-04-18" tend="1997-11-08">58001</salary>
+    <salary tstart="1987-04-18" tend="1997-11-08">61131</salary>
+    <salary tstart="1987-04-18" tend="1997-11-08">63147</salary>
+    <salary tstart="1987-04-18" tend="1997-11-08">66339</salary>
+    <salary tstart="1987-04-18" tend="1997-11-08">68848</salary>
+    <salary tstart="1987-04-18" tend="1997-11-08">72932</salary>
+    <salary tstart="1987-04-18" tend="1997-11-08">73585</salary>
+    <salary tstart="1987-04-18" tend="1997-11-08">73617</salary>
+    <salary tstart="1987-04-18" tend="1997-11-08">76830</salary>
+    <salary tstart="1987-04-18" tend="1997-11-08">80759</salary>
+  </employee>
+  <employee tstart="1994-03-10" tend="2016-11-30">
+    <firstname tend="9999-12-31" tstart="1994-03-10">Hilari</firstname>
+    <lastname tend="9999-12-31" tstart="1994-03-10">Morton</lastname>
+    <LongestPeriod>P5381D</LongestPeriod>
+    <salary tstart="1994-03-10" tend="2016-11-30">80955</salary>
+  </employee>
+  <employee tstart="1999-01-23" tend="2016-11-30">
+    <firstname tend="9999-12-31" tstart="1999-01-23">Jayson</firstname>
+    <lastname tend="9999-12-31" tstart="1999-01-23">Mandell</lastname>
+    <LongestPeriod>P5426D</LongestPeriod>
+    <salary tstart="1999-01-23" tend="2016-11-30">68612</salary>
+  </employee>
+  <employee tstart="1990-09-15" tend="2016-11-30">
+    <firstname tend="9999-12-31" tstart="1990-09-15">Remzi</firstname>
+    <lastname tend="9999-12-31" tstart="1990-09-15">Waschkowski</lastname>
+    <LongestPeriod>P5558D</LongestPeriod>
+    <salary tstart="1990-09-15" tend="2016-11-30">70161</salary>
+  </employee>
+  <employee tstart="1985-05-13" tend="2000-06-06">
+    <firstname tend="1992-12-11" tstart="1985-05-13">Sreekrishna</firstname>
+    <lastname tend="1992-12-11" tstart="1985-05-13">Servieres</lastname>
+    <LongestPeriod>P365D</LongestPeriod>
+    <salary tstart="1985-05-13" tend="2000-06-06">40000</salary>
+    <salary tstart="1985-05-13" tend="2000-06-06">41426</salary>
+    <salary tstart="1985-05-13" tend="2000-06-06">45147</salary>
+    <salary tstart="1985-05-13" tend="2000-06-06">48625</salary>
+    <salary tstart="1985-05-13" tend="2000-06-06">49228</salary>
+    <salary tstart="1985-05-13" tend="2000-06-06">51404</salary>
+    <salary tstart="1985-05-13" tend="2000-06-06">53646</salary>
+  </employee>
+  <employee tstart="1988-10-18" tend="2016-11-30">
+    <firstname tend="9999-12-31" tstart="1988-10-18">Valter</firstname>
+    <lastname tend="9999-12-31" tstart="1988-10-18">Sullins</lastname>
+    <LongestPeriod>P5525D</LongestPeriod>
+    <salary tstart="1988-10-18" tend="2016-11-30">98538</salary>
+  </employee>
+  <employee tstart="1987-09-21" tend="2016-11-30">
+    <firstname tend="9999-12-31" tstart="1987-09-21">Hironobu</firstname>
+    <lastname tend="9999-12-31" tstart="1987-09-21">Haraldson</lastname>
+    <LongestPeriod>P5553D</LongestPeriod>
+    <salary tstart="1987-09-21" tend="2016-11-30">74957</salary>
+  </employee>
+  <employee tstart="1998-10-14" tend="2000-09-23">
+    <firstname tend="2000-09-23" tstart="1998-10-14">Perla</firstname>
+    <lastname tend="2000-09-23" tstart="1998-10-14">Heyers</lastname>
+    <LongestPeriod>P365D</LongestPeriod>
+    <salary tstart="1998-10-14" tend="2000-09-23">66591</salary>
+  </employee>
+  <employee tstart="1995-01-02" tend="2016-11-30">
+    <firstname tend="9999-12-31" tstart="1995-01-02">Paraskevi</firstname>
+    <lastname tend="9999-12-31" tstart="1995-01-02">Luby</lastname>
+    <LongestPeriod>P5448D</LongestPeriod>
+    <salary tstart="1995-01-02" tend="2016-11-30">61059</salary>
+  </employee>
+  <employee tstart="1998-01-12" tend="2016-11-30">
+    <firstname tend="9999-12-31" tstart="1998-01-12">Akemi</firstname>
+    <lastname tend="9999-12-31" tstart="1998-01-12">Birch</lastname>
+    <LongestPeriod>P5437D</LongestPeriod>
+    <salary tstart="1998-01-12" tend="2016-11-30">80061</salary>
+  </employee>
+  <employee tstart="1987-04-16" tend="2016-11-30">
+    <firstname tend="9999-12-31" tstart="1987-04-16">Xinyu</firstname>
+    <lastname tend="9999-12-31" tstart="1987-04-16">Warwick</lastname>
+    <LongestPeriod>P5346D</LongestPeriod>
+    <salary tstart="1987-04-16" tend="2016-11-30">81788</salary>
+  </employee>
+  <employee tstart="1999-05-17" tend="2001-06-11">
+    <firstname tend="2001-06-11" tstart="1999-05-17">Hironoby</firstname>
+    <lastname tend="2001-06-11" tstart="1999-05-17">Piveteau</lastname>
+    <LongestPeriod>P365D</LongestPeriod>
+    <salary tstart="1999-05-17" tend="2001-06-11">59258</salary>
+    <salary tstart="1999-05-17" tend="2001-06-11">61514</salary>
+  </employee>
+  <employee tstart="1991-10-27" tend="2016-11-30">
+    <firstname tend="9999-12-31" tstart="1991-10-27">Eben</firstname>
+    <lastname tend="9999-12-31" tstart="1991-10-27">Aingworth</lastname>
+    <LongestPeriod>P5516D</LongestPeriod>
+    <salary tstart="1991-10-27" tend="2016-11-30">82836</salary>
+  </employee>
+  <employee tstart="1999-03-30" tend="2016-11-30">
+    <firstname tend="9999-12-31" tstart="1999-03-30">Dung</firstname>
+    <lastname tend="9999-12-31" tstart="1999-03-30">Baca</lastname>
+    <LongestPeriod>P5360D</LongestPeriod>
+    <salary tstart="1999-03-30" tend="2016-11-30">101676</salary>
+  </employee>
+  <employee tstart="1999-03-20" tend="2001-10-20">
+    <firstname tend="2001-10-20" tstart="1999-03-20">Lunjin</firstname>
+    <lastname tend="2001-10-20" tstart="1999-03-20">Giveon</lastname>
+    <LongestPeriod>P365D</LongestPeriod>
+    <salary tstart="1999-03-20" tend="2001-10-20">40000</salary>
+    <salary tstart="1999-03-20" tend="2001-10-20">42848</salary>
+  </employee>
+  <employee tstart="1993-06-16" tend="2016-11-30">
+    <firstname tend="9999-12-31" tstart="1993-06-16">Mariusz</firstname>
+    <lastname tend="9999-12-31" tstart="1993-06-16">Prampolini</lastname>
+    <LongestPeriod>P5283D</LongestPeriod>
+    <salary tstart="1993-06-16" tend="2016-11-30">52721</salary>
+  </employee>
+  <employee tstart="1986-08-22" tend="2016-11-30">
+    <firstname tend="9999-12-31" tstart="1986-08-22">Xuejia</firstname>
+    <lastname tend="9999-12-31" tstart="1986-08-22">Ullian</lastname>
+    <LongestPeriod>P5583D</LongestPeriod>
+    <salary tstart="1986-08-22" tend="2016-11-30">92842</salary>
+  </employee>
+  <employee tstart="1988-12-19" tend="2016-11-30">
+    <firstname tend="9999-12-31" tstart="1988-12-19">Hugo</firstname>
+    <lastname tend="9999-12-31" tstart="1988-12-19">Rosis</lastname>
+    <LongestPeriod>P5463D</LongestPeriod>
+    <salary tstart="1988-12-19" tend="2016-11-30">56641</salary>
+  </employee>
+  <employee tstart="1998-05-01" tend="2016-11-30">
+    <firstname tend="9999-12-31" tstart="1998-05-01">Yuichiro</firstname>
+    <lastname tend="9999-12-31" tstart="1998-05-01">Swick</lastname>
+    <LongestPeriod>P5328D</LongestPeriod>
+    <salary tstart="1998-05-01" tend="2016-11-30">61070</salary>
+  </employee>
+  <employee tstart="1998-09-14" tend="2016-11-30">
+    <firstname tend="9999-12-31" tstart="1998-09-14">Jaewon</firstname>
+    <lastname tend="9999-12-31" tstart="1998-09-14">Syrzycki</lastname>
+    <LongestPeriod>P5557D</LongestPeriod>
+    <salary tstart="1998-09-14" tend="2016-11-30">75209</salary>
+  </employee>
+  <employee tstart="1992-07-17" tend="2016-11-30">
+    <firstname tend="9999-12-31" tstart="1992-07-17">Munir</firstname>
+    <lastname tend="9999-12-31" tstart="1992-07-17">Demeyer</lastname>
+    <LongestPeriod>P5252D</LongestPeriod>
+    <salary tstart="1992-07-17" tend="2016-11-30">64083</salary>
+  </employee>
+  <employee tstart="1988-03-03" tend="1992-05-24">
+    <firstname tend="1992-05-24" tstart="1988-03-03">Chikara</firstname>
+    <lastname tend="1992-05-24" tstart="1988-03-03">Rissland</lastname>
+    <LongestPeriod>P365D</LongestPeriod>
+    <salary tstart="1988-03-03" tend="1992-05-24">40000</salary>
+    <salary tstart="1988-03-03" tend="1992-05-24">40143</salary>
+    <salary tstart="1988-03-03" tend="1992-05-24">43830</salary>
+    <salary tstart="1988-03-03" tend="1992-05-24">45032</salary>
+  </employee>
+  <employee tstart="1994-02-27" tend="1998-11-01">
+    <firstname tend="1998-11-01" tstart="1994-02-27">Dayanand</firstname>
+    <lastname tend="1998-11-01" tstart="1994-02-27">Czap</lastname>
+    <LongestPeriod>P365D</LongestPeriod>
+    <salary tstart="1994-02-27" tend="1998-11-01">44034</salary>
+    <salary tstart="1994-02-27" tend="1998-11-01">43936</salary>
+    <salary tstart="1994-02-27" tend="1998-11-01">46632</salary>
+    <salary tstart="1994-02-27" tend="1998-11-01">48596</salary>
+  </employee>
+  <employee tstart="1992-03-19" tend="2016-11-30">
+    <firstname tend="9999-12-31" tstart="1992-03-19">Kiyotoshi</firstname>
+    <lastname tend="9999-12-31" tstart="1992-03-19">Blokdijk</lastname>
+    <LongestPeriod>P5372D</LongestPeriod>
+    <salary tstart="1992-03-19" tend="2016-11-30">75936</salary>
+  </employee>
+  <employee tstart="1992-02-02" tend="2016-11-30">
+    <firstname tend="9999-12-31" tstart="1992-02-02">Zhonghui</firstname>
+    <lastname tend="9999-12-31" tstart="1992-02-02">Zyda</lastname>
+    <LongestPeriod>P5418D</LongestPeriod>
+    <salary tstart="1992-02-02" tend="2016-11-30">55284</salary>
+  </employee>
+  <employee tstart="1993-12-09" tend="1997-10-30">
+    <firstname tend="1997-10-30" tstart="1993-12-09">Domenick</firstname>
+    <lastname tend="1997-10-30" tstart="1993-12-09">Peltason</lastname>
+    <LongestPeriod>P365D</LongestPeriod>
+    <salary tstart="1993-12-09" tend="1997-10-30">53551</salary>
+    <salary tstart="1993-12-09" tend="1997-10-30">53286</salary>
+    <salary tstart="1993-12-09" tend="1997-10-30">57747</salary>
+  </employee>
+  <employee tstart="1996-07-06" tend="2016-11-30">
+    <firstname tend="9999-12-31" tstart="1996-07-06">Armond</firstname>
+    <lastname tend="9999-12-31" tstart="1996-07-06">Fairtlough</lastname>
+    <LongestPeriod>P5262D</LongestPeriod>
+    <salary tstart="1996-07-06" tend="2016-11-30">59279</salary>
+  </employee>
+  <employee tstart="1989-05-03" tend="2016-11-30">
+    <firstname tend="9999-12-31" tstart="1989-05-03">Guoxiang</firstname>
+    <lastname tend="9999-12-31" tstart="1989-05-03">Ramsay</lastname>
+    <LongestPeriod>P5328D</LongestPeriod>
+    <salary tstart="1989-05-03" tend="2016-11-30">66834</salary>
+  </employee>
+  <employee tstart="1998-08-06" tend="2016-11-30">
+    <firstname tend="9999-12-31" tstart="1998-08-06">Ohad</firstname>
+    <lastname tend="9999-12-31" tstart="1998-08-06">Esposito</lastname>
+    <LongestPeriod>P5596D</LongestPeriod>
+    <salary tstart="1998-08-06" tend="2016-11-30">48464</salary>
+  </employee>
+  <employee tstart="1993-01-15" tend="2016-11-30">
+    <firstname tend="9999-12-31" tstart="1993-01-15">Hinrich</firstname>
+    <lastname tend="9999-12-31" tstart="1993-01-15">Randi</lastname>
+    <LongestPeriod>P5435D</LongestPeriod>
+    <salary tstart="1993-01-15" tend="2016-11-30">92601</salary>
+  </employee>
+  <employee tstart="1991-09-05" tend="2016-11-30">
+    <firstname tend="9999-12-31" tstart="1991-09-05">Geraldo</firstname>
+    <lastname tend="9999-12-31" tstart="1991-09-05">Marwedel</lastname>
+    <LongestPeriod>P5568D</LongestPeriod>
+    <salary tstart="1991-09-05" tend="2016-11-30">58460</salary>
+  </employee>
+  <employee tstart="1990-10-26" tend="1996-03-25">
+    <firstname tend="1996-03-25" tstart="1990-10-26">Syozo</firstname>
+    <lastname tend="1996-03-25" tstart="1990-10-26">Hiltgen</lastname>
+    <LongestPeriod>P365D</LongestPeriod>
+    <salary tstart="1990-10-26" tend="1996-03-25">58249</salary>
+    <salary tstart="1990-10-26" tend="1996-03-25">61811</salary>
+    <salary tstart="1990-10-26" tend="1996-03-25">63463</salary>
+    <salary tstart="1990-10-26" tend="1996-03-25">66048</salary>
+    <salary tstart="1990-10-26" tend="1996-03-25">68294</salary>
+  </employee>
+  <employee tstart="1985-09-08" tend="2016-11-30">
+    <firstname tend="9999-12-31" tstart="1985-09-08">Kayoko</firstname>
+    <lastname tend="9999-12-31" tstart="1985-09-08">Valtorta</lastname>
+    <LongestPeriod>P5566D</LongestPeriod>
+    <salary tstart="1985-09-08" tend="2016-11-30">77310</salary>
+  </employee>
+  <employee tstart="1991-05-17" tend="2016-11-30">
+    <firstname tend="9999-12-31" tstart="1991-05-17">Subir</firstname>
+    <lastname tend="9999-12-31" tstart="1991-05-17">Baja</lastname>
+    <LongestPeriod>P5314D</LongestPeriod>
+    <salary tstart="1991-05-17" tend="2016-11-30">63100</salary>
+  </employee>
+  <employee tstart="1988-06-06" tend="2016-11-30">
+    <firstname tend="9999-12-31" tstart="1988-06-06">Babette</firstname>
+    <lastname tend="9999-12-31" tstart="1988-06-06">Lamba</lastname>
+    <LongestPeriod>P5294D</LongestPeriod>
+    <salary tstart="1988-06-06" tend="2016-11-30">67619</salary>
+  </employee>
+  <employee tstart="1996-01-16" tend="2016-11-30">
+    <firstname tend="9999-12-31" tstart="1996-01-16">Armond</firstname>
+    <lastname tend="9999-12-31" tstart="1996-01-16">Peir</lastname>
+    <LongestPeriod>P5434D</LongestPeriod>
+    <salary tstart="1996-01-16" tend="2016-11-30">56667</salary>
+  </employee>
+  <employee tstart="1988-06-21" tend="2016-11-30">
+    <firstname tend="9999-12-31" tstart="1988-06-21">Nishit</firstname>
+    <lastname tend="9999-12-31" tstart="1988-06-21">Casperson</lastname>
+    <LongestPeriod>P5279D</LongestPeriod>
+    <salary tstart="1988-06-21" tend="2016-11-30">73881</salary>
+  </employee>
+  <employee tstart="1999-09-17" tend="1999-12-06">
+    <firstname tend="1999-12-06" tstart="1999-09-17">Magdalena</firstname>
+    <lastname tend="1999-12-06" tstart="1999-09-17">Eldridge</lastname>
+    <LongestPeriod>P80D</LongestPeriod>
+    <salary tstart="1999-09-17" tend="1999-12-06">48475</salary>
+  </employee>
+  <employee tstart="1997-06-18" tend="2016-11-30">
+    <firstname tend="9999-12-31" tstart="1997-06-18">Ayakannu</firstname>
+    <lastname tend="9999-12-31" tstart="1997-06-18">Skrikant</lastname>
+    <LongestPeriod>P5280D</LongestPeriod>
+    <salary tstart="1997-06-18" tend="2016-11-30">69587</salary>
+  </employee>
+  <employee tstart="1985-12-15" tend="2016-11-30">
+    <firstname tend="9999-12-31" tstart="1985-12-15">Giri</firstname>
+    <lastname tend="9999-12-31" tstart="1985-12-15">Isaak</lastname>
+    <LongestPeriod>P5468D</LongestPeriod>
+    <salary tstart="1985-12-15" tend="2016-11-30">83921</salary>
+  </employee>
+  <employee tstart="1987-12-12" tend="2016-11-30">
+    <firstname tend="9999-12-31" tstart="1987-12-12">Diederik</firstname>
+    <lastname tend="9999-12-31" tstart="1987-12-12">Siprelle</lastname>
+    <LongestPeriod>P5471D</LongestPeriod>
+    <salary tstart="1987-12-12" tend="2016-11-30">69194</salary>
+  </employee>
+  <employee tstart="1990-01-04" tend="2016-11-30">
+    <firstname tend="9999-12-31" tstart="1990-01-04">Nathan</firstname>
+    <lastname tend="9999-12-31" tstart="1990-01-04">Monkewich</lastname>
+    <LongestPeriod>P5447D</LongestPeriod>
+    <salary tstart="1990-01-04" tend="2016-11-30">61301</salary>
+  </employee>
+  <employee tstart="1988-06-13" tend="1999-09-20">
+    <firstname tend="1999-09-20" tstart="1988-06-13">Zissis</firstname>
+    <lastname tend="1999-09-20" tstart="1988-06-13">Pintelas</lastname>
+    <LongestPeriod>P365D</LongestPeriod>
+    <salary tstart="1988-06-13" tend="1999-09-20">82420</salary>
+    <salary tstart="1988-06-13" tend="1999-09-20">83463</salary>
+    <salary tstart="1988-06-13" tend="1999-09-20">87813</salary>
+    <salary tstart="1988-06-13" tend="1999-09-20">91673</salary>
+    <salary tstart="1988-06-13" tend="1999-09-20">93495</salary>
+    <salary tstart="1988-06-13" tend="1999-09-20">95343</salary>
+    <salary tstart="1988-06-13" tend="1999-09-20">98154</salary>
+    <salary tstart="1988-06-13" tend="1999-09-20">97779</salary>
+    <salary tstart="1988-06-13" tend="1999-09-20">100320</salary>
+    <salary tstart="1988-06-13" tend="1999-09-20">104248</salary>
+    <salary tstart="1988-06-13" tend="1999-09-20">104909</salary>
+  </employee>
+  <employee tstart="1985-02-18" tend="2016-11-30">
+    <firstname tend="9999-12-31" tstart="1985-02-18">Maren</firstname>
+    <lastname tend="9999-12-31" tstart="1985-02-18">Hutton</lastname>
+    <LongestPeriod>P5403D</LongestPeriod>
+    <salary tstart="1985-02-18" tend="2016-11-30">67794</salary>
+  </employee>
+  <employee tstart="1992-03-03" tend="2016-11-30">
+    <firstname tend="9999-12-31" tstart="1992-03-03">Perry</firstname>
+    <lastname tend="9999-12-31" tstart="1992-03-03">Shimshoni</lastname>
+    <LongestPeriod>P5388D</LongestPeriod>
+    <salary tstart="1992-03-03" tend="2016-11-30">74875</salary>
+  </employee>
+  <employee tstart="1998-03-15" tend="2016-11-30">
+    <firstname tend="9999-12-31" tstart="1998-03-15">Ewing</firstname>
+    <lastname tend="9999-12-31" tstart="1998-03-15">Foong</lastname>
+    <LongestPeriod>P5375D</LongestPeriod>
+    <salary tstart="1998-03-15" tend="2016-11-30">50398</salary>
+  </employee>
+  <employee tstart="1991-03-14" tend="2016-11-30">
+    <firstname tend="9999-12-31" tstart="1991-03-14">Yucel</firstname>
+    <lastname tend="9999-12-31" tstart="1991-03-14">Auria</lastname>
+    <LongestPeriod>P5378D</LongestPeriod>
+    <salary tstart="1991-03-14" tend="2016-11-30">76604</salary>
+  </employee>
+  <employee tstart="1998-07-23" tend="2016-11-30">
+    <firstname tend="9999-12-31" tstart="1998-07-23">Shahaf</firstname>
+    <lastname tend="9999-12-31" tstart="1998-07-23">Ishibashi</lastname>
+    <LongestPeriod>P5245D</LongestPeriod>
+    <salary tstart="1998-07-23" tend="2016-11-30">70861</salary>
+  </employee>
+  <employee tstart="1993-10-28" tend="2016-11-30">
+    <firstname tend="9999-12-31" tstart="1993-10-28">Tzvetan</firstname>
+    <lastname tend="9999-12-31" tstart="1993-10-28">Hettesheimer</lastname>
+    <LongestPeriod>P5514D</LongestPeriod>
+    <salary tstart="1993-10-28" tend="2016-11-30">57530</salary>
+  </employee>
+  <employee tstart="1988-09-30" tend="2016-11-30">
+    <firstname tend="9999-12-31" tstart="1988-09-30">Sakthirel</firstname>
+    <lastname tend="9999-12-31" tstart="1988-09-30">Bakhtari</lastname>
+    <LongestPeriod>P5543D</LongestPeriod>
+    <salary tstart="1988-09-30" tend="2016-11-30">70351</salary>
+  </employee>
+  <employee tstart="1985-10-14" tend="1993-08-10">
+    <firstname tend="1993-08-10" tstart="1985-10-14">Marla</firstname>
+    <lastname tend="1993-08-10" tstart="1985-10-14">Brendel</lastname>
+    <LongestPeriod>P365D</LongestPeriod>
+    <salary tstart="1985-10-14" tend="1993-08-10">56720</salary>
+    <salary tstart="1985-10-14" tend="1993-08-10">60264</salary>
+    <salary tstart="1985-10-14" tend="1993-08-10">63968</salary>
+    <salary tstart="1985-10-14" tend="1993-08-10">66772</salary>
+    <salary tstart="1985-10-14" tend="1993-08-10">68160</salary>
+    <salary tstart="1985-10-14" tend="1993-08-10">71280</salary>
+    <salary tstart="1985-10-14" tend="1993-08-10">74279</salary>
+  </employee>
+  <employee tstart="1999-11-03" tend="2016-11-30">
+    <firstname tend="9999-12-31" tstart="1999-11-03">Akemi</firstname>
+    <lastname tend="9999-12-31" tstart="1999-11-03">Esposito</lastname>
+    <LongestPeriod>P5507D</LongestPeriod>
+    <salary tstart="1999-11-03" tend="2016-11-30">47519</salary>
+  </employee>
+  <employee tstart="1988-06-28" tend="1990-09-07">
+    <firstname tend="1990-09-07" tstart="1988-06-28">Chenyi</firstname>
+    <lastname tend="1990-09-07" tstart="1988-06-28">Syang</lastname>
+    <LongestPeriod>P365D</LongestPeriod>
+    <salary tstart="1988-06-28" tend="1990-09-07">60394</salary>
+    <salary tstart="1988-06-28" tend="1990-09-07">61700</salary>
+  </employee>
+  <employee tstart="1987-12-18" tend="2016-11-30">
+    <firstname tend="9999-12-31" tstart="1987-12-18">Kazuhito</firstname>
+    <lastname tend="9999-12-31" tstart="1987-12-18">Encarnacion</lastname>
+    <LongestPeriod>P5465D</LongestPeriod>
+    <salary tstart="1987-12-18" tend="2016-11-30">73690</salary>
+  </employee>
+  <employee tstart="1996-07-15" tend="2016-11-30">
+    <firstname tend="9999-12-31" tstart="1996-07-15">Douadi</firstname>
+    <lastname tend="9999-12-31" tstart="1996-07-15">Azumi</lastname>
+    <LongestPeriod>P5253D</LongestPeriod>
+    <salary tstart="1996-07-15" tend="2016-11-30">70400</salary>
+  </employee>
+  <employee tstart="1994-01-28" tend="1996-08-27">
+    <firstname tend="1996-08-27" tstart="1994-01-28">Xiadong</firstname>
+    <lastname tend="1996-08-27" tstart="1994-01-28">Perry</lastname>
+    <LongestPeriod>P365D</LongestPeriod>
+    <salary tstart="1994-01-28" tend="1996-08-27">88740</salary>
+    <salary tstart="1994-01-28" tend="1996-08-27">92773</salary>
+  </employee>
+  <employee tstart="1986-11-16" tend="2016-11-30">
+    <firstname tend="9999-12-31" tstart="1986-11-16">Zhenbing</firstname>
+    <lastname tend="9999-12-31" tstart="1986-11-16">Perng</lastname>
+    <LongestPeriod>P5497D</LongestPeriod>
+    <salary tstart="1986-11-16" tend="2016-11-30">100182</salary>
+  </employee>
+  <employee tstart="1992-12-12" tend="2016-11-30">
+    <firstname tend="9999-12-31" tstart="1992-12-12">Itzchak</firstname>
+    <lastname tend="9999-12-31" tstart="1992-12-12">Lichtner</lastname>
+    <LongestPeriod>P5469D</LongestPeriod>
+    <salary tstart="1992-12-12" tend="2016-11-30">109501</salary>
+  </employee>
+  <employee tstart="1986-01-27" tend="1987-08-03">
+    <firstname tend="1987-08-03" tstart="1986-01-27">Jaques</firstname>
+    <lastname tend="1987-08-03" tstart="1986-01-27">Munro</lastname>
+    <LongestPeriod>P365D</LongestPeriod>
+    <salary tstart="1986-01-27" tend="1987-08-03">40000</salary>
+  </employee>
+  <employee tstart="2000-01-08" tend="2016-11-30">
+    <firstname tend="9999-12-31" tstart="2000-01-08">Heekeun</firstname>
+    <lastname tend="9999-12-31" tstart="2000-01-08">Majewski</lastname>
+    <LongestPeriod>P5441D</LongestPeriod>
+    <salary tstart="2000-01-08" tend="2016-11-30">61594</salary>
+  </employee>
+  <employee tstart="1996-10-23" tend="2016-11-30">
+    <firstname tend="9999-12-31" tstart="1996-10-23">Abdulah</firstname>
+    <lastname tend="9999-12-31" tstart="1996-10-23">Thibadeau</lastname>
+    <LongestPeriod>P5518D</LongestPeriod>
+    <salary tstart="1996-10-23" tend="2016-11-30">50766</salary>
+  </employee>
+  <employee tstart="1990-01-05" tend="2016-11-30">
+    <firstname tend="9999-12-31" tstart="1990-01-05">Adas</firstname>
+    <lastname tend="9999-12-31" tstart="1990-01-05">Nastansky</lastname>
+    <LongestPeriod>P5446D</LongestPeriod>
+    <salary tstart="1990-01-05" tend="2016-11-30">66419</salary>
+  </employee>
+  <employee tstart="1993-05-14" tend="2016-11-30">
+    <firstname tend="9999-12-31" tstart="1993-05-14">Sumali</firstname>
+    <lastname tend="9999-12-31" tstart="1993-05-14">Fargier</lastname>
+    <LongestPeriod>P5316D</LongestPeriod>
+    <salary tstart="1993-05-14" tend="2016-11-30">71859</salary>
+  </employee>
+  <employee tstart="1997-12-10" tend="2016-11-30">
+    <firstname tend="9999-12-31" tstart="1997-12-10">Nigel</firstname>
+    <lastname tend="9999-12-31" tstart="1997-12-10">Aloisi</lastname>
+    <LongestPeriod>P5470D</LongestPeriod>
+    <salary tstart="1997-12-10" tend="2016-11-30">56615</salary>
+  </employee>
+  <employee tstart="1987-06-04" tend="2016-11-30">
+    <firstname tend="9999-12-31" tstart="1987-06-04">Khedija</firstname>
+    <lastname tend="9999-12-31" tstart="1987-06-04">Mitsuhashi</lastname>
+    <LongestPeriod>P5297D</LongestPeriod>
+    <salary tstart="1987-06-04" tend="2016-11-30">68624</salary>
+  </employee>
+  <employee tstart="1996-06-12" tend="2016-11-30">
+    <firstname tend="9999-12-31" tstart="1996-06-12">Serif</firstname>
+    <lastname tend="9999-12-31" tstart="1996-06-12">Buescher</lastname>
+    <LongestPeriod>P5286D</LongestPeriod>
+    <salary tstart="1996-06-12" tend="2016-11-30">56651</salary>
+  </employee>
+  <employee tstart="1993-12-06" tend="2016-11-30">
+    <firstname tend="9999-12-31" tstart="1993-12-06">Debatosh</firstname>
+    <lastname tend="9999-12-31" tstart="1993-12-06">Khasidashvili</lastname>
+    <LongestPeriod>P5475D</LongestPeriod>
+    <salary tstart="1993-12-06" tend="2016-11-30">102165</salary>
+  </employee>
+  <employee tstart="1991-06-09" tend="1994-01-05">
+    <firstname tend="1994-01-05" tstart="1991-06-09">Hairong</firstname>
+    <lastname tend="1994-01-05" tstart="1991-06-09">Mellouli</lastname>
+    <LongestPeriod>P365D</LongestPeriod>
+    <salary tstart="1991-06-09" tend="1994-01-05">43149</salary>
+    <salary tstart="1991-06-09" tend="1994-01-05">45768</salary>
+  </employee>
+  <employee tstart="1998-05-27" tend="2016-11-30">
+    <firstname tend="9999-12-31" tstart="1998-05-27">Florina</firstname>
+    <lastname tend="9999-12-31" tstart="1998-05-27">Eugenio</lastname>
+    <LongestPeriod>P5302D</LongestPeriod>
+    <salary tstart="1998-05-27" tend="2016-11-30">47464</salary>
+  </employee>
+  <employee tstart="1992-02-02" tend="2016-11-30">
+    <firstname tend="9999-12-31" tstart="1992-02-02">Karsten</firstname>
+    <lastname tend="9999-12-31" tstart="1992-02-02">Szmurlo</lastname>
+    <LongestPeriod>P5418D</LongestPeriod>
+    <salary tstart="1992-02-02" tend="2016-11-30">67661</salary>
+  </employee>
+  <employee tstart="1990-10-19" tend="2016-11-30">
+    <firstname tend="9999-12-31" tstart="1990-10-19">Jagoda</firstname>
+    <lastname tend="9999-12-31" tstart="1990-10-19">Braunmuhl</lastname>
+    <LongestPeriod>P5524D</LongestPeriod>
+    <salary tstart="1990-10-19" tend="2016-11-30">72497</salary>
+  </employee>
+  <employee tstart="1988-05-17" tend="2016-11-30">
+    <firstname tend="9999-12-31" tstart="1988-05-17">Miyeon</firstname>
+    <lastname tend="9999-12-31" tstart="1988-05-17">Macedo</lastname>
+    <LongestPeriod>P5314D</LongestPeriod>
+    <salary tstart="1988-05-17" tend="2016-11-30">79095</salary>
+  </employee>
+  <employee tstart="1996-09-02" tend="2016-11-30">
+    <firstname tend="9999-12-31" tstart="1996-09-02">Samphel</firstname>
+    <lastname tend="9999-12-31" tstart="1996-09-02">Siegrist</lastname>
+    <LongestPeriod>P5569D</LongestPeriod>
+    <salary tstart="1996-09-02" tend="2016-11-30">65632</salary>
+  </employee>
+  <employee tstart="1992-04-04" tend="2016-11-30">
+    <firstname tend="9999-12-31" tstart="1992-04-04">Duangkaew</firstname>
+    <lastname tend="9999-12-31" tstart="1992-04-04">Rassart</lastname>
+    <LongestPeriod>P5356D</LongestPeriod>
+    <salary tstart="1992-04-04" tend="2016-11-30">75147</salary>
+  </employee>
+  <employee tstart="1986-12-06" tend="2016-11-30">
+    <firstname tend="9999-12-31" tstart="1986-12-06">Dharmaraja</firstname>
+    <lastname tend="9999-12-31" tstart="1986-12-06">Stassinopoulos</lastname>
+    <LongestPeriod>P5477D</LongestPeriod>
+    <salary tstart="1986-12-06" tend="2016-11-30">76070</salary>
+  </employee>
+  <employee tstart="1998-06-28" tend="2016-11-30">
+    <firstname tend="9999-12-31" tstart="1998-06-28">Sampalli</firstname>
+    <lastname tend="9999-12-31" tstart="1998-06-28">Snedden</lastname>
+    <LongestPeriod>P5270D</LongestPeriod>
+    <salary tstart="1998-06-28" tend="2016-11-30">78611</salary>
+  </employee>
+  <employee tstart="1986-01-02" tend="1989-02-06">
+    <firstname tend="1989-02-06" tstart="1986-01-02">Kasturi</firstname>
+    <lastname tend="1989-02-06" tstart="1986-01-02">Jenevein</lastname>
+    <LongestPeriod>P365D</LongestPeriod>
+    <salary tstart="1986-01-02" tend="1989-02-06">47183</salary>
+    <salary tstart="1986-01-02" tend="1989-02-06">51521</salary>
+    <salary tstart="1986-01-02" tend="1989-02-06">51868</salary>
+  </employee>
+  <employee tstart="1996-08-05" tend="2016-11-30">
+    <firstname tend="9999-12-31" tstart="1996-08-05">Herbert</firstname>
+    <lastname tend="9999-12-31" tstart="1996-08-05">Trachtenberg</lastname>
+    <LongestPeriod>P5597D</LongestPeriod>
+    <salary tstart="1996-08-05" tend="2016-11-30">57160</salary>
+  </employee>
+  <employee tstart="1998-02-04" tend="2016-11-30">
+    <firstname tend="9999-12-31" tstart="1998-02-04">Shigeu</firstname>
+    <lastname tend="9999-12-31" tstart="1998-02-04">Matzen</lastname>
+    <LongestPeriod>P5414D</LongestPeriod>
+    <salary tstart="1998-02-04" tend="2016-11-30">42646</salary>
+  </employee>
+  <employee tstart="1992-03-21" tend="2016-11-30">
+    <firstname tend="9999-12-31" tstart="1992-03-21">Shrikanth</firstname>
+    <lastname tend="9999-12-31" tstart="1992-03-21">Mahmud</lastname>
+    <LongestPeriod>P5370D</LongestPeriod>
+    <salary tstart="1992-03-21" tend="2016-11-30">109964</salary>
+  </employee>
+  <employee tstart="1987-06-01" tend="2016-11-30">
+    <firstname tend="9999-12-31" tstart="1987-06-01">Badri</firstname>
+    <lastname tend="9999-12-31" tstart="1987-06-01">Furudate</lastname>
+    <LongestPeriod>P5300D</LongestPeriod>
+    <salary tstart="1987-06-01" tend="2016-11-30">92117</salary>
+  </employee>
+  <employee tstart="1988-09-24" tend="1995-05-24">
+    <firstname tend="1995-05-24" tstart="1988-09-24">Aleksandar</firstname>
+    <lastname tend="1995-05-24" tstart="1988-09-24">Ananiadou</lastname>
+    <LongestPeriod>P365D</LongestPeriod>
+    <salary tstart="1988-09-24" tend="1995-05-24">72285</salary>
+    <salary tstart="1988-09-24" tend="1995-05-24">72152</salary>
+    <salary tstart="1988-09-24" tend="1995-05-24">75263</salary>
+    <salary tstart="1988-09-24" tend="1995-05-24">75622</salary>
+    <salary tstart="1988-09-24" tend="1995-05-24">77844</salary>
+    <salary tstart="1988-09-24" tend="1995-05-24">80922</salary>
+  </employee>
+  <employee tstart="1994-12-22" tend="2016-11-30">
+    <firstname tend="9999-12-31" tstart="1994-12-22">Brendon</firstname>
+    <lastname tend="9999-12-31" tstart="1994-12-22">Lenart</lastname>
+    <LongestPeriod>P5459D</LongestPeriod>
+    <salary tstart="1994-12-22" tend="2016-11-30">71610</salary>
+  </employee>
+  <employee tstart="1993-02-06" tend="1994-03-17">
+    <firstname tend="1994-03-17" tstart="1993-02-06">Pragnesh</firstname>
+    <lastname tend="1994-03-17" tstart="1993-02-06">Iisaka</lastname>
+    <LongestPeriod>P365D</LongestPeriod>
+    <salary tstart="1993-02-06" tend="1994-03-17">48041</salary>
+  </employee>
+  <employee tstart="1994-03-21" tend="2016-11-30">
+    <firstname tend="9999-12-31" tstart="1994-03-21">Valery</firstname>
+    <lastname tend="9999-12-31" tstart="1994-03-21">Litvinov</lastname>
+    <LongestPeriod>P5370D</LongestPeriod>
+    <salary tstart="1994-03-21" tend="2016-11-30">61185</salary>
+  </employee>
+  <employee tstart="2000-01-25" tend="2016-11-30">
+    <firstname tend="9999-12-31" tstart="2000-01-25">Deniz</firstname>
+    <lastname tend="9999-12-31" tstart="2000-01-25">Duclos</lastname>
+    <LongestPeriod>P5424D</LongestPeriod>
+    <salary tstart="2000-01-25" tend="2016-11-30">43325</salary>
+  </employee>
+  <employee tstart="1994-07-01" tend="2016-11-30">
+    <firstname tend="9999-12-31" tstart="1994-07-01">Shaw</firstname>
+    <lastname tend="9999-12-31" tstart="1994-07-01">Wendorf</lastname>
+    <LongestPeriod>P5268D</LongestPeriod>
+    <salary tstart="1994-07-01" tend="2016-11-30">65015</salary>
+  </employee>
+  <employee tstart="1988-06-22" tend="2016-11-30">
+    <firstname tend="9999-12-31" tstart="1988-06-22">Sibyl</firstname>
+    <lastname tend="9999-12-31" tstart="1988-06-22">Nooteboom</lastname>
+    <LongestPeriod>P5278D</LongestPeriod>
+    <salary tstart="1988-06-22" tend="2016-11-30">78684</salary>
+  </employee>
+  <employee tstart="1990-09-02" tend="2016-11-30">
+    <firstname tend="9999-12-31" tstart="1990-09-02">Moriyoshi</firstname>
+    <lastname tend="9999-12-31" tstart="1990-09-02">Merey</lastname>
+    <LongestPeriod>P5571D</LongestPeriod>
+    <salary tstart="1990-09-02" tend="2016-11-30">67049</salary>
+  </employee>
+  <employee tstart="1996-08-11" tend="2016-11-30">
+    <firstname tend="9999-12-31" tstart="1996-08-11">Mechthild</firstname>
+    <lastname tend="9999-12-31" tstart="1996-08-11">Bonifati</lastname>
+    <LongestPeriod>P5591D</LongestPeriod>
+    <salary tstart="1996-08-11" tend="2016-11-30">51873</salary>
+  </employee>
+  <employee tstart="1997-12-26" tend="2016-11-30">
+    <firstname tend="9999-12-31" tstart="1997-12-26">Mihalis</firstname>
+    <lastname tend="9999-12-31" tstart="1997-12-26">Lowrie</lastname>
+    <LongestPeriod>P5454D</LongestPeriod>
+    <salary tstart="1997-12-26" tend="2016-11-30">57547</salary>
+  </employee>
+  <employee tstart="1986-03-01" tend="2016-11-30">
+    <firstname tend="9999-12-31" tstart="1986-03-01">Duro</firstname>
+    <lastname tend="9999-12-31" tstart="1986-03-01">Sidhu</lastname>
+    <LongestPeriod>P5392D</LongestPeriod>
+    <salary tstart="1986-03-01" tend="2016-11-30">104747</salary>
+  </employee>
+  <employee tstart="1996-12-25" tend="1997-08-16">
+    <firstname tend="1997-08-16" tstart="1996-12-25">Shigehito</firstname>
+    <lastname tend="1997-08-16" tstart="1996-12-25">Kropatsch</lastname>
+    <LongestPeriod>P234D</LongestPeriod>
+    <salary tstart="1996-12-25" tend="1997-08-16">40000</salary>
+  </employee>
+  <employee tstart="1991-06-01" tend="2016-11-30">
+    <firstname tend="9999-12-31" tstart="1991-06-01">Tommaso</firstname>
+    <lastname tend="9999-12-31" tstart="1991-06-01">Narwekar</lastname>
+    <LongestPeriod>P5299D</LongestPeriod>
+    <salary tstart="1991-06-01" tend="2016-11-30">90645</salary>
+  </employee>
+  <employee tstart="1987-08-27" tend="2016-11-30">
+    <firstname tend="9999-12-31" tstart="1987-08-27">Christ</firstname>
+    <lastname tend="9999-12-31" tstart="1987-08-27">Muchinsky</lastname>
+    <LongestPeriod>P5578D</LongestPeriod>
+    <salary tstart="1987-08-27" tend="2016-11-30">83455</salary>
+  </employee>
+  <employee tstart="1992-09-13" tend="1993-10-27">
+    <firstname tend="1993-06-29" tstart="1992-09-13">Khalid</firstname>
+    <lastname tend="1993-06-29" tstart="1992-09-13">Erva</lastname>
+    <LongestPeriod>P289D</LongestPeriod>
+    <salary tstart="1992-09-13" tend="1993-10-27">41222</salary>
+  </employee>
+  <employee tstart="1986-06-23" tend="2016-11-30">
+    <firstname tend="9999-12-31" tstart="1986-06-23">Arve</firstname>
+    <lastname tend="9999-12-31" tstart="1986-06-23">Fairtlough</lastname>
+    <LongestPeriod>P5278D</LongestPeriod>
+    <salary tstart="1986-06-23" tend="2016-11-30">65625</salary>
+  </employee>
+  <employee tstart="1986-04-10" tend="2016-11-30">
+    <firstname tend="9999-12-31" tstart="1986-04-10">Zdislav</firstname>
+    <lastname tend="9999-12-31" tstart="1986-04-10">Nastansky</lastname>
+    <LongestPeriod>P5353D</LongestPeriod>
+    <salary tstart="1986-04-10" tend="2016-11-30">59946</salary>
+  </employee>
+  <employee tstart="1988-06-13" tend="2016-11-30">
+    <firstname tend="9999-12-31" tstart="1988-06-13">Mohua</firstname>
+    <lastname tend="9999-12-31" tstart="1988-06-13">Falck</lastname>
+    <LongestPeriod>P5287D</LongestPeriod>
+    <salary tstart="1988-06-13" tend="2016-11-30">75141</salary>
+  </employee>
+  <employee tstart="1996-09-21" tend="2016-11-30">
+    <firstname tend="9999-12-31" tstart="1996-09-21">Masaru</firstname>
+    <lastname tend="9999-12-31" tstart="1996-09-21">Cheshire</lastname>
+    <LongestPeriod>P5550D</LongestPeriod>
+    <salary tstart="1996-09-21" tend="2016-11-30">57200</salary>
+  </employee>
+  <employee tstart="1997-02-14" tend="2016-11-30">
+    <firstname tend="9999-12-31" tstart="1997-02-14">Josyula</firstname>
+    <lastname tend="9999-12-31" tstart="1997-02-14">Hofmeyr</lastname>
+    <LongestPeriod>P5404D</LongestPeriod>
+    <salary tstart="1997-02-14" tend="2016-11-30">79131</salary>
+  </employee>
+  <employee tstart="1985-02-15" tend="2001-04-14">
+    <firstname tend="2001-04-14" tstart="1985-02-15">Annemarie</firstname>
+    <lastname tend="2001-04-14" tstart="1985-02-15">Redmiles</lastname>
+    <LongestPeriod>P365D</LongestPeriod>
+    <salary tstart="1985-02-15" tend="2001-04-14">40000</salary>
+    <salary tstart="1985-02-15" tend="2001-04-14">41640</salary>
+    <salary tstart="1985-02-15" tend="2001-04-14">44407</salary>
+    <salary tstart="1985-02-15" tend="2001-04-14">47852</salary>
+    <salary tstart="1985-02-15" tend="2001-04-14">49170</salary>
+    <salary tstart="1985-02-15" tend="2001-04-14">52462</salary>
+    <salary tstart="1985-02-15" tend="2001-04-14">56264</salary>
+    <salary tstart="1985-02-15" tend="2001-04-14">57212</salary>
+    <salary tstart="1985-02-15" tend="2001-04-14">57717</salary>
+    <salary tstart="1985-02-15" tend="2001-04-14">61065</salary>
+    <salary tstart="1985-02-15" tend="2001-04-14">63543</salary>
+    <salary tstart="1985-02-15" tend="2001-04-14">67603</salary>
+    <salary tstart="1985-02-15" tend="2001-04-14">69856</salary>
+    <salary tstart="1985-02-15" tend="2001-04-14">73495</salary>
+    <salary tstart="1985-02-15" tend="2001-04-14">73679</salary>
+    <salary tstart="1985-02-15" tend="2001-04-14">77773</salary>
+  </employee>
+  <employee tstart="1999-01-31" tend="2016-11-30">
+    <firstname tend="9999-12-31" tstart="1999-01-31">Marc</firstname>
+    <lastname tend="9999-12-31" tstart="1999-01-31">Hellwagner</lastname>
+    <LongestPeriod>P5418D</LongestPeriod>
+    <salary tstart="1999-01-31" tend="2016-11-30">92885</salary>
+  </employee>
+  <employee tstart="1994-06-28" tend="2016-11-30">
+    <firstname tend="9999-12-31" tstart="1994-06-28">Kasidit</firstname>
+    <lastname tend="9999-12-31" tstart="1994-06-28">Krzyzanowski</lastname>
+    <LongestPeriod>P5271D</LongestPeriod>
+    <salary tstart="1994-06-28" tend="2016-11-30">61807</salary>
+  </employee>
+  <employee tstart="1985-08-31" tend="2016-11-30">
+    <firstname tend="9999-12-31" tstart="1985-08-31">Pranav</firstname>
+    <lastname tend="9999-12-31" tstart="1985-08-31">Furedi</lastname>
+    <LongestPeriod>P5574D</LongestPeriod>
+    <salary tstart="1985-08-31" tend="2016-11-30">69268</salary>
+  </employee>
+  <employee tstart="1998-02-07" tend="2016-11-30">
+    <firstname tend="9999-12-31" tstart="1998-02-07">Kazuhisa</firstname>
+    <lastname tend="9999-12-31" tstart="1998-02-07">Ranta</lastname>
+    <LongestPeriod>P5411D</LongestPeriod>
+    <salary tstart="1998-02-07" tend="2016-11-30">46867</salary>
+  </employee>
+  <employee tstart="1994-02-17" tend="2016-11-30">
+    <firstname tend="9999-12-31" tstart="1994-02-17">Vidya</firstname>
+    <lastname tend="9999-12-31" tstart="1994-02-17">Awdeh</lastname>
+    <LongestPeriod>P5402D</LongestPeriod>
+    <salary tstart="1994-02-17" tend="2016-11-30">57205</salary>
+  </employee>
+  <employee tstart="1992-11-10" tend="2016-11-30">
+    <firstname tend="9999-12-31" tstart="1992-11-10">Idoia</firstname>
+    <lastname tend="9999-12-31" tstart="1992-11-10">Kavraki</lastname>
+    <LongestPeriod>P5501D</LongestPeriod>
+    <salary tstart="1992-11-10" tend="2016-11-30">57425</salary>
+  </employee>
+  <employee tstart="1991-10-06" tend="2016-11-30">
+    <firstname tend="9999-12-31" tstart="1991-10-06">Greger</firstname>
+    <lastname tend="9999-12-31" tstart="1991-10-06">Lichtner</lastname>
+    <LongestPeriod>P5537D</LongestPeriod>
+    <salary tstart="1991-10-06" tend="2016-11-30">69727</salary>
+  </employee>
+  <employee tstart="1989-04-06" tend="2016-11-30">
+    <firstname tend="9999-12-31" tstart="1989-04-06">Steen</firstname>
+    <lastname tend="9999-12-31" tstart="1989-04-06">Escriba</lastname>
+    <LongestPeriod>P5356D</LongestPeriod>
+    <salary tstart="1989-04-06" tend="2016-11-30">62458</salary>
+  </employee>
+  <employee tstart="1998-12-18" tend="1999-03-08">
+    <firstname tend="1999-03-08" tstart="1998-12-18">Nevio</firstname>
+    <lastname tend="1999-03-08" tstart="1998-12-18">Ritcey</lastname>
+    <LongestPeriod>P80D</LongestPeriod>
+    <salary tstart="1998-12-18" tend="1999-03-08">40000</salary>
+  </employee>
+  <employee tstart="1993-08-23" tend="2016-11-30">
+    <firstname tend="9999-12-31" tstart="1993-08-23">Mabhin</firstname>
+    <lastname tend="9999-12-31" tstart="1993-08-23">Leijenhorst</lastname>
+    <LongestPeriod>P5580D</LongestPeriod>
+    <salary tstart="1993-08-23" tend="2016-11-30">55157</salary>
+  </employee>
+  <employee tstart="1988-04-19" tend="2016-11-30">
+    <firstname tend="9999-12-31" tstart="1988-04-19">Alassane</firstname>
+    <lastname tend="9999-12-31" tstart="1988-04-19">Iwayama</lastname>
+    <LongestPeriod>P5342D</LongestPeriod>
+    <salary tstart="1988-04-19" tend="2016-11-30">71052</salary>
+  </employee>
+  <employee tstart="1992-10-11" tend="2016-11-30">
+    <firstname tend="9999-12-31" tstart="1992-10-11">Girolamo</firstname>
+    <lastname tend="9999-12-31" tstart="1992-10-11">Anandan</lastname>
+    <LongestPeriod>P5531D</LongestPeriod>
+    <salary tstart="1992-10-11" tend="2016-11-30">69959</salary>
+  </employee>
+  <employee tstart="1995-02-05" tend="1999-05-15">
+    <firstname tend="1999-05-15" tstart="1995-02-05">Xiping</firstname>
+    <lastname tend="1999-05-15" tstart="1995-02-05">Klerer</lastname>
+    <LongestPeriod>P365D</LongestPeriod>
+    <salary tstart="1995-02-05" tend="1999-05-15">61890</salary>
+    <salary tstart="1995-02-05" tend="1999-05-15">65728</salary>
+    <salary tstart="1995-02-05" tend="1999-05-15">66054</salary>
+    <salary tstart="1995-02-05" tend="1999-05-15">67010</salary>
+  </employee>
+  <employee tstart="1991-11-23" tend="2016-11-30">
+    <firstname tend="9999-12-31" tstart="1991-11-23">Yolla</firstname>
+    <lastname tend="9999-12-31" tstart="1991-11-23">Ellozy</lastname>
+    <LongestPeriod>P5489D</LongestPeriod>
+    <salary tstart="1991-11-23" tend="2016-11-30">70667</salary>
+  </employee>
+  <employee tstart="1996-02-24" tend="2016-11-30">
+    <firstname tend="9999-12-31" tstart="1996-02-24">Yuping</firstname>
+    <lastname tend="9999-12-31" tstart="1996-02-24">Alpin</lastname>
+    <LongestPeriod>P5395D</LongestPeriod>
+    <salary tstart="1996-02-24" tend="2016-11-30">42619</salary>
+  </employee>
+  <employee tstart="1991-11-22" tend="2016-11-30">
+    <firstname tend="9999-12-31" tstart="1991-11-22">Vishu</firstname>
+    <lastname tend="9999-12-31" tstart="1991-11-22">Strehl</lastname>
+    <LongestPeriod>P5490D</LongestPeriod>
+    <salary tstart="1991-11-22" tend="2016-11-30">64400</salary>
+  </employee>
+  <employee tstart="1996-01-28" tend="2016-11-30">
+    <firstname tend="9999-12-31" tstart="1996-01-28">Divier</firstname>
+    <lastname tend="9999-12-31" tstart="1996-01-28">Esteva</lastname>
+    <LongestPeriod>P5422D</LongestPeriod>
+    <salary tstart="1996-01-28" tend="2016-11-30">78952</salary>
+  </employee>
+  <employee tstart="1994-10-06" tend="2016-11-30">
+    <firstname tend="9999-12-31" tstart="1994-10-06">Jackson</firstname>
+    <lastname tend="9999-12-31" tstart="1994-10-06">Kakkad</lastname>
+    <LongestPeriod>P5536D</LongestPeriod>
+    <salary tstart="1994-10-06" tend="2016-11-30">50786</salary>
+  </employee>
+  <employee tstart="1988-02-29" tend="2016-11-30">
+    <firstname tend="9999-12-31" tstart="1988-02-29">Tadahiko</firstname>
+    <lastname tend="9999-12-31" tstart="1988-02-29">Ciolek</lastname>
+    <LongestPeriod>P5392D</LongestPeriod>
+    <salary tstart="1988-02-29" tend="2016-11-30">74763</salary>
+  </employee>
+  <employee tstart="1991-11-23" tend="2016-11-30">
+    <firstname tend="9999-12-31" tstart="1991-11-23">Xiaobin</firstname>
+    <lastname tend="9999-12-31" tstart="1991-11-23">Duclos</lastname>
+    <LongestPeriod>P5489D</LongestPeriod>
+    <salary tstart="1991-11-23" tend="2016-11-30">56694</salary>
+  </employee>
+  <employee tstart="1987-10-30" tend="2016-11-30">
+    <firstname tend="9999-12-31" tstart="1987-10-30">Amstein</firstname>
+    <lastname tend="9999-12-31" tstart="1987-10-30">Ghemri</lastname>
+    <LongestPeriod>P5514D</LongestPeriod>
+    <salary tstart="1987-10-30" tend="2016-11-30">65714</salary>
+  </employee>
+  <employee tstart="1986-05-12" tend="1993-08-05">
+    <firstname tend="1993-08-05" tstart="1986-05-12">Yongmin</firstname>
+    <lastname tend="1993-08-05" tstart="1986-05-12">Roison</lastname>
+    <LongestPeriod>P365D</LongestPeriod>
+    <salary tstart="1986-05-12" tend="1993-08-05">40000</salary>
+    <salary tstart="1986-05-12" tend="1993-08-05">43009</salary>
+    <salary tstart="1986-05-12" tend="1993-08-05">47355</salary>
+    <salary tstart="1986-05-12" tend="1993-08-05">51047</salary>
+    <salary tstart="1986-05-12" tend="1993-08-05">50971</salary>
+    <salary tstart="1986-05-12" tend="1993-08-05">55132</salary>
+    <salary tstart="1986-05-12" tend="1993-08-05">58118</salary>
+  </employee>
+  <employee tstart="1997-01-31" tend="2016-11-30">
+    <firstname tend="9999-12-31" tstart="1997-01-31">Zhenhua</firstname>
+    <lastname tend="9999-12-31" tstart="1997-01-31">Magalhaes</lastname>
+    <LongestPeriod>P5418D</LongestPeriod>
+    <salary tstart="1997-01-31" tend="2016-11-30">54070</salary>
+  </employee>
+  <employee tstart="1993-03-31" tend="2016-11-30">
+    <firstname tend="9999-12-31" tstart="1993-03-31">Genta</firstname>
+    <lastname tend="9999-12-31" tstart="1993-03-31">Kolvik</lastname>
+    <LongestPeriod>P5360D</LongestPeriod>
+    <salary tstart="1993-03-31" tend="2016-11-30">61354</salary>
+  </employee>
+  <employee tstart="1997-09-16" tend="2016-11-30">
+    <firstname tend="9999-12-31" tstart="1997-09-16">Kish</firstname>
+    <lastname tend="9999-12-31" tstart="1997-09-16">Fasbender</lastname>
+    <LongestPeriod>P5555D</LongestPeriod>
+    <salary tstart="1997-09-16" tend="2016-11-30">69036</salary>
+  </employee>
+  <employee tstart="1988-06-08" tend="2000-10-04">
+    <firstname tend="2000-10-04" tstart="1988-06-08">Yucai</firstname>
+    <lastname tend="2000-10-04" tstart="1988-06-08">Granlund</lastname>
+    <LongestPeriod>P365D</LongestPeriod>
+    <salary tstart="1988-06-08" tend="2000-10-04">57821</salary>
+    <salary tstart="1988-06-08" tend="2000-10-04">59803</salary>
+    <salary tstart="1988-06-08" tend="2000-10-04">59491</salary>
+    <salary tstart="1988-06-08" tend="2000-10-04">61903</salary>
+    <salary tstart="1988-06-08" tend="2000-10-04">62787</salary>
+    <salary tstart="1988-06-08" tend="2000-10-04">64157</salary>
+    <salary tstart="1988-06-08" tend="2000-10-04">66699</salary>
+    <salary tstart="1988-06-08" tend="2000-10-04">66688</salary>
+    <salary tstart="1988-06-08" tend="2000-10-04">66883</salary>
+    <salary tstart="1988-06-08" tend="2000-10-04">66818</salary>
+    <salary tstart="1988-06-08" tend="2000-10-04">69157</salary>
+    <salary tstart="1988-06-08" tend="2000-10-04">71145</salary>
+  </employee>
+  <employee tstart="1986-06-08" tend="2016-11-30">
+    <firstname tend="9999-12-31" tstart="1986-06-08">Tze</firstname>
+    <lastname tend="9999-12-31" tstart="1986-06-08">Nourani</lastname>
+    <LongestPeriod>P5293D</LongestPeriod>
+    <salary tstart="1986-06-08" tend="2016-11-30">71058</salary>
+  </employee>
+  <employee tstart="1998-04-01" tend="2016-11-30">
+    <firstname tend="9999-12-31" tstart="1998-04-01">Carrsten</firstname>
+    <lastname tend="9999-12-31" tstart="1998-04-01">Schmiedel</lastname>
+    <LongestPeriod>P5358D</LongestPeriod>
+    <salary tstart="1998-04-01" tend="2016-11-30">75358</salary>
+  </employee>
+  <employee tstart="1988-01-09" tend="2016-11-30">
+    <firstname tend="9999-12-31" tstart="1988-01-09">Leon</firstname>
+    <lastname tend="9999-12-31" tstart="1988-01-09">Trogemann</lastname>
+    <LongestPeriod>P5443D</LongestPeriod>
+    <salary tstart="1988-01-09" tend="2016-11-30">65121</salary>
+  </employee>
+  <employee tstart="1995-12-14" tend="2016-11-30">
+    <firstname tend="9999-12-31" tstart="1995-12-14">Kellie</firstname>
+    <lastname tend="9999-12-31" tstart="1995-12-14">Chinen</lastname>
+    <LongestPeriod>P5467D</LongestPeriod>
+    <salary tstart="1995-12-14" tend="2016-11-30">49969</salary>
+  </employee>
+  <employee tstart="1996-01-29" tend="2016-11-30">
+    <firstname tend="9999-12-31" tstart="1996-01-29">Xinglin</firstname>
+    <lastname tend="9999-12-31" tstart="1996-01-29">Plessier</lastname>
+    <LongestPeriod>P5421D</LongestPeriod>
+    <salary tstart="1996-01-29" tend="2016-11-30">89557</salary>
+  </employee>
+  <employee tstart="1994-11-01" tend="2016-11-30">
+    <firstname tend="9999-12-31" tstart="1994-11-01">Anneli</firstname>
+    <lastname tend="9999-12-31" tstart="1994-11-01">Kaiser</lastname>
+    <LongestPeriod>P5510D</LongestPeriod>
+    <salary tstart="1994-11-01" tend="2016-11-30">74739</salary>
+  </employee>
+  <employee tstart="1992-12-22" tend="2016-11-30">
+    <firstname tend="9999-12-31" tstart="1992-12-22">Karoline</firstname>
+    <lastname tend="9999-12-31" tstart="1992-12-22">Cesareni</lastname>
+    <LongestPeriod>P5459D</LongestPeriod>
+    <salary tstart="1992-12-22" tend="2016-11-30">96062</salary>
+  </employee>
+  <employee tstart="1996-02-20" tend="2000-06-30">
+    <firstname tend="2000-06-30" tstart="1996-02-20">Ulises</firstname>
+    <lastname tend="2000-06-30" tstart="1996-02-20">Takanami</lastname>
+    <LongestPeriod>P365D</LongestPeriod>
+    <salary tstart="1996-02-20" tend="2000-06-30">58321</salary>
+    <salary tstart="1996-02-20" tend="2000-06-30">61368</salary>
+    <salary tstart="1996-02-20" tend="2000-06-30">62587</salary>
+    <salary tstart="1996-02-20" tend="2000-06-30">64755</salary>
+  </employee>
+  <employee tstart="1996-06-16" tend="2016-11-30">
+    <firstname tend="9999-12-31" tstart="1996-06-16">Clyde</firstname>
+    <lastname tend="9999-12-31" tstart="1996-06-16">Vernadat</lastname>
+    <LongestPeriod>P5282D</LongestPeriod>
+    <salary tstart="1996-06-16" tend="2016-11-30">61667</salary>
+  </employee>
+  <employee tstart="1998-09-09" tend="2016-11-30">
+    <firstname tend="9999-12-31" tstart="1998-09-09">Shaowen</firstname>
+    <lastname tend="9999-12-31" tstart="1998-09-09">Desikan</lastname>
+    <LongestPeriod>P5562D</LongestPeriod>
+    <salary tstart="1998-09-09" tend="2016-11-30">43682</salary>
+  </employee>
+  <employee tstart="1992-06-04" tend="2016-11-30">
+    <firstname tend="9999-12-31" tstart="1992-06-04">Marko</firstname>
+    <lastname tend="9999-12-31" tstart="1992-06-04">Auria</lastname>
+    <LongestPeriod>P5295D</LongestPeriod>
+    <salary tstart="1992-06-04" tend="2016-11-30">104656</salary>
+  </employee>
+  <employee tstart="1994-04-29" tend="2016-11-30">
+    <firstname tend="9999-12-31" tstart="1994-04-29">Lein</firstname>
+    <lastname tend="9999-12-31" tstart="1994-04-29">Vendrig</lastname>
+    <LongestPeriod>P5331D</LongestPeriod>
+    <salary tstart="1994-04-29" tend="2016-11-30">49236</salary>
+  </employee>
+  <employee tstart="1990-11-19" tend="1999-08-06">
+    <firstname tend="1999-08-06" tstart="1990-11-19">Arunachalam</firstname>
+    <lastname tend="1999-08-06" tstart="1990-11-19">Bakhtari</lastname>
+    <LongestPeriod>P365D</LongestPeriod>
+    <salary tstart="1990-11-19" tend="1999-08-06">84584</salary>
+    <salary tstart="1990-11-19" tend="1999-08-06">85768</salary>
+    <salary tstart="1990-11-19" tend="1999-08-06">87361</salary>
+    <salary tstart="1990-11-19" tend="1999-08-06">90986</salary>
+    <salary tstart="1990-11-19" tend="1999-08-06">93052</salary>
+    <salary tstart="1990-11-19" tend="1999-08-06">96269</salary>
+    <salary tstart="1990-11-19" tend="1999-08-06">96294</salary>
+    <salary tstart="1990-11-19" tend="1999-08-06">100366</salary>
+  </employee>
+  <employee tstart="1995-04-06" tend="2016-11-30">
+    <firstname tend="9999-12-31" tstart="1995-04-06">Susanta</firstname>
+    <lastname tend="9999-12-31" tstart="1995-04-06">Roccetti</lastname>
+    <LongestPeriod>P5355D</LongestPeriod>
+    <salary tstart="1995-04-06" tend="2016-11-30">57532</salary>
+  </employee>
+  <employee tstart="1996-08-30" tend="2016-11-30">
+    <firstname tend="9999-12-31" tstart="1996-08-30">Susumu</firstname>
+    <lastname tend="9999-12-31" tstart="1996-08-30">Bade</lastname>
+    <LongestPeriod>P5572D</LongestPeriod>
+    <salary tstart="1996-08-30" tend="2016-11-30">92118</salary>
+  </employee>
+  <employee tstart="1989-08-11" tend="2000-02-21">
+    <firstname tend="2000-02-21" tstart="1989-08-11">Yannis</firstname>
+    <lastname tend="2000-02-21" tstart="1989-08-11">Mandell</lastname>
+    <LongestPeriod>P365D</LongestPeriod>
+    <salary tstart="1989-08-11" tend="2000-02-21">100715</salary>
+    <salary tstart="1989-08-11" tend="2000-02-21">104925</salary>
+    <salary tstart="1989-08-11" tend="2000-02-21">106126</salary>
+    <salary tstart="1989-08-11" tend="2000-02-21">106071</salary>
+    <salary tstart="1989-08-11" tend="2000-02-21">108816</salary>
+    <salary tstart="1989-08-11" tend="2000-02-21">112892</salary>
+    <salary tstart="1989-08-11" tend="2000-02-21">117295</salary>
+    <salary tstart="1989-08-11" tend="2000-02-21">118419</salary>
+    <salary tstart="1989-08-11" tend="2000-02-21">118656</salary>
+    <salary tstart="1989-08-11" tend="2000-02-21">122275</salary>
+  </employee>
+  <employee tstart="1995-03-31" tend="2016-11-30">
+    <firstname tend="9999-12-31" tstart="1995-03-31">Mototsugu</firstname>
+    <lastname tend="9999-12-31" tstart="1995-03-31">Gire</lastname>
+    <LongestPeriod>P5360D</LongestPeriod>
+    <salary tstart="1995-03-31" tend="2016-11-30">67630</salary>
+  </employee>
+  <employee tstart="1996-05-04" tend="2016-11-30">
+    <firstname tend="9999-12-31" tstart="1996-05-04">Nikolaos</firstname>
+    <lastname tend="9999-12-31" tstart="1996-05-04">Llado</lastname>
+    <LongestPeriod>P5325D</LongestPeriod>
+    <salary tstart="1996-05-04" tend="2016-11-30">82905</salary>
+  </employee>
+  <employee tstart="1998-10-06" tend="2016-11-30">
+    <firstname tend="9999-12-31" tstart="1998-10-06">Remko</firstname>
+    <lastname tend="9999-12-31" tstart="1998-10-06">Maccarone</lastname>
+    <LongestPeriod>P5535D</LongestPeriod>
+    <salary tstart="1998-10-06" tend="2016-11-30">77906</salary>
+  </employee>
+  <employee tstart="1988-06-12" tend="2016-11-30">
+    <firstname tend="9999-12-31" tstart="1988-06-12">Ortrud</firstname>
+    <lastname tend="9999-12-31" tstart="1988-06-12">Murillo</lastname>
+    <LongestPeriod>P5288D</LongestPeriod>
+    <salary tstart="1988-06-12" tend="2016-11-30">65069</salary>
+  </employee>
+  <employee tstart="1988-01-18" tend="2016-11-30">
+    <firstname tend="9999-12-31" tstart="1988-01-18">Lunjin</firstname>
+    <lastname tend="9999-12-31" tstart="1988-01-18">Ozeri</lastname>
+    <LongestPeriod>P5434D</LongestPeriod>
+    <salary tstart="1988-01-18" tend="2016-11-30">69619</salary>
+  </employee>
+  <employee tstart="1986-06-07" tend="2016-11-30">
+    <firstname tend="9999-12-31" tstart="1986-06-07">Wonhee</firstname>
+    <lastname tend="9999-12-31" tstart="1986-06-07">Pouyioutas</lastname>
+    <LongestPeriod>P5294D</LongestPeriod>
+    <salary tstart="1986-06-07" tend="2016-11-30">90542</salary>
+  </employee>
+  <employee tstart="1999-09-16" tend="2016-11-30">
+    <firstname tend="9999-12-31" tstart="1999-09-16">Foong</firstname>
+    <lastname tend="9999-12-31" tstart="1999-09-16">Flasterstein</lastname>
+    <LongestPeriod>P5555D</LongestPeriod>
+    <salary tstart="1999-09-16" tend="2016-11-30">63041</salary>
+  </employee>
+  <employee tstart="1994-04-21" tend="1995-02-20">
+    <firstname tend="1995-02-20" tstart="1994-04-21">Ramalingam</firstname>
+    <lastname tend="1995-02-20" tstart="1994-04-21">Gente</lastname>
+    <LongestPeriod>P305D</LongestPeriod>
+    <salary tstart="1994-04-21" tend="1995-02-20">40000</salary>
+  </employee>
+  <employee tstart="1991-02-01" tend="2016-11-30">
+    <firstname tend="9999-12-31" tstart="1991-02-01">Basem</firstname>
+    <lastname tend="9999-12-31" tstart="1991-02-01">Teitelbaum</lastname>
+    <LongestPeriod>P5419D</LongestPeriod>
+    <salary tstart="1991-02-01" tend="2016-11-30">67906</salary>
+  </employee>
+  <employee tstart="1992-08-14" tend="2016-11-30">
+    <firstname tend="9999-12-31" tstart="1992-08-14">Heon</firstname>
+    <lastname tend="9999-12-31" tstart="1992-08-14">Riefers</lastname>
+    <LongestPeriod>P5589D</LongestPeriod>
+    <salary tstart="1992-08-14" tend="2016-11-30">56935</salary>
+  </employee>
+  <employee tstart="1991-08-13" tend="2016-11-30">
+    <firstname tend="9999-12-31" tstart="1991-08-13">Frederique</firstname>
+    <lastname tend="9999-12-31" tstart="1991-08-13">Tempesti</lastname>
+    <LongestPeriod>P5591D</LongestPeriod>
+    <salary tstart="1991-08-13" tend="2016-11-30">77848</salary>
+  </employee>
+  <employee tstart="1991-12-08" tend="2016-11-30">
+    <firstname tend="9999-12-31" tstart="1991-12-08">Marie</firstname>
+    <lastname tend="9999-12-31" tstart="1991-12-08">Boreale</lastname>
+    <LongestPeriod>P5474D</LongestPeriod>
+    <salary tstart="1991-12-08" tend="2016-11-30">85676</salary>
+  </employee>
+  <employee tstart="1992-08-30" tend="2016-11-30">
+    <firstname tend="9999-12-31" tstart="1992-08-30">Serap</firstname>
+    <lastname tend="9999-12-31" tstart="1992-08-30">Etalle</lastname>
+    <LongestPeriod>P5573D</LongestPeriod>
+    <salary tstart="1992-08-30" tend="2016-11-30">65617</salary>
+  </employee>
+  <employee tstart="1992-06-25" tend="2016-11-30">
+    <firstname tend="9999-12-31" tstart="1992-06-25">Alair</firstname>
+    <lastname tend="9999-12-31" tstart="1992-06-25">Rosenbaum</lastname>
+    <LongestPeriod>P5274D</LongestPeriod>
+    <salary tstart="1992-06-25" tend="2016-11-30">88948</salary>
+  </employee>
+  <employee tstart="1990-11-08" tend="2016-11-30">
+    <firstname tend="9999-12-31" tstart="1990-11-08">Shirish</firstname>
+    <lastname tend="9999-12-31" tstart="1990-11-08">Wegerle</lastname>
+    <LongestPeriod>P5504D</LongestPeriod>
+    <salary tstart="1990-11-08" tend="2016-11-30">55435</salary>
+  </employee>
+  <employee tstart="1985-02-21" tend="1994-03-20">
+    <firstname tend="1994-03-20" tstart="1985-02-21">Zsolt</firstname>
+    <lastname tend="1994-03-20" tstart="1985-02-21">Salinas</lastname>
+    <LongestPeriod>P365D</LongestPeriod>
+    <salary tstart="1985-02-21" tend="1994-03-20">62494</salary>
+    <salary tstart="1985-02-21" tend="1994-03-20">65782</salary>
+    <salary tstart="1985-02-21" tend="1994-03-20">67819</salary>
+    <salary tstart="1985-02-21" tend="1994-03-20">67718</salary>
+    <salary tstart="1985-02-21" tend="1994-03-20">71769</salary>
+    <salary tstart="1985-02-21" tend="1994-03-20">73550</salary>
+    <salary tstart="1985-02-21" tend="1994-03-20">76110</salary>
+    <salary tstart="1985-02-21" tend="1994-03-20">80522</salary>
+    <salary tstart="1985-02-21" tend="1994-03-20">81699</salary>
+  </employee>
+  <employee tstart="1990-06-14" tend="2016-11-30">
+    <firstname tend="9999-12-31" tstart="1990-06-14">Shen</firstname>
+    <lastname tend="9999-12-31" tstart="1990-06-14">Brattka</lastname>
+    <LongestPeriod>P5286D</LongestPeriod>
+    <salary tstart="1990-06-14" tend="2016-11-30">85691</salary>
+  </employee>
+  <employee tstart="1993-05-12" tend="1999-11-14">
+    <firstname tend="1999-11-14" tstart="1993-05-12">Roddy</firstname>
+    <lastname tend="1999-11-14" tstart="1993-05-12">Garnick</lastname>
+    <LongestPeriod>P365D</LongestPeriod>
+    <salary tstart="1993-05-12" tend="1999-11-14">63822</salary>
+    <salary tstart="1993-05-12" tend="1999-11-14">64558</salary>
+    <salary tstart="1993-05-12" tend="1999-11-14">64411</salary>
+    <salary tstart="1993-05-12" tend="1999-11-14">66651</salary>
+    <salary tstart="1993-05-12" tend="1999-11-14">71109</salary>
+    <salary tstart="1993-05-12" tend="1999-11-14">71173</salary>
+  </employee>
+  <employee tstart="1985-10-12" tend="2016-11-30">
+    <firstname tend="9999-12-31" tstart="1985-10-12">Irene</firstname>
+    <lastname tend="9999-12-31" tstart="1985-10-12">Radhakrishnan</lastname>
+    <LongestPeriod>P5532D</LongestPeriod>
+    <salary tstart="1985-10-12" tend="2016-11-30">109040</salary>
+  </employee>
+  <employee tstart="1997-07-16" tend="2016-11-30">
+    <firstname tend="9999-12-31" tstart="1997-07-16">Aiman</firstname>
+    <lastname tend="9999-12-31" tstart="1997-07-16">Riexinger</lastname>
+    <LongestPeriod>P5252D</LongestPeriod>
+    <salary tstart="1997-07-16" tend="2016-11-30">52114</salary>
+  </employee>
+  <employee tstart="1985-05-17" tend="2016-11-30">
+    <firstname tend="9999-12-31" tstart="1985-05-17">Basil</firstname>
+    <lastname tend="9999-12-31" tstart="1985-05-17">Ishibashi</lastname>
+    <LongestPeriod>P5315D</LongestPeriod>
+    <salary tstart="1985-05-17" tend="2016-11-30">110212</salary>
+  </employee>
+  <employee tstart="1987-07-25" tend="1999-01-06">
+    <firstname tend="1999-01-06" tstart="1987-07-25">Susanna</firstname>
+    <lastname tend="1999-01-06" tstart="1987-07-25">Vesel</lastname>
+    <LongestPeriod>P365D</LongestPeriod>
+    <salary tstart="1987-07-25" tend="1999-01-06">88991</salary>
+    <salary tstart="1987-07-25" tend="1999-01-06">90386</salary>
+    <salary tstart="1987-07-25" tend="1999-01-06">91690</salary>
+    <salary tstart="1987-07-25" tend="1999-01-06">93760</salary>
+    <salary tstart="1987-07-25" tend="1999-01-06">94623</salary>
+    <salary tstart="1987-07-25" tend="1999-01-06">95258</salary>
+    <salary tstart="1987-07-25" tend="1999-01-06">95769</salary>
+    <salary tstart="1987-07-25" tend="1999-01-06">95745</salary>
+    <salary tstart="1987-07-25" tend="1999-01-06">98799</salary>
+    <salary tstart="1987-07-25" tend="1999-01-06">101723</salary>
+    <salary tstart="1987-07-25" tend="1999-01-06">103794</salary>
+  </employee>
+  <employee tstart="1993-02-01" tend="2016-11-30">
+    <firstname tend="9999-12-31" tstart="1993-02-01">Alper</firstname>
+    <lastname tend="9999-12-31" tstart="1993-02-01">Suomi</lastname>
+    <LongestPeriod>P5418D</LongestPeriod>
+    <salary tstart="1993-02-01" tend="2016-11-30">76081</salary>
+  </employee>
+  <employee tstart="1996-09-11" tend="1999-02-23">
+    <firstname tend="1999-02-23" tstart="1996-09-11">Mang</firstname>
+    <lastname tend="1999-02-23" tstart="1996-09-11">Erie</lastname>
+    <LongestPeriod>P365D</LongestPeriod>
+    <salary tstart="1996-09-11" tend="1999-02-23">40000</salary>
+    <salary tstart="1996-09-11" tend="1999-02-23">42298</salary>
+  </employee>
+  <employee tstart="1996-01-22" tend="2016-11-30">
+    <firstname tend="9999-12-31" tstart="1996-01-22">Mahendra</firstname>
+    <lastname tend="9999-12-31" tstart="1996-01-22">Maraist</lastname>
+    <LongestPeriod>P5428D</LongestPeriod>
+    <salary tstart="1996-01-22" tend="2016-11-30">77648</salary>
+  </employee>
+  <employee tstart="1996-12-21" tend="2016-11-30">
+    <firstname tend="9999-12-31" tstart="1996-12-21">Takahiro</firstname>
+    <lastname tend="9999-12-31" tstart="1996-12-21">Waterhouse</lastname>
+    <LongestPeriod>P5459D</LongestPeriod>
+    <salary tstart="1996-12-21" tend="2016-11-30">73625</salary>
+  </employee>
+  <employee tstart="1997-07-16" tend="2016-11-30">
+    <firstname tend="9999-12-31" tstart="1997-07-16">Nalini</firstname>
+    <lastname tend="9999-12-31" tstart="1997-07-16">Kawashimo</lastname>
+    <LongestPeriod>P5252D</LongestPeriod>
+    <salary tstart="1997-07-16" tend="2016-11-30">66168</salary>
+  </employee>
+  <employee tstart="1997-09-12" tend="2016-11-30">
+    <firstname tend="9999-12-31" tstart="1997-09-12">Ramalingam</firstname>
+    <lastname tend="9999-12-31" tstart="1997-09-12">Muniz</lastname>
+    <LongestPeriod>P5559D</LongestPeriod>
+    <salary tstart="1997-09-12" tend="2016-11-30">52083</salary>
+  </employee>
+  <employee tstart="1990-05-25" tend="2016-11-30">
+    <firstname tend="9999-12-31" tstart="1990-05-25">Sukumar</firstname>
+    <lastname tend="9999-12-31" tstart="1990-05-25">Rassart</lastname>
+    <LongestPeriod>P5306D</LongestPeriod>
+    <salary tstart="1990-05-25" tend="2016-11-30">81099</salary>
+  </employee>
+  <employee tstart="1997-04-26" tend="2016-11-30">
+    <firstname tend="9999-12-31" tstart="1997-04-26">Shaunak</firstname>
+    <lastname tend="9999-12-31" tstart="1997-04-26">Cullers</lastname>
+    <LongestPeriod>P5333D</LongestPeriod>
+    <salary tstart="1997-04-26" tend="2016-11-30">43842</salary>
+  </employee>
+  <employee tstart="1986-12-17" tend="1990-08-17">
+    <firstname tend="1990-08-17" tstart="1986-12-17">Nishit</firstname>
+    <lastname tend="1990-08-17" tstart="1986-12-17">Siochi</lastname>
+    <LongestPeriod>P365D</LongestPeriod>
+    <salary tstart="1986-12-17" tend="1990-08-17">41017</salary>
+    <salary tstart="1986-12-17" tend="1990-08-17">44792</salary>
+    <salary tstart="1986-12-17" tend="1990-08-17">48119</salary>
+  </employee>
+  <employee tstart="1988-07-24" tend="2016-11-30">
+    <firstname tend="9999-12-31" tstart="1988-07-24">Taizo</firstname>
+    <lastname tend="9999-12-31" tstart="1988-07-24">Oxman</lastname>
+    <LongestPeriod>P5246D</LongestPeriod>
+    <salary tstart="1988-07-24" tend="2016-11-30">61759</salary>
+  </employee>
+  <employee tstart="1991-09-26" tend="2016-11-30">
+    <firstname tend="9999-12-31" tstart="1991-09-26">Bedir</firstname>
+    <lastname tend="9999-12-31" tstart="1991-09-26">Hartvigsen</lastname>
+    <LongestPeriod>P5547D</LongestPeriod>
+    <salary tstart="1991-09-26" tend="2016-11-30">57784</salary>
+  </employee>
+  <employee tstart="1986-05-23" tend="2016-11-30">
+    <firstname tend="9999-12-31" tstart="1986-05-23">Sham</firstname>
+    <lastname tend="9999-12-31" tstart="1986-05-23">Eastman</lastname>
+    <LongestPeriod>P5309D</LongestPeriod>
+    <salary tstart="1986-05-23" tend="2016-11-30">91010</salary>
+  </employee>
+  <employee tstart="1997-10-23" tend="2016-11-30">
+    <firstname tend="9999-12-31" tstart="1997-10-23">Yishai</firstname>
+    <lastname tend="9999-12-31" tstart="1997-10-23">Cannane</lastname>
+    <LongestPeriod>P5518D</LongestPeriod>
+    <salary tstart="1997-10-23" tend="2016-11-30">67888</salary>
+  </employee>
+  <employee tstart="1985-11-06" tend="2016-11-30">
+    <firstname tend="9999-12-31" tstart="1985-11-06">Baocai</firstname>
+    <lastname tend="9999-12-31" tstart="1985-11-06">Lieblein</lastname>
+    <LongestPeriod>P5507D</LongestPeriod>
+    <salary tstart="1985-11-06" tend="2016-11-30">93350</salary>
+  </employee>
+  <employee tstart="1997-02-02" tend="2016-11-30">
+    <firstname tend="9999-12-31" tstart="1997-02-02">Dmitri</firstname>
+    <lastname tend="9999-12-31" tstart="1997-02-02">Pearson</lastname>
+    <LongestPeriod>P5416D</LongestPeriod>
+    <salary tstart="1997-02-02" tend="2016-11-30">97449</salary>
+  </employee>
+  <employee tstart="1987-09-08" tend="2016-11-30">
+    <firstname tend="9999-12-31" tstart="1987-09-08">Marek</firstname>
+    <lastname tend="9999-12-31" tstart="1987-09-08">Luck</lastname>
+    <LongestPeriod>P5566D</LongestPeriod>
+    <salary tstart="1987-09-08" tend="2016-11-30">68583</salary>
+  </employee>
+  <employee tstart="1986-10-19" tend="2000-02-04">
+    <firstname tend="2000-02-04" tstart="1986-10-19">Xuejun</firstname>
+    <lastname tend="2000-02-04" tstart="1986-10-19">Hempstead</lastname>
+    <LongestPeriod>P365D</LongestPeriod>
+    <salary tstart="1986-10-19" tend="2000-02-04">40000</salary>
+    <salary tstart="1986-10-19" tend="2000-02-04">42312</salary>
+    <salary tstart="1986-10-19" tend="2000-02-04">43682</salary>
+    <salary tstart="1986-10-19" tend="2000-02-04">47643</salary>
+    <salary tstart="1986-10-19" tend="2000-02-04">47841</salary>
+    <salary tstart="1986-10-19" tend="2000-02-04">51098</salary>
+    <salary tstart="1986-10-19" tend="2000-02-04">52055</salary>
+    <salary tstart="1986-10-19" tend="2000-02-04">51681</salary>
+    <salary tstart="1986-10-19" tend="2000-02-04">51565</salary>
+    <salary tstart="1986-10-19" tend="2000-02-04">51465</salary>
+    <salary tstart="1986-10-19" tend="2000-02-04">51264</salary>
+    <salary tstart="1986-10-19" tend="2000-02-04">51308</salary>
+    <salary tstart="1986-10-19" tend="2000-02-04">55189</salary>
+  </employee>
+  <employee tstart="1985-06-16" tend="2016-11-30">
+    <firstname tend="9999-12-31" tstart="1985-06-16">Isaac</firstname>
+    <lastname tend="9999-12-31" tstart="1985-06-16">Schwartzbauer</lastname>
+    <LongestPeriod>P5285D</LongestPeriod>
+    <salary tstart="1985-06-16" tend="2016-11-30">91882</salary>
+  </employee>
+  <employee tstart="1993-07-02" tend="1997-02-14">
+    <firstname tend="1997-02-14" tstart="1993-07-02">Lubomir</firstname>
+    <lastname tend="1997-02-14" tstart="1993-07-02">Nitsch</lastname>
+    <LongestPeriod>P365D</LongestPeriod>
+    <salary tstart="1993-07-02" tend="1997-02-14">51703</salary>
+    <salary tstart="1993-07-02" tend="1997-02-14">53970</salary>
+    <salary tstart="1993-07-02" tend="1997-02-14">57292</salary>
+  </employee>
+  <employee tstart="1995-04-26" tend="2016-11-30">
+    <firstname tend="9999-12-31" tstart="1995-04-26">Barton</firstname>
+    <lastname tend="9999-12-31" tstart="1995-04-26">Jumpertz</lastname>
+    <LongestPeriod>P5334D</LongestPeriod>
+    <salary tstart="1995-04-26" tend="2016-11-30">55385</salary>
+  </employee>
+  <employee tstart="1995-01-27" tend="2016-11-30">
+    <firstname tend="9999-12-31" tstart="1995-01-27">Stabislas</firstname>
+    <lastname tend="9999-12-31" tstart="1995-01-27">Delgrange</lastname>
+    <LongestPeriod>P5423D</LongestPeriod>
+    <salary tstart="1995-01-27" tend="2016-11-30">80485</salary>
+  </employee>
+  <employee tstart="1994-12-03" tend="2016-11-30">
+    <firstname tend="9999-12-31" tstart="1994-12-03">Moty</firstname>
+    <lastname tend="9999-12-31" tstart="1994-12-03">Kusakari</lastname>
+    <LongestPeriod>P5478D</LongestPeriod>
+    <salary tstart="1994-12-03" tend="2016-11-30">63400</salary>
+  </employee>
+  <employee tstart="1996-05-02" tend="2016-11-30">
+    <firstname tend="9999-12-31" tstart="1996-05-02">Hercules</firstname>
+    <lastname tend="9999-12-31" tstart="1996-05-02">Benzmuller</lastname>
+    <LongestPeriod>P5327D</LongestPeriod>
+    <salary tstart="1996-05-02" tend="2016-11-30">47506</salary>
+  </employee>
+  <employee tstart="1988-05-25" tend="2016-11-30">
+    <firstname tend="9999-12-31" tstart="1988-05-25">Kauko</firstname>
+    <lastname tend="9999-12-31" tstart="1988-05-25">Birjandi</lastname>
+    <LongestPeriod>P5306D</LongestPeriod>
+    <salary tstart="1988-05-25" tend="2016-11-30">61686</salary>
+  </employee>
+  <employee tstart="1999-07-06" tend="2016-11-30">
+    <firstname tend="9999-12-31" tstart="1999-07-06">Masali</firstname>
+    <lastname tend="9999-12-31" tstart="1999-07-06">Murrill</lastname>
+    <LongestPeriod>P5262D</LongestPeriod>
+    <salary tstart="1999-07-06" tend="2016-11-30">46017</salary>
+  </employee>
+  <employee tstart="1995-05-25" tend="2016-11-30">
+    <firstname tend="9999-12-31" tstart="1995-05-25">Zhonghui</firstname>
+    <lastname tend="9999-12-31" tstart="1995-05-25">Preusig</lastname>
+    <LongestPeriod>P5305D</LongestPeriod>
+    <salary tstart="1995-05-25" tend="2016-11-30">76312</salary>
+  </employee>
+  <employee tstart="1994-12-24" tend="2000-07-10">
+    <firstname tend="1999-01-24" tstart="1994-12-24">Saddek</firstname>
+    <lastname tend="1999-01-24" tstart="1994-12-24">Gopalakrishnan</lastname>
+    <LongestPeriod>P365D</LongestPeriod>
+    <salary tstart="1994-12-24" tend="2000-07-10">40000</salary>
+    <salary tstart="1994-12-24" tend="2000-07-10">41307</salary>
+    <salary tstart="1994-12-24" tend="2000-07-10">45279</salary>
+    <salary tstart="1994-12-24" tend="2000-07-10">46541</salary>
+  </employee>
+  <employee tstart="1992-12-28" tend="2016-11-30">
+    <firstname tend="9999-12-31" tstart="1992-12-28">Marie</firstname>
+    <lastname tend="9999-12-31" tstart="1992-12-28">Pietracaprina</lastname>
+    <LongestPeriod>P5453D</LongestPeriod>
+    <salary tstart="1992-12-28" tend="2016-11-30">79615</salary>
+  </employee>
+  <employee tstart="1994-08-29" tend="2016-11-30">
+    <firstname tend="9999-12-31" tstart="1994-08-29">Selwyn</firstname>
+    <lastname tend="9999-12-31" tstart="1994-08-29">Perri</lastname>
+    <LongestPeriod>P5574D</LongestPeriod>
+    <salary tstart="1994-08-29" tend="2016-11-30">96620</salary>
+  </employee>
+  <employee tstart="1993-03-12" tend="2002-01-31">
+    <firstname tend="2002-01-31" tstart="1993-03-12">Shay</firstname>
+    <lastname tend="2002-01-31" tstart="1993-03-12">Poulakidas</lastname>
+    <LongestPeriod>P365D</LongestPeriod>
+    <salary tstart="1993-03-12" tend="2002-01-31">40000</salary>
+    <salary tstart="1993-03-12" tend="2002-01-31">43428</salary>
+    <salary tstart="1993-03-12" tend="2002-01-31">44740</salary>
+    <salary tstart="1993-03-12" tend="2002-01-31">44814</salary>
+    <salary tstart="1993-03-12" tend="2002-01-31">44739</salary>
+    <salary tstart="1993-03-12" tend="2002-01-31">48426</salary>
+    <salary tstart="1993-03-12" tend="2002-01-31">49054</salary>
+    <salary tstart="1993-03-12" tend="2002-01-31">49175</salary>
+  </employee>
+  <employee tstart="1991-09-18" tend="2016-11-30">
+    <firstname tend="9999-12-31" tstart="1991-09-18">Yongmao</firstname>
+    <lastname tend="9999-12-31" tstart="1991-09-18">Pleszkun</lastname>
+    <LongestPeriod>P5555D</LongestPeriod>
+    <salary tstart="1991-09-18" tend="2016-11-30">62455</salary>
+  </employee>
+  <employee tstart="1987-03-30" tend="2016-11-30">
+    <firstname tend="9999-12-31" tstart="1987-03-30">Dipayan</firstname>
+    <lastname tend="9999-12-31" tstart="1987-03-30">Seghrouchni</lastname>
+    <LongestPeriod>P5363D</LongestPeriod>
+    <salary tstart="1987-03-30" tend="2016-11-30">86090</salary>
+  </employee>
+  <employee tstart="1989-06-05" tend="2016-11-30">
+    <firstname tend="9999-12-31" tstart="1989-06-05">Yucel</firstname>
+    <lastname tend="9999-12-31" tstart="1989-06-05">Ghelli</lastname>
+    <LongestPeriod>P5295D</LongestPeriod>
+    <salary tstart="1989-06-05" tend="2016-11-30">106632</salary>
+  </employee>
+  <employee tstart="1992-12-12" tend="2016-11-30">
+    <firstname tend="9999-12-31" tstart="1992-12-12">Mihalis</firstname>
+    <lastname tend="9999-12-31" tstart="1992-12-12">Avouris</lastname>
+    <LongestPeriod>P5469D</LongestPeriod>
+    <salary tstart="1992-12-12" tend="2016-11-30">64424</salary>
+  </employee>
+  <employee tstart="1999-01-30" tend="1999-05-04">
+    <firstname tend="1999-05-04" tstart="1999-01-30">Rutger</firstname>
+    <lastname tend="1999-05-04" tstart="1999-01-30">Miara</lastname>
+    <LongestPeriod>P94D</LongestPeriod>
+    <salary tstart="1999-01-30" tend="1999-05-04">66448</salary>
+  </employee>
+  <employee tstart="1995-06-19" tend="2016-11-30">
+    <firstname tend="9999-12-31" tstart="1995-06-19">Kristine</firstname>
+    <lastname tend="9999-12-31" tstart="1995-06-19">Velardi</lastname>
+    <LongestPeriod>P5280D</LongestPeriod>
+    <salary tstart="1995-06-19" tend="2016-11-30">52162</salary>
+  </employee>
+  <employee tstart="1989-09-16" tend="2016-11-30">
+    <firstname tend="9999-12-31" tstart="1989-09-16">Petter</firstname>
+    <lastname tend="9999-12-31" tstart="1989-09-16">Lorho</lastname>
+    <LongestPeriod>P5557D</LongestPeriod>
+    <salary tstart="1989-09-16" tend="2016-11-30">106087</salary>
+  </employee>
+  <employee tstart="1986-05-28" tend="2016-11-30">
+    <firstname tend="9999-12-31" tstart="1986-05-28">Narain</firstname>
+    <lastname tend="9999-12-31" tstart="1986-05-28">Oaver</lastname>
+    <LongestPeriod>P5304D</LongestPeriod>
+    <salary tstart="1986-05-28" tend="2016-11-30">100018</salary>
+  </employee>
+  <employee tstart="1999-04-27" tend="2016-11-30">
+    <firstname tend="9999-12-31" tstart="1999-04-27">Dietrich</firstname>
+    <lastname tend="9999-12-31" tstart="1999-04-27">DuCasse</lastname>
+    <LongestPeriod>P5332D</LongestPeriod>
+    <salary tstart="1999-04-27" tend="2016-11-30">43923</salary>
+  </employee>
+  <employee tstart="1990-01-10" tend="2016-11-30">
+    <firstname tend="9999-12-31" tstart="1990-01-10">Ipke</firstname>
+    <lastname tend="9999-12-31" tstart="1990-01-10">Stentiford</lastname>
+    <LongestPeriod>P5441D</LongestPeriod>
+    <salary tstart="1990-01-10" tend="2016-11-30">98711</salary>
+  </employee>
+  <employee tstart="1991-05-17" tend="2016-11-30">
+    <firstname tend="9999-12-31" tstart="1991-05-17">Tadahiko</firstname>
+    <lastname tend="9999-12-31" tstart="1991-05-17">Ulupinar</lastname>
+    <LongestPeriod>P5314D</LongestPeriod>
+    <salary tstart="1991-05-17" tend="2016-11-30">101239</salary>
+  </employee>
+  <employee tstart="1988-05-23" tend="2016-11-30">
+    <firstname tend="9999-12-31" tstart="1988-05-23">Lucien</firstname>
+    <lastname tend="9999-12-31" tstart="1988-05-23">Staudhammer</lastname>
+    <LongestPeriod>P5308D</LongestPeriod>
+    <salary tstart="1988-05-23" tend="2016-11-30">72396</salary>
+  </employee>
+  <employee tstart="1986-07-22" tend="1999-11-09">
+    <firstname tend="1999-11-09" tstart="1986-07-22">Faiza</firstname>
+    <lastname tend="1999-11-09" tstart="1986-07-22">Baer</lastname>
+    <LongestPeriod>P365D</LongestPeriod>
+    <salary tstart="1986-07-22" tend="1999-11-09">58239</salary>
+    <salary tstart="1986-07-22" tend="1999-11-09">61778</salary>
+    <salary tstart="1986-07-22" tend="1999-11-09">62695</salary>
+    <salary tstart="1986-07-22" tend="1999-11-09">65332</salary>
+    <salary tstart="1986-07-22" tend="1999-11-09">67408</salary>
+    <salary tstart="1986-07-22" tend="1999-11-09">70300</salary>
+    <salary tstart="1986-07-22" tend="1999-11-09">71974</salary>
+    <salary tstart="1986-07-22" tend="1999-11-09">74671</salary>
+    <salary tstart="1986-07-22" tend="1999-11-09">77204</salary>
+    <salary tstart="1986-07-22" tend="1999-11-09">79002</salary>
+    <salary tstart="1986-07-22" tend="1999-11-09">83496</salary>
+    <salary tstart="1986-07-22" tend="1999-11-09">85155</salary>
+    <salary tstart="1986-07-22" tend="1999-11-09">87956</salary>
+  </employee>
+  <employee tstart="1990-02-05" tend="2000-11-15">
+    <firstname tend="2000-11-15" tstart="1990-02-05">Marlo</firstname>
+    <lastname tend="2000-11-15" tstart="1990-02-05">Zschoche</lastname>
+    <LongestPeriod>P365D</LongestPeriod>
+    <salary tstart="1990-02-05" tend="2000-11-15">40000</salary>
+    <salary tstart="1990-02-05" tend="2000-11-15">41338</salary>
+    <salary tstart="1990-02-05" tend="2000-11-15">44715</salary>
+    <salary tstart="1990-02-05" tend="2000-11-15">45157</salary>
+    <salary tstart="1990-02-05" tend="2000-11-15">45518</salary>
+    <salary tstart="1990-02-05" tend="2000-11-15">46304</salary>
+    <salary tstart="1990-02-05" tend="2000-11-15">49333</salary>
+    <salary tstart="1990-02-05" tend="2000-11-15">53102</salary>
+    <salary tstart="1990-02-05" tend="2000-11-15">55927</salary>
+    <salary tstart="1990-02-05" tend="2000-11-15">56326</salary>
+  </employee>
+  <employee tstart="1992-11-16" tend="2002-05-08">
+    <firstname tend="2002-05-08" tstart="1992-11-16">Bernt</firstname>
+    <lastname tend="2002-05-08" tstart="1992-11-16">Erie</lastname>
+    <LongestPeriod>P365D</LongestPeriod>
+    <salary tstart="1992-11-16" tend="2002-05-08">106905</salary>
+    <salary tstart="1992-11-16" tend="2002-05-08">110731</salary>
+    <salary tstart="1992-11-16" tend="2002-05-08">113812</salary>
+    <salary tstart="1992-11-16" tend="2002-05-08">117270</salary>
+    <salary tstart="1992-11-16" tend="2002-05-08">118092</salary>
+    <salary tstart="1992-11-16" tend="2002-05-08">118270</salary>
+    <salary tstart="1992-11-16" tend="2002-05-08">117985</salary>
+    <salary tstart="1992-11-16" tend="2002-05-08">121296</salary>
+    <salary tstart="1992-11-16" tend="2002-05-08">121055</salary>
+  </employee>
+  <employee tstart="1988-10-31" tend="1992-06-02">
+    <firstname tend="1992-06-02" tstart="1988-10-31">Hirochika</firstname>
+    <lastname tend="1992-06-02" tstart="1988-10-31">Piancastelli</lastname>
+    <LongestPeriod>P365D</LongestPeriod>
+    <salary tstart="1988-10-31" tend="1992-06-02">52550</salary>
+    <salary tstart="1988-10-31" tend="1992-06-02">55858</salary>
+    <salary tstart="1988-10-31" tend="1992-06-02">59161</salary>
+  </employee>
+  <employee tstart="1993-09-06" tend="2016-11-30">
+    <firstname tend="9999-12-31" tstart="1993-09-06">Heng</firstname>
+    <lastname tend="9999-12-31" tstart="1993-09-06">Kilgour</lastname>
+    <LongestPeriod>P5566D</LongestPeriod>
+    <salary tstart="1993-09-06" tend="2016-11-30">58492</salary>
+  </employee>
+  <employee tstart="1999-10-16" tend="2016-11-30">
+    <firstname tend="9999-12-31" tstart="1999-10-16">Nikolaos</firstname>
+    <lastname tend="9999-12-31" tstart="1999-10-16">Leaver</lastname>
+    <LongestPeriod>P5525D</LongestPeriod>
+    <salary tstart="1999-10-16" tend="2016-11-30">43283</salary>
+  </employee>
+  <employee tstart="1992-12-29" tend="2016-11-30">
+    <firstname tend="9999-12-31" tstart="1992-12-29">Dzung</firstname>
+    <lastname tend="9999-12-31" tstart="1992-12-29">Holburn</lastname>
+    <LongestPeriod>P5452D</LongestPeriod>
+    <salary tstart="1992-12-29" tend="2016-11-30">85789</salary>
+  </employee>
+  <employee tstart="1997-05-02" tend="2016-11-30">
+    <firstname tend="9999-12-31" tstart="1997-05-02">Prodip</firstname>
+    <lastname tend="9999-12-31" tstart="1997-05-02">Schusler</lastname>
+    <LongestPeriod>P5327D</LongestPeriod>
+    <salary tstart="1997-05-02" tend="2016-11-30">63757</salary>
+  </employee>
+  <employee tstart="1990-10-24" tend="2001-07-26">
+    <firstname tend="2001-07-26" tstart="1990-10-24">Aksel</firstname>
+    <lastname tend="2001-07-26" tstart="1990-10-24">Alencar</lastname>
+    <LongestPeriod>P365D</LongestPeriod>
+    <salary tstart="1990-10-24" tend="2001-07-26">42894</salary>
+    <salary tstart="1990-10-24" tend="2001-07-26">42676</salary>
+    <salary tstart="1990-10-24" tend="2001-07-26">43204</salary>
+    <salary tstart="1990-10-24" tend="2001-07-26">44396</salary>
+    <salary tstart="1990-10-24" tend="2001-07-26">47268</salary>
+    <salary tstart="1990-10-24" tend="2001-07-26">49804</salary>
+    <salary tstart="1990-10-24" tend="2001-07-26">49874</salary>
+    <salary tstart="1990-10-24" tend="2001-07-26">51803</salary>
+    <salary tstart="1990-10-24" tend="2001-07-26">53048</salary>
+    <salary tstart="1990-10-24" tend="2001-07-26">53787</salary>
+  </employee>
+  <employee tstart="1998-11-04" tend="2016-11-30">
+    <firstname tend="9999-12-31" tstart="1998-11-04">Hsiangchu</firstname>
+    <lastname tend="9999-12-31" tstart="1998-11-04">Molenkamp</lastname>
+    <LongestPeriod>P5506D</LongestPeriod>
+    <salary tstart="1998-11-04" tend="2016-11-30">48285</salary>
+  </employee>
+  <employee tstart="1986-08-28" tend="2016-11-30">
+    <firstname tend="9999-12-31" tstart="1986-08-28">Rasiah</firstname>
+    <lastname tend="9999-12-31" tstart="1986-08-28">Deyuan</lastname>
+    <LongestPeriod>P5577D</LongestPeriod>
+    <salary tstart="1986-08-28" tend="2016-11-30">91499</salary>
+  </employee>
+  <employee tstart="1994-10-10" tend="2016-11-30">
+    <firstname tend="9999-12-31" tstart="1994-10-10">Subbu</firstname>
+    <lastname tend="9999-12-31" tstart="1994-10-10">Riexinger</lastname>
+    <LongestPeriod>P5532D</LongestPeriod>
+    <salary tstart="1994-10-10" tend="2016-11-30">77287</salary>
+  </employee>
+  <employee tstart="1986-01-16" tend="2016-11-30">
+    <firstname tend="9999-12-31" tstart="1986-01-16">Christfried</firstname>
+    <lastname tend="9999-12-31" tstart="1986-01-16">Apsitis</lastname>
+    <LongestPeriod>P5436D</LongestPeriod>
+    <salary tstart="1986-01-16" tend="2016-11-30">87352</salary>
+  </employee>
+  <employee tstart="1987-08-28" tend="2016-11-30">
+    <firstname tend="9999-12-31" tstart="1987-08-28">Maris</firstname>
+    <lastname tend="9999-12-31" tstart="1987-08-28">Angelopoulos</lastname>
+    <LongestPeriod>P5577D</LongestPeriod>
+    <salary tstart="1987-08-28" tend="2016-11-30">87577</salary>
+  </employee>
+  <employee tstart="1990-12-18" tend="1991-01-02">
+    <firstname tend="1991-01-02" tstart="1990-12-18">Christoper</firstname>
+    <lastname tend="1991-01-02" tstart="1990-12-18">Schwaller</lastname>
+    <LongestPeriod>P15D</LongestPeriod>
+    <salary tstart="1990-12-18" tend="1991-01-02">40000</salary>
+  </employee>
+  <employee tstart="1999-01-24" tend="2016-11-30">
+    <firstname tend="9999-12-31" tstart="1999-01-24">Arie</firstname>
+    <lastname tend="9999-12-31" tstart="1999-01-24">Birge</lastname>
+    <LongestPeriod>P5425D</LongestPeriod>
+    <salary tstart="1999-01-24" tend="2016-11-30">56014</salary>
+  </employee>
+  <employee tstart="1987-03-23" tend="2016-11-30">
+    <firstname tend="9999-12-31" tstart="1987-03-23">Mototsugu</firstname>
+    <lastname tend="9999-12-31" tstart="1987-03-23">Beilner</lastname>
+    <LongestPeriod>P5370D</LongestPeriod>
+    <salary tstart="1987-03-23" tend="2016-11-30">99371</salary>
+  </employee>
+  <employee tstart="1994-06-18" tend="2016-11-30">
+    <firstname tend="9999-12-31" tstart="1994-06-18">Mechthild</firstname>
+    <lastname tend="9999-12-31" tstart="1994-06-18">Miyakawa</lastname>
+    <LongestPeriod>P5281D</LongestPeriod>
+    <salary tstart="1994-06-18" tend="2016-11-30">106263</salary>
+  </employee>
+  <employee tstart="1988-11-03" tend="2001-12-23">
+    <firstname tend="2001-12-23" tstart="1988-11-03">Uinam</firstname>
+    <lastname tend="2001-12-23" tstart="1988-11-03">Stasinski</lastname>
+    <LongestPeriod>P365D</LongestPeriod>
+    <salary tstart="1988-11-03" tend="2001-12-23">58483</salary>
+    <salary tstart="1988-11-03" tend="2001-12-23">61372</salary>
+    <salary tstart="1988-11-03" tend="2001-12-23">65130</salary>
+    <salary tstart="1988-11-03" tend="2001-12-23">69337</salary>
+    <salary tstart="1988-11-03" tend="2001-12-23">71024</salary>
+    <salary tstart="1988-11-03" tend="2001-12-23">71784</salary>
+    <salary tstart="1988-11-03" tend="2001-12-23">75798</salary>
+    <salary tstart="1988-11-03" tend="2001-12-23">76864</salary>
+    <salary tstart="1988-11-03" tend="2001-12-23">79738</salary>
+    <salary tstart="1988-11-03" tend="2001-12-23">83350</salary>
+    <salary tstart="1988-11-03" tend="2001-12-23">87526</salary>
+    <salary tstart="1988-11-03" tend="2001-12-23">89956</salary>
+    <salary tstart="1988-11-03" tend="2001-12-23">92383</salary>
+  </employee>
+  <employee tstart="1995-07-24" tend="1999-08-14">
+    <firstname tend="1999-08-14" tstart="1995-07-24">Guenter</firstname>
+    <lastname tend="1999-08-14" tstart="1995-07-24">Ravishankar</lastname>
+    <LongestPeriod>P365D</LongestPeriod>
+    <salary tstart="1995-07-24" tend="1999-08-14">86819</salary>
+    <salary tstart="1995-07-24" tend="1999-08-14">88201</salary>
+    <salary tstart="1995-07-24" tend="1999-08-14">92691</salary>
+    <salary tstart="1995-07-24" tend="1999-08-14">94282</salary>
+  </employee>
+  <employee tstart="1990-01-29" tend="2016-11-30">
+    <firstname tend="9999-12-31" tstart="1990-01-29">Isamu</firstname>
+    <lastname tend="9999-12-31" tstart="1990-01-29">Dahlbom</lastname>
+    <LongestPeriod>P5422D</LongestPeriod>
+    <salary tstart="1990-01-29" tend="2016-11-30">72886</salary>
+  </employee>
+  <employee tstart="1991-06-06" tend="2016-11-30">
+    <firstname tend="9999-12-31" tstart="1991-06-06">Kankanahalli</firstname>
+    <lastname tend="9999-12-31" tstart="1991-06-06">Hinsberger</lastname>
+    <LongestPeriod>P5294D</LongestPeriod>
+    <salary tstart="1991-06-06" tend="2016-11-30">72048</salary>
+  </employee>
+  <employee tstart="1999-07-19" tend="2016-11-30">
+    <firstname tend="9999-12-31" tstart="1999-07-19">Bernardo</firstname>
+    <lastname tend="9999-12-31" tstart="1999-07-19">Rouquie</lastname>
+    <LongestPeriod>P5249D</LongestPeriod>
+    <salary tstart="1999-07-19" tend="2016-11-30">76568</salary>
+  </employee>
+  <employee tstart="1990-09-20" tend="2016-11-30">
+    <firstname tend="9999-12-31" tstart="1990-09-20">Arunachalam</firstname>
+    <lastname tend="9999-12-31" tstart="1990-09-20">Badr</lastname>
+    <LongestPeriod>P5553D</LongestPeriod>
+    <salary tstart="1990-09-20" tend="2016-11-30">63081</salary>
+  </employee>
+  <employee tstart="1998-09-02" tend="2016-11-30">
+    <firstname tend="9999-12-31" tstart="1998-09-02">Masali</firstname>
+    <lastname tend="9999-12-31" tstart="1998-09-02">Czap</lastname>
+    <LongestPeriod>P5569D</LongestPeriod>
+    <salary tstart="1998-09-02" tend="2016-11-30">52152</salary>
+  </employee>
+  <employee tstart="1987-09-18" tend="1993-05-22">
+    <firstname tend="1993-05-22" tstart="1987-09-18">Roded</firstname>
+    <lastname tend="1993-05-22" tstart="1987-09-18">Facello</lastname>
+    <LongestPeriod>P365D</LongestPeriod>
+    <salary tstart="1987-09-18" tend="1993-05-22">54734</salary>
+    <salary tstart="1987-09-18" tend="1993-05-22">55702</salary>
+    <salary tstart="1987-09-18" tend="1993-05-22">57994</salary>
+    <salary tstart="1987-09-18" tend="1993-05-22">60389</salary>
+    <salary tstart="1987-09-18" tend="1993-05-22">60287</salary>
+  </employee>
+  <employee tstart="1998-07-17" tend="2016-11-30">
+    <firstname tend="9999-12-31" tstart="1998-07-17">Serenella</firstname>
+    <lastname tend="9999-12-31" tstart="1998-07-17">Kawashima</lastname>
+    <LongestPeriod>P5251D</LongestPeriod>
+    <salary tstart="1998-07-17" tend="2016-11-30">51715</salary>
+  </employee>
+  <employee tstart="1986-01-20" tend="2016-11-30">
+    <firstname tend="9999-12-31" tstart="1986-01-20">Remko</firstname>
+    <lastname tend="9999-12-31" tstart="1986-01-20">Shigei</lastname>
+    <LongestPeriod>P5432D</LongestPeriod>
+    <salary tstart="1986-01-20" tend="2016-11-30">89171</salary>
+  </employee>
+  <employee tstart="1993-10-08" tend="2016-11-30">
+    <firstname tend="9999-12-31" tstart="1993-10-08">Kasturi</firstname>
+    <lastname tend="9999-12-31" tstart="1993-10-08">Bellmore</lastname>
+    <LongestPeriod>P5534D</LongestPeriod>
+    <salary tstart="1993-10-08" tend="2016-11-30">97400</salary>
+  </employee>
+  <employee tstart="1986-10-29" tend="2016-11-30">
+    <firstname tend="9999-12-31" tstart="1986-10-29">Arto</firstname>
+    <lastname tend="9999-12-31" tstart="1986-10-29">Binkley</lastname>
+    <LongestPeriod>P5515D</LongestPeriod>
+    <salary tstart="1986-10-29" tend="2016-11-30">86063</salary>
+  </employee>
+  <employee tstart="1988-10-20" tend="1997-03-07">
+    <firstname tend="1997-03-07" tstart="1988-10-20">Masanao</firstname>
+    <lastname tend="1997-03-07" tstart="1988-10-20">Bain</lastname>
+    <LongestPeriod>P365D</LongestPeriod>
+    <salary tstart="1988-10-20" tend="1997-03-07">52133</salary>
+    <salary tstart="1988-10-20" tend="1997-03-07">54361</salary>
+    <salary tstart="1988-10-20" tend="1997-03-07">55112</salary>
+    <salary tstart="1988-10-20" tend="1997-03-07">58930</salary>
+    <salary tstart="1988-10-20" tend="1997-03-07">58465</salary>
+    <salary tstart="1988-10-20" tend="1997-03-07">59850</salary>
+    <salary tstart="1988-10-20" tend="1997-03-07">61596</salary>
+    <salary tstart="1988-10-20" tend="1997-03-07">61652</salary>
+  </employee>
+  <employee tstart="1993-01-16" tend="2016-11-30">
+    <firstname tend="9999-12-31" tstart="1993-01-16">Snehasis</firstname>
+    <lastname tend="9999-12-31" tstart="1993-01-16">Dymetman</lastname>
+    <LongestPeriod>P5434D</LongestPeriod>
+    <salary tstart="1993-01-16" tend="2016-11-30">65713</salary>
+  </employee>
+  <employee tstart="1998-02-15" tend="2016-11-30">
+    <firstname tend="9999-12-31" tstart="1998-02-15">Falguni</firstname>
+    <lastname tend="9999-12-31" tstart="1998-02-15">Erie</lastname>
+    <LongestPeriod>P5403D</LongestPeriod>
+    <salary tstart="1998-02-15" tend="2016-11-30">43932</salary>
+  </employee>
+  <employee tstart="1992-04-06" tend="2016-11-30">
+    <firstname tend="9999-12-31" tstart="1992-04-06">Toshimori</firstname>
+    <lastname tend="9999-12-31" tstart="1992-04-06">Bahi</lastname>
+    <LongestPeriod>P5355D</LongestPeriod>
+    <salary tstart="1992-04-06" tend="2016-11-30">72639</salary>
+  </employee>
+  <employee tstart="1996-09-27" tend="2016-11-30">
+    <firstname tend="9999-12-31" tstart="1996-09-27">Goa</firstname>
+    <lastname tend="9999-12-31" tstart="1996-09-27">Rothe</lastname>
+    <LongestPeriod>P5544D</LongestPeriod>
+    <salary tstart="1996-09-27" tend="2016-11-30">77738</salary>
+  </employee>
+  <employee tstart="1998-04-25" tend="2016-11-30">
+    <firstname tend="9999-12-31" tstart="1998-04-25">Jeong</firstname>
+    <lastname tend="9999-12-31" tstart="1998-04-25">Sadowsky</lastname>
+    <LongestPeriod>P5334D</LongestPeriod>
+    <salary tstart="1998-04-25" tend="2016-11-30">67239</salary>
+  </employee>
+  <employee tstart="1999-12-29" tend="2016-11-30">
+    <firstname tend="9999-12-31" tstart="1999-12-29">Heon</firstname>
+    <lastname tend="9999-12-31" tstart="1999-12-29">Ranai</lastname>
+    <LongestPeriod>P5451D</LongestPeriod>
+    <salary tstart="1999-12-29" tend="2016-11-30">46164</salary>
+  </employee>
+  <employee tstart="1989-11-30" tend="2016-11-30">
+    <firstname tend="9999-12-31" tstart="1989-11-30">Teunis</firstname>
+    <lastname tend="9999-12-31" tstart="1989-11-30">Liedekerke</lastname>
+    <LongestPeriod>P5482D</LongestPeriod>
+    <salary tstart="1989-11-30" tend="2016-11-30">58472</salary>
+  </employee>
+  <employee tstart="1988-03-30" tend="2016-11-30">
+    <firstname tend="9999-12-31" tstart="1988-03-30">Djelloul</firstname>
+    <lastname tend="9999-12-31" tstart="1988-03-30">Laventhal</lastname>
+    <LongestPeriod>P5362D</LongestPeriod>
+    <salary tstart="1988-03-30" tend="2016-11-30">93168</salary>
+  </employee>
+  <employee tstart="1987-04-29" tend="1998-11-11">
+    <firstname tend="1998-11-11" tstart="1987-04-29">Wilmer</firstname>
+    <lastname tend="1998-11-11" tstart="1987-04-29">Greenaway</lastname>
+    <LongestPeriod>P365D</LongestPeriod>
+    <salary tstart="1987-04-29" tend="1998-11-11">40000</salary>
+    <salary tstart="1987-04-29" tend="1998-11-11">43312</salary>
+    <salary tstart="1987-04-29" tend="1998-11-11">43804</salary>
+    <salary tstart="1987-04-29" tend="1998-11-11">44687</salary>
+    <salary tstart="1987-04-29" tend="1998-11-11">46784</salary>
+    <salary tstart="1987-04-29" tend="1998-11-11">49913</salary>
+    <salary tstart="1987-04-29" tend="1998-11-11">50763</salary>
+    <salary tstart="1987-04-29" tend="1998-11-11">53261</salary>
+    <salary tstart="1987-04-29" tend="1998-11-11">56527</salary>
+    <salary tstart="1987-04-29" tend="1998-11-11">58921</salary>
+    <salary tstart="1987-04-29" tend="1998-11-11">60962</salary>
+  </employee>
+  <employee tstart="1987-07-25" tend="2016-11-30">
+    <firstname tend="9999-12-31" tstart="1987-07-25">Stella</firstname>
+    <lastname tend="9999-12-31" tstart="1987-07-25">Hiroyama</lastname>
+    <LongestPeriod>P5246D</LongestPeriod>
+    <salary tstart="1987-07-25" tend="2016-11-30">74705</salary>
+  </employee>
+  <employee tstart="1997-10-03" tend="2016-11-30">
+    <firstname tend="9999-12-31" tstart="1997-10-03">Dinah</firstname>
+    <lastname tend="9999-12-31" tstart="1997-10-03">Syrzycki</lastname>
+    <LongestPeriod>P5538D</LongestPeriod>
+    <salary tstart="1997-10-03" tend="2016-11-30">47242</salary>
+  </employee>
+  <employee tstart="1999-04-19" tend="2016-11-30">
+    <firstname tend="9999-12-31" tstart="1999-04-19">Uwe</firstname>
+    <lastname tend="9999-12-31" tstart="1999-04-19">Garnier</lastname>
+    <LongestPeriod>P5340D</LongestPeriod>
+    <salary tstart="1999-04-19" tend="2016-11-30">59655</salary>
+  </employee>
+  <employee tstart="1993-11-08" tend="2016-11-30">
+    <firstname tend="9999-12-31" tstart="1993-11-08">Arra</firstname>
+    <lastname tend="9999-12-31" tstart="1993-11-08">Ratnakar</lastname>
+    <LongestPeriod>P5503D</LongestPeriod>
+    <salary tstart="1993-11-08" tend="2016-11-30">87195</salary>
+  </employee>
+  <employee tstart="1992-01-17" tend="1996-04-20">
+    <firstname tend="1996-04-20" tstart="1992-01-17">Aamod</firstname>
+    <lastname tend="1996-04-20" tstart="1992-01-17">Radwan</lastname>
+    <LongestPeriod>P365D</LongestPeriod>
+    <salary tstart="1992-01-17" tend="1996-04-20">78088</salary>
+    <salary tstart="1992-01-17" tend="1996-04-20">77913</salary>
+    <salary tstart="1992-01-17" tend="1996-04-20">77525</salary>
+    <salary tstart="1992-01-17" tend="1996-04-20">77938</salary>
+  </employee>
+  <employee tstart="1998-02-20" tend="2016-11-30">
+    <firstname tend="9999-12-31" tstart="1998-02-20">Pradeep</firstname>
+    <lastname tend="9999-12-31" tstart="1998-02-20">Kaminger</lastname>
+    <LongestPeriod>P5398D</LongestPeriod>
+    <salary tstart="1998-02-20" tend="2016-11-30">53581</salary>
+  </employee>
+  <employee tstart="1995-10-22" tend="2016-11-30">
+    <firstname tend="9999-12-31" tstart="1995-10-22">Mahendra</firstname>
+    <lastname tend="9999-12-31" tstart="1995-10-22">Picco</lastname>
+    <LongestPeriod>P5520D</LongestPeriod>
+    <salary tstart="1995-10-22" tend="2016-11-30">58587</salary>
+  </employee>
+  <employee tstart="1991-09-28" tend="2016-11-30">
+    <firstname tend="9999-12-31" tstart="1991-09-28">Oksana</firstname>
+    <lastname tend="9999-12-31" tstart="1991-09-28">Brodie</lastname>
+    <LongestPeriod>P5545D</LongestPeriod>
+    <salary tstart="1991-09-28" tend="2016-11-30">66474</salary>
+  </employee>
+  <employee tstart="1991-05-11" tend="1998-01-16">
+    <firstname tend="1998-01-16" tstart="1991-05-11">Kristen</firstname>
+    <lastname tend="1998-01-16" tstart="1991-05-11">Kavvadias</lastname>
+    <LongestPeriod>P365D</LongestPeriod>
+    <salary tstart="1991-05-11" tend="1998-01-16">41213</salary>
+    <salary tstart="1991-05-11" tend="1998-01-16">43676</salary>
+    <salary tstart="1991-05-11" tend="1998-01-16">46877</salary>
+    <salary tstart="1991-05-11" tend="1998-01-16">48043</salary>
+    <salary tstart="1991-05-11" tend="1998-01-16">50931</salary>
+    <salary tstart="1991-05-11" tend="1998-01-16">52254</salary>
+  </employee>
+  <employee tstart="1995-05-01" tend="2016-11-30">
+    <firstname tend="9999-12-31" tstart="1995-05-01">Tadahiko</firstname>
+    <lastname tend="9999-12-31" tstart="1995-05-01">Strehl</lastname>
+    <LongestPeriod>P5329D</LongestPeriod>
+    <salary tstart="1995-05-01" tend="2016-11-30">49802</salary>
+  </employee>
+  <employee tstart="1998-12-16" tend="2016-11-30">
+    <firstname tend="9999-12-31" tstart="1998-12-16">Erzsebet</firstname>
+    <lastname tend="9999-12-31" tstart="1998-12-16">Ohori</lastname>
+    <LongestPeriod>P5464D</LongestPeriod>
+    <salary tstart="1998-12-16" tend="2016-11-30">44683</salary>
+  </employee>
+  <employee tstart="1989-08-24" tend="2016-11-30">
+    <firstname tend="9999-12-31" tstart="1989-08-24">Phule</firstname>
+    <lastname tend="9999-12-31" tstart="1989-08-24">Hammerschmidt</lastname>
+    <LongestPeriod>P5580D</LongestPeriod>
+    <salary tstart="1989-08-24" tend="2016-11-30">87254</salary>
+  </employee>
+  <employee tstart="1999-03-03" tend="2002-01-01">
+    <firstname tend="2002-01-01" tstart="1999-03-03">Moto</firstname>
+    <lastname tend="2002-01-01" tstart="1999-03-03">Kusakari</lastname>
+    <LongestPeriod>P365D</LongestPeriod>
+    <salary tstart="1999-03-03" tend="2002-01-01">60762</salary>
+    <salary tstart="1999-03-03" tend="2002-01-01">64174</salary>
+  </employee>
+  <employee tstart="1996-01-26" tend="2016-11-30">
+    <firstname tend="9999-12-31" tstart="1996-01-26">Satyanarayana</firstname>
+    <lastname tend="9999-12-31" tstart="1996-01-26">Cochrane</lastname>
+    <LongestPeriod>P5424D</LongestPeriod>
+    <salary tstart="1996-01-26" tend="2016-11-30">78589</salary>
+  </employee>
+  <employee tstart="1995-06-26" tend="2016-11-30">
+    <firstname tend="9999-12-31" tstart="1995-06-26">Vasilis</firstname>
+    <lastname tend="9999-12-31" tstart="1995-06-26">Standera</lastname>
+    <LongestPeriod>P5273D</LongestPeriod>
+    <salary tstart="1995-06-26" tend="2016-11-30">60344</salary>
+  </employee>
+  <employee tstart="1994-04-04" tend="2016-11-30">
+    <firstname tend="9999-12-31" tstart="1994-04-04">Hausi</firstname>
+    <lastname tend="9999-12-31" tstart="1994-04-04">Sidhu</lastname>
+    <LongestPeriod>P5357D</LongestPeriod>
+    <salary tstart="1994-04-04" tend="2016-11-30">56260</salary>
+  </employee>
+  <employee tstart="1991-02-19" tend="2016-11-30">
+    <firstname tend="9999-12-31" tstart="1991-02-19">Qunsheng</firstname>
+    <lastname tend="9999-12-31" tstart="1991-02-19">Tagansky</lastname>
+    <LongestPeriod>P5401D</LongestPeriod>
+    <salary tstart="1991-02-19" tend="2016-11-30">90950</salary>
+  </employee>
+  <employee tstart="1998-07-20" tend="2016-11-30">
+    <firstname tend="9999-12-31" tstart="1998-07-20">Heekeun</firstname>
+    <lastname tend="9999-12-31" tstart="1998-07-20">Sambasivam</lastname>
+    <LongestPeriod>P5248D</LongestPeriod>
+    <salary tstart="1998-07-20" tend="2016-11-30">47188</salary>
+  </employee>
+  <employee tstart="1996-09-04" tend="2016-11-30">
+    <firstname tend="9999-12-31" tstart="1996-09-04">Irene</firstname>
+    <lastname tend="9999-12-31" tstart="1996-09-04">Munck</lastname>
+    <LongestPeriod>P5567D</LongestPeriod>
+    <salary tstart="1996-09-04" tend="2016-11-30">43073</salary>
+  </employee>
+  <employee tstart="1986-10-23" tend="2016-11-30">
+    <firstname tend="9999-12-31" tstart="1986-10-23">Seshu</firstname>
+    <lastname tend="9999-12-31" tstart="1986-10-23">Sidou</lastname>
+    <LongestPeriod>P5521D</LongestPeriod>
+    <salary tstart="1986-10-23" tend="2016-11-30">81801</salary>
+  </employee>
+  <employee tstart="1990-11-02" tend="1997-07-16">
+    <firstname tend="1997-07-16" tstart="1990-11-02">Shalesh</firstname>
+    <lastname tend="1997-07-16" tstart="1990-11-02">dAstous</lastname>
+    <LongestPeriod>P365D</LongestPeriod>
+    <salary tstart="1990-11-02" tend="1997-07-16">40000</salary>
+    <salary tstart="1990-11-02" tend="1997-07-16">44091</salary>
+    <salary tstart="1990-11-02" tend="1997-07-16">45546</salary>
+    <salary tstart="1990-11-02" tend="1997-07-16">49296</salary>
+    <salary tstart="1990-11-02" tend="1997-07-16">48889</salary>
+    <salary tstart="1990-11-02" tend="1997-07-16">53121</salary>
+  </employee>
+  <employee tstart="1985-09-11" tend="1993-02-12">
+    <firstname tend="1993-02-12" tstart="1985-09-11">Toshiki</firstname>
+    <lastname tend="1993-02-12" tstart="1985-09-11">Muniz</lastname>
+    <LongestPeriod>P365D</LongestPeriod>
+    <salary tstart="1985-09-11" tend="1993-02-12">40401</salary>
+    <salary tstart="1985-09-11" tend="1993-02-12">40853</salary>
+    <salary tstart="1985-09-11" tend="1993-02-12">44391</salary>
+    <salary tstart="1985-09-11" tend="1993-02-12">46505</salary>
+    <salary tstart="1985-09-11" tend="1993-02-12">47139</salary>
+    <salary tstart="1985-09-11" tend="1993-02-12">46746</salary>
+    <salary tstart="1985-09-11" tend="1993-02-12">50195</salary>
+  </employee>
+  <employee tstart="1985-11-14" tend="2016-11-30">
+    <firstname tend="9999-12-31" tstart="1985-11-14">Nakhoon</firstname>
+    <lastname tend="9999-12-31" tstart="1985-11-14">Dengi</lastname>
+    <LongestPeriod>P5499D</LongestPeriod>
+    <salary tstart="1985-11-14" tend="2016-11-30">94739</salary>
+  </employee>
+  <employee tstart="1987-10-22" tend="1992-04-04">
+    <firstname tend="1992-04-04" tstart="1987-10-22">Rosine</firstname>
+    <lastname tend="1992-04-04" tstart="1987-10-22">Granlund</lastname>
+    <LongestPeriod>P365D</LongestPeriod>
+    <salary tstart="1987-10-22" tend="1992-04-04">45523</salary>
+    <salary tstart="1987-10-22" tend="1992-04-04">49984</salary>
+    <salary tstart="1987-10-22" tend="1992-04-04">50581</salary>
+    <salary tstart="1987-10-22" tend="1992-04-04">51141</salary>
+  </employee>
+  <employee tstart="1997-08-15" tend="2016-11-30">
+    <firstname tend="9999-12-31" tstart="1997-08-15">Morrie</firstname>
+    <lastname tend="9999-12-31" tstart="1997-08-15">Piazza</lastname>
+    <LongestPeriod>P5587D</LongestPeriod>
+    <salary tstart="1997-08-15" tend="2016-11-30">60214</salary>
+  </employee>
+  <employee tstart="1991-06-24" tend="2016-11-30">
+    <firstname tend="9999-12-31" tstart="1991-06-24">Hyuckchul</firstname>
+    <lastname tend="9999-12-31" tstart="1991-06-24">Gini</lastname>
+    <LongestPeriod>P5276D</LongestPeriod>
+    <salary tstart="1991-06-24" tend="2016-11-30">83569</salary>
+  </employee>
+  <employee tstart="1996-05-16" tend="2016-11-30">
+    <firstname tend="9999-12-31" tstart="1996-05-16">Hatim</firstname>
+    <lastname tend="9999-12-31" tstart="1996-05-16">Koshiba</lastname>
+    <LongestPeriod>P5313D</LongestPeriod>
+    <salary tstart="1996-05-16" tend="2016-11-30">56600</salary>
+  </employee>
+  <employee tstart="1994-09-05" tend="2016-11-30">
+    <firstname tend="9999-12-31" tstart="1994-09-05">Qunsheng</firstname>
+    <lastname tend="9999-12-31" tstart="1994-09-05">Toyoshima</lastname>
+    <LongestPeriod>P5567D</LongestPeriod>
+    <salary tstart="1994-09-05" tend="2016-11-30">54438</salary>
+  </employee>
+  <employee tstart="1992-04-18" tend="2016-11-30">
+    <firstname tend="9999-12-31" tstart="1992-04-18">Clyde</firstname>
+    <lastname tend="9999-12-31" tstart="1992-04-18">Fandrianto</lastname>
+    <LongestPeriod>P5342D</LongestPeriod>
+    <salary tstart="1992-04-18" tend="2016-11-30">46583</salary>
+  </employee>
+  <employee tstart="1989-11-28" tend="2016-11-30">
+    <firstname tend="9999-12-31" tstart="1989-11-28">Ioana</firstname>
+    <lastname tend="9999-12-31" tstart="1989-11-28">Kirkerud</lastname>
+    <LongestPeriod>P5484D</LongestPeriod>
+    <salary tstart="1989-11-28" tend="2016-11-30">85789</salary>
+  </employee>
+  <employee tstart="1985-07-30" tend="2016-11-30">
+    <firstname tend="9999-12-31" tstart="1985-07-30">Anneli</firstname>
+    <lastname tend="9999-12-31" tstart="1985-07-30">Frijda</lastname>
+    <LongestPeriod>P5241D</LongestPeriod>
+    <salary tstart="1985-07-30" tend="2016-11-30">85455</salary>
+  </employee>
+  <employee tstart="1997-04-26" tend="2016-11-30">
+    <firstname tend="9999-12-31" tstart="1997-04-26">Hongzue</firstname>
+    <lastname tend="9999-12-31" tstart="1997-04-26">Heijenga</lastname>
+    <LongestPeriod>P5333D</LongestPeriod>
+    <salary tstart="1997-04-26" tend="2016-11-30">58845</salary>
+  </employee>
+  <employee tstart="1993-12-08" tend="1996-03-29">
+    <firstname tend="1996-03-29" tstart="1993-12-08">Willard</firstname>
+    <lastname tend="1996-03-29" tstart="1993-12-08">Rosin</lastname>
+    <LongestPeriod>P365D</LongestPeriod>
+    <salary tstart="1993-12-08" tend="1996-03-29">69568</salary>
+    <salary tstart="1993-12-08" tend="1996-03-29">69423</salary>
+  </employee>
+  <employee tstart="1994-05-29" tend="2016-11-30">
+    <firstname tend="9999-12-31" tstart="1994-05-29">Dante</firstname>
+    <lastname tend="9999-12-31" tstart="1994-05-29">Kalafatis</lastname>
+    <LongestPeriod>P5301D</LongestPeriod>
+    <salary tstart="1994-05-29" tend="2016-11-30">107218</salary>
+  </employee>
+  <employee tstart="1990-12-08" tend="2016-11-30">
+    <firstname tend="9999-12-31" tstart="1990-12-08">Fai</firstname>
+    <lastname tend="9999-12-31" tstart="1990-12-08">Bale</lastname>
+    <LongestPeriod>P5474D</LongestPeriod>
+    <salary tstart="1990-12-08" tend="2016-11-30">65398</salary>
+  </employee>
+  <employee tstart="1996-08-24" tend="2016-11-30">
+    <firstname tend="9999-12-31" tstart="1996-08-24">Marl</firstname>
+    <lastname tend="9999-12-31" tstart="1996-08-24">Grospietsch</lastname>
+    <LongestPeriod>P5578D</LongestPeriod>
+    <salary tstart="1996-08-24" tend="2016-11-30">50359</salary>
+  </employee>
+  <employee tstart="1992-08-31" tend="2016-11-30">
+    <firstname tend="9999-12-31" tstart="1992-08-31">Takahira</firstname>
+    <lastname tend="9999-12-31" tstart="1992-08-31">Lichtner</lastname>
+    <LongestPeriod>P5572D</LongestPeriod>
+    <salary tstart="1992-08-31" tend="2016-11-30">92842</salary>
+  </employee>
+  <employee tstart="1996-07-15" tend="2016-11-30">
+    <firstname tend="9999-12-31" tstart="1996-07-15">Mikhail</firstname>
+    <lastname tend="9999-12-31" tstart="1996-07-15">Rosis</lastname>
+    <LongestPeriod>P5253D</LongestPeriod>
+    <salary tstart="1996-07-15" tend="2016-11-30">46932</salary>
+  </employee>
+  <employee tstart="1985-03-19" tend="2016-11-30">
+    <firstname tend="9999-12-31" tstart="1985-03-19">Alejandro</firstname>
+    <lastname tend="9999-12-31" tstart="1985-03-19">Kamble</lastname>
+    <LongestPeriod>P5374D</LongestPeriod>
+    <salary tstart="1985-03-19" tend="2016-11-30">104943</salary>
+  </employee>
+  <employee tstart="1991-12-04" tend="2016-11-30">
+    <firstname tend="9999-12-31" tstart="1991-12-04">Jiong</firstname>
+    <lastname tend="9999-12-31" tstart="1991-12-04">Parfitt</lastname>
+    <LongestPeriod>P5478D</LongestPeriod>
+    <salary tstart="1991-12-04" tend="2016-11-30">90924</salary>
+  </employee>
+  <employee tstart="1998-07-01" tend="2000-10-27">
+    <firstname tend="2000-10-27" tstart="1998-07-01">Shirish</firstname>
+    <lastname tend="2000-10-27" tstart="1998-07-01">Dredge</lastname>
+    <LongestPeriod>P365D</LongestPeriod>
+    <salary tstart="1998-07-01" tend="2000-10-27">45785</salary>
+    <salary tstart="1998-07-01" tend="2000-10-27">49862</salary>
+  </employee>
+  <employee tstart="1991-06-19" tend="2016-11-30">
+    <firstname tend="9999-12-31" tstart="1991-06-19">Leucio</firstname>
+    <lastname tend="9999-12-31" tstart="1991-06-19">Aumann</lastname>
+    <LongestPeriod>P5281D</LongestPeriod>
+    <salary tstart="1991-06-19" tend="2016-11-30">77463</salary>
+  </employee>
+  <employee tstart="1986-01-16" tend="2016-11-30">
+    <firstname tend="9999-12-31" tstart="1986-01-16">Feiyu</firstname>
+    <lastname tend="9999-12-31" tstart="1986-01-16">Luft</lastname>
+    <LongestPeriod>P5436D</LongestPeriod>
+    <salary tstart="1986-01-16" tend="2016-11-30">78680</salary>
+  </employee>
+  <employee tstart="1992-12-20" tend="1998-01-23">
+    <firstname tend="1998-01-23" tstart="1992-12-20">Khatoun</firstname>
+    <lastname tend="1998-01-23" tstart="1992-12-20">Imataki</lastname>
+    <LongestPeriod>P365D</LongestPeriod>
+    <salary tstart="1992-12-20" tend="1998-01-23">40000</salary>
+    <salary tstart="1992-12-20" tend="1998-01-23">41270</salary>
+    <salary tstart="1992-12-20" tend="1998-01-23">40771</salary>
+    <salary tstart="1992-12-20" tend="1998-01-23">43526</salary>
+    <salary tstart="1992-12-20" tend="1998-01-23">43113</salary>
+  </employee>
+  <employee tstart="1985-08-02" tend="2016-11-30">
+    <firstname tend="9999-12-31" tstart="1985-08-02">Eishiro</firstname>
+    <lastname tend="9999-12-31" tstart="1985-08-02">Miyakawa</lastname>
+    <LongestPeriod>P5238D</LongestPeriod>
+    <salary tstart="1985-08-02" tend="2016-11-30">88725</salary>
+  </employee>
+  <employee tstart="1994-01-07" tend="2016-11-30">
+    <firstname tend="9999-12-31" tstart="1994-01-07">Parto</firstname>
+    <lastname tend="9999-12-31" tstart="1994-01-07">Wrigley</lastname>
+    <LongestPeriod>P5443D</LongestPeriod>
+    <salary tstart="1994-01-07" tend="2016-11-30">76026</salary>
+  </employee>
+  <employee tstart="1999-05-28" tend="2016-11-30">
+    <firstname tend="9999-12-31" tstart="1999-05-28">Hironoby</firstname>
+    <lastname tend="9999-12-31" tstart="1999-05-28">Kaiser</lastname>
+    <LongestPeriod>P5301D</LongestPeriod>
+    <salary tstart="1999-05-28" tend="2016-11-30">68411</salary>
+  </employee>
+  <employee tstart="1999-05-13" tend="2016-11-30">
+    <firstname tend="9999-12-31" tstart="1999-05-13">Make</firstname>
+    <lastname tend="9999-12-31" tstart="1999-05-13">Peir</lastname>
+    <LongestPeriod>P5316D</LongestPeriod>
+    <salary tstart="1999-05-13" tend="2016-11-30">60361</salary>
+  </employee>
+  <employee tstart="1989-05-17" tend="2016-11-30">
+    <firstname tend="9999-12-31" tstart="1989-05-17">Wanqing</firstname>
+    <lastname tend="9999-12-31" tstart="1989-05-17">Bratten</lastname>
+    <LongestPeriod>P5314D</LongestPeriod>
+    <salary tstart="1989-05-17" tend="2016-11-30">57015</salary>
+  </employee>
+  <employee tstart="1993-01-28" tend="2016-11-30">
+    <firstname tend="9999-12-31" tstart="1993-01-28">Hongzue</firstname>
+    <lastname tend="9999-12-31" tstart="1993-01-28">Akaboshi</lastname>
+    <LongestPeriod>P5422D</LongestPeriod>
+    <salary tstart="1993-01-28" tend="2016-11-30">76997</salary>
+  </employee>
+  <employee tstart="1992-03-01" tend="2016-11-30">
+    <firstname tend="9999-12-31" tstart="1992-03-01">Jiann</firstname>
+    <lastname tend="9999-12-31" tstart="1992-03-01">Hainaut</lastname>
+    <LongestPeriod>P5390D</LongestPeriod>
+    <salary tstart="1992-03-01" tend="2016-11-30">73126</salary>
+  </employee>
+  <employee tstart="1989-06-23" tend="2016-11-30">
+    <firstname tend="9999-12-31" tstart="1989-06-23">Yagil</firstname>
+    <lastname tend="9999-12-31" tstart="1989-06-23">DasSarma</lastname>
+    <LongestPeriod>P5277D</LongestPeriod>
+    <salary tstart="1989-06-23" tend="2016-11-30">64241</salary>
+  </employee>
+  <employee tstart="1991-03-14" tend="1991-08-25">
+    <firstname tend="1991-08-25" tstart="1991-03-14">Shawna</firstname>
+    <lastname tend="1991-08-25" tstart="1991-03-14">Meriste</lastname>
+    <LongestPeriod>P164D</LongestPeriod>
+    <salary tstart="1991-03-14" tend="1991-08-25">40000</salary>
+  </employee>
+  <employee tstart="1998-08-10" tend="2001-08-13">
+    <firstname tend="2001-08-13" tstart="1998-08-10">Takahiro</firstname>
+    <lastname tend="2001-08-13" tstart="1998-08-10">Deverell</lastname>
+    <LongestPeriod>P365D</LongestPeriod>
+    <salary tstart="1998-08-10" tend="2001-08-13">42774</salary>
+    <salary tstart="1998-08-10" tend="2001-08-13">43439</salary>
+    <salary tstart="1998-08-10" tend="2001-08-13">47130</salary>
+  </employee>
+  <employee tstart="1986-01-11" tend="2016-11-30">
+    <firstname tend="9999-12-31" tstart="1986-01-11">Sibyl</firstname>
+    <lastname tend="9999-12-31" tstart="1986-01-11">Rahier</lastname>
+    <LongestPeriod>P5441D</LongestPeriod>
+    <salary tstart="1986-01-11" tend="2016-11-30">74120</salary>
+  </employee>
+  <employee tstart="1993-05-21" tend="2016-11-30">
+    <firstname tend="9999-12-31" tstart="1993-05-21">Irena</firstname>
+    <lastname tend="9999-12-31" tstart="1993-05-21">Reutenauer</lastname>
+    <LongestPeriod>P5309D</LongestPeriod>
+    <salary tstart="1993-05-21" tend="2016-11-30">65498</salary>
+  </employee>
+  <employee tstart="1990-10-12" tend="2016-11-30">
+    <firstname tend="9999-12-31" tstart="1990-10-12">Shooichi</firstname>
+    <lastname tend="9999-12-31" tstart="1990-10-12">Escriba</lastname>
+    <LongestPeriod>P5531D</LongestPeriod>
+    <salary tstart="1990-10-12" tend="2016-11-30">72326</salary>
+  </employee>
+  <employee tstart="2000-01-26" tend="2016-11-30">
+    <firstname tend="9999-12-31" tstart="2000-01-26">Guenter</firstname>
+    <lastname tend="9999-12-31" tstart="2000-01-26">Marchegay</lastname>
+    <LongestPeriod>P5423D</LongestPeriod>
+    <salary tstart="2000-01-26" tend="2016-11-30">98993</salary>
+  </employee>
+  <employee tstart="1993-10-17" tend="2016-11-30">
+    <firstname tend="9999-12-31" tstart="1993-10-17">Ortrud</firstname>
+    <lastname tend="9999-12-31" tstart="1993-10-17">Nitto</lastname>
+    <LongestPeriod>P5525D</LongestPeriod>
+    <salary tstart="1993-10-17" tend="2016-11-30">85083</salary>
+  </employee>
+  <employee tstart="1999-10-25" tend="2001-04-25">
+    <firstname tend="2001-04-25" tstart="1999-10-25">Eckart</firstname>
+    <lastname tend="2001-04-25" tstart="1999-10-25">Barriga</lastname>
+    <LongestPeriod>P365D</LongestPeriod>
+    <salary tstart="1999-10-25" tend="2001-04-25">40000</salary>
+  </employee>
+  <employee tstart="1987-01-02" tend="2016-11-30">
+    <firstname tend="9999-12-31" tstart="1987-01-02">Volkmar</firstname>
+    <lastname tend="9999-12-31" tstart="1987-01-02">Ebeling</lastname>
+    <LongestPeriod>P5450D</LongestPeriod>
+    <salary tstart="1987-01-02" tend="2016-11-30">67041</salary>
+  </employee>
+  <employee tstart="1991-09-13" tend="2001-06-15">
+    <firstname tend="2001-06-15" tstart="1991-09-13">Atreyi</firstname>
+    <lastname tend="2001-06-15" tstart="1991-09-13">Mungall</lastname>
+    <LongestPeriod>P365D</LongestPeriod>
+    <salary tstart="1991-09-13" tend="2001-06-15">83609</salary>
+    <salary tstart="1991-09-13" tend="2001-06-15">86167</salary>
+    <salary tstart="1991-09-13" tend="2001-06-15">86271</salary>
+    <salary tstart="1991-09-13" tend="2001-06-15">89227</salary>
+    <salary tstart="1991-09-13" tend="2001-06-15">92915</salary>
+    <salary tstart="1991-09-13" tend="2001-06-15">94711</salary>
+    <salary tstart="1991-09-13" tend="2001-06-15">96381</salary>
+    <salary tstart="1991-09-13" tend="2001-06-15">98955</salary>
+    <salary tstart="1991-09-13" tend="2001-06-15">100526</salary>
+  </employee>
+  <employee tstart="1988-08-28" tend="2016-11-30">
+    <firstname tend="9999-12-31" tstart="1988-08-28">Prodip</firstname>
+    <lastname tend="9999-12-31" tstart="1988-08-28">Rosti</lastname>
+    <LongestPeriod>P5576D</LongestPeriod>
+    <salary tstart="1988-08-28" tend="2016-11-30">87187</salary>
+  </employee>
+  <employee tstart="1998-09-26" tend="2000-12-05">
+    <firstname tend="2000-12-05" tstart="1998-09-26">Hilary</firstname>
+    <lastname tend="2000-12-05" tstart="1998-09-26">Budinsky</lastname>
+    <LongestPeriod>P365D</LongestPeriod>
+    <salary tstart="1998-09-26" tend="2000-12-05">40000</salary>
+    <salary tstart="1998-09-26" tend="2000-12-05">44083</salary>
+  </employee>
+  <employee tstart="1996-01-26" tend="2016-11-30">
+    <firstname tend="9999-12-31" tstart="1996-01-26">Sigeru</firstname>
+    <lastname tend="9999-12-31" tstart="1996-01-26">Wynblatt</lastname>
+    <LongestPeriod>P5424D</LongestPeriod>
+    <salary tstart="1996-01-26" tend="2016-11-30">50765</salary>
+  </employee>
+  <employee tstart="1999-10-30" tend="2016-11-30">
+    <firstname tend="9999-12-31" tstart="1999-10-30">Ulf</firstname>
+    <lastname tend="9999-12-31" tstart="1999-10-30">Siepmann</lastname>
+    <LongestPeriod>P5512D</LongestPeriod>
+    <salary tstart="1999-10-30" tend="2016-11-30">68990</salary>
+  </employee>
+  <employee tstart="1998-10-07" tend="2016-11-30">
+    <firstname tend="9999-12-31" tstart="1998-10-07">Martijn</firstname>
+    <lastname tend="9999-12-31" tstart="1998-10-07">Kaiser</lastname>
+    <LongestPeriod>P5534D</LongestPeriod>
+    <salary tstart="1998-10-07" tend="2016-11-30">78692</salary>
+  </employee>
+  <employee tstart="1997-09-26" tend="2016-11-30">
+    <firstname tend="9999-12-31" tstart="1997-09-26">Mario</firstname>
+    <lastname tend="9999-12-31" tstart="1997-09-26">Straney</lastname>
+    <LongestPeriod>P5545D</LongestPeriod>
+    <salary tstart="1997-09-26" tend="2016-11-30">68422</salary>
+  </employee>
+  <employee tstart="1993-10-16" tend="1996-07-21">
+    <firstname tend="1996-07-21" tstart="1993-10-16">Takahito</firstname>
+    <lastname tend="1996-07-21" tstart="1993-10-16">Gecsei</lastname>
+    <LongestPeriod>P365D</LongestPeriod>
+    <salary tstart="1993-10-16" tend="1996-07-21">46546</salary>
+    <salary tstart="1993-10-16" tend="1996-07-21">47626</salary>
+  </employee>
+  <employee tstart="1989-09-02" tend="2016-11-30">
+    <firstname tend="9999-12-31" tstart="1989-09-02">Lidong</firstname>
+    <lastname tend="9999-12-31" tstart="1989-09-02">Klerer</lastname>
+    <LongestPeriod>P5571D</LongestPeriod>
+    <salary tstart="1989-09-02" tend="2016-11-30">94363</salary>
+  </employee>
+  <employee tstart="1991-11-21" tend="2016-11-30">
+    <firstname tend="9999-12-31" tstart="1991-11-21">Masoud</firstname>
+    <lastname tend="9999-12-31" tstart="1991-11-21">Fabrizio</lastname>
+    <LongestPeriod>P5491D</LongestPeriod>
+    <salary tstart="1991-11-21" tend="2016-11-30">84971</salary>
+  </employee>
+  <employee tstart="1991-12-27" tend="2016-11-30">
+    <firstname tend="9999-12-31" tstart="1991-12-27">Danel</firstname>
+    <lastname tend="9999-12-31" tstart="1991-12-27">Impagliazzo</lastname>
+    <LongestPeriod>P5455D</LongestPeriod>
+    <salary tstart="1991-12-27" tend="2016-11-30">63305</salary>
+  </employee>
+  <employee tstart="1990-05-30" tend="2000-04-26">
+    <firstname tend="1994-12-02" tstart="1990-05-30">Yinlin</firstname>
+    <lastname tend="1994-12-02" tstart="1990-05-30">Alpin</lastname>
+    <LongestPeriod>P365D</LongestPeriod>
+    <salary tstart="1990-05-30" tend="2000-04-26">43255</salary>
+    <salary tstart="1990-05-30" tend="2000-04-26">43830</salary>
+    <salary tstart="1990-05-30" tend="2000-04-26">48263</salary>
+    <salary tstart="1990-05-30" tend="2000-04-26">50049</salary>
+  </employee>
+  <employee tstart="1993-10-25" tend="2016-11-30">
+    <firstname tend="9999-12-31" tstart="1993-10-25">Mark</firstname>
+    <lastname tend="9999-12-31" tstart="1993-10-25">Coorg</lastname>
+    <LongestPeriod>P5517D</LongestPeriod>
+    <salary tstart="1993-10-25" tend="2016-11-30">68327</salary>
+  </employee>
+  <employee tstart="1989-03-24" tend="2016-11-30">
+    <firstname tend="9999-12-31" tstart="1989-03-24">Uli</firstname>
+    <lastname tend="9999-12-31" tstart="1989-03-24">Keustermans</lastname>
+    <LongestPeriod>P5368D</LongestPeriod>
+    <salary tstart="1989-03-24" tend="2016-11-30">99825</salary>
+  </employee>
+  <employee tstart="1999-06-27" tend="2016-11-30">
+    <firstname tend="9999-12-31" tstart="1999-06-27">Bingning</firstname>
+    <lastname tend="9999-12-31" tstart="1999-06-27">Bakhtari</lastname>
+    <LongestPeriod>P5271D</LongestPeriod>
+    <salary tstart="1999-06-27" tend="2016-11-30">81805</salary>
+  </employee>
+  <employee tstart="1996-10-04" tend="2016-11-30">
+    <firstname tend="9999-12-31" tstart="1996-10-04">Candida</firstname>
+    <lastname tend="9999-12-31" tstart="1996-10-04">Porotnikoff</lastname>
+    <LongestPeriod>P5537D</LongestPeriod>
+    <salary tstart="1996-10-04" tend="2016-11-30">61923</salary>
+  </employee>
+  <employee tstart="1992-04-25" tend="2002-07-06">
+    <firstname tend="2002-07-06" tstart="1992-04-25">Maria</firstname>
+    <lastname tend="2002-07-06" tstart="1992-04-25">Bauknecht</lastname>
+    <LongestPeriod>P365D</LongestPeriod>
+    <salary tstart="1992-04-25" tend="2002-07-06">40569</salary>
+    <salary tstart="1992-04-25" tend="2002-07-06">44991</salary>
+    <salary tstart="1992-04-25" tend="2002-07-06">48703</salary>
+    <salary tstart="1992-04-25" tend="2002-07-06">50468</salary>
+    <salary tstart="1992-04-25" tend="2002-07-06">54591</salary>
+    <salary tstart="1992-04-25" tend="2002-07-06">55850</salary>
+    <salary tstart="1992-04-25" tend="2002-07-06">59767</salary>
+    <salary tstart="1992-04-25" tend="2002-07-06">60480</salary>
+    <salary tstart="1992-04-25" tend="2002-07-06">60861</salary>
+    <salary tstart="1992-04-25" tend="2002-07-06">64068</salary>
+  </employee>
+  <employee tstart="1988-01-17" tend="2000-07-09">
+    <firstname tend="2000-07-09" tstart="1988-01-17">Kaijung</firstname>
+    <lastname tend="2000-07-09" tstart="1988-01-17">Riesenhuber</lastname>
+    <LongestPeriod>P365D</LongestPeriod>
+    <salary tstart="1988-01-17" tend="2000-07-09">69604</salary>
+    <salary tstart="1988-01-17" tend="2000-07-09">70812</salary>
+    <salary tstart="1988-01-17" tend="2000-07-09">74532</salary>
+    <salary tstart="1988-01-17" tend="2000-07-09">76698</salary>
+    <salary tstart="1988-01-17" tend="2000-07-09">77594</salary>
+    <salary tstart="1988-01-17" tend="2000-07-09">78713</salary>
+    <salary tstart="1988-01-17" tend="2000-07-09">82172</salary>
+    <salary tstart="1988-01-17" tend="2000-07-09">85849</salary>
+    <salary tstart="1988-01-17" tend="2000-07-09">87343</salary>
+    <salary tstart="1988-01-17" tend="2000-07-09">87502</salary>
+    <salary tstart="1988-01-17" tend="2000-07-09">87733</salary>
+    <salary tstart="1988-01-17" tend="2000-07-09">87340</salary>
+  </employee>
+  <employee tstart="1990-04-07" tend="2016-11-30">
+    <firstname tend="9999-12-31" tstart="1990-04-07">Divine</firstname>
+    <lastname tend="9999-12-31" tstart="1990-04-07">Marzano</lastname>
+    <LongestPeriod>P5355D</LongestPeriod>
+    <salary tstart="1990-04-07" tend="2016-11-30">62175</salary>
+  </employee>
+  <employee tstart="1995-01-03" tend="2016-11-30">
+    <firstname tend="9999-12-31" tstart="1995-01-03">Greger</firstname>
+    <lastname tend="9999-12-31" tstart="1995-01-03">Rubsam</lastname>
+    <LongestPeriod>P5447D</LongestPeriod>
+    <salary tstart="1995-01-03" tend="2016-11-30">61875</salary>
+  </employee>
+  <employee tstart="1999-05-27" tend="2016-11-30">
+    <firstname tend="9999-12-31" tstart="1999-05-27">Dante</firstname>
+    <lastname tend="9999-12-31" tstart="1999-05-27">Cronin</lastname>
+    <LongestPeriod>P5302D</LongestPeriod>
+    <salary tstart="1999-05-27" tend="2016-11-30">59251</salary>
+  </employee>
+  <employee tstart="1989-08-07" tend="2016-11-30">
+    <firstname tend="9999-12-31" tstart="1989-08-07">Babette</firstname>
+    <lastname tend="9999-12-31" tstart="1989-08-07">Straney</lastname>
+    <LongestPeriod>P5597D</LongestPeriod>
+    <salary tstart="1989-08-07" tend="2016-11-30">74457</salary>
+  </employee>
+  <employee tstart="1995-05-07" tend="2002-05-06">
+    <firstname tend="2002-05-06" tstart="1995-05-07">Sashi</firstname>
+    <lastname tend="2002-05-06" tstart="1995-05-07">Osgood</lastname>
+    <LongestPeriod>P365D</LongestPeriod>
+    <salary tstart="1995-05-07" tend="2002-05-06">40000</salary>
+    <salary tstart="1995-05-07" tend="2002-05-06">43873</salary>
+    <salary tstart="1995-05-07" tend="2002-05-06">47308</salary>
+    <salary tstart="1995-05-07" tend="2002-05-06">48134</salary>
+    <salary tstart="1995-05-07" tend="2002-05-06">51878</salary>
+    <salary tstart="1995-05-07" tend="2002-05-06">55649</salary>
+    <salary tstart="1995-05-07" tend="2002-05-06">59250</salary>
+  </employee>
+  <employee tstart="1985-07-06" tend="2016-11-30">
+    <firstname tend="9999-12-31" tstart="1985-07-06">Arunas</firstname>
+    <lastname tend="9999-12-31" tstart="1985-07-06">Luce</lastname>
+    <LongestPeriod>P5265D</LongestPeriod>
+    <salary tstart="1985-07-06" tend="2016-11-30">98636</salary>
+  </employee>
+  <employee tstart="1994-10-03" tend="2016-11-30">
+    <firstname tend="9999-12-31" tstart="1994-10-03">Khosrow</firstname>
+    <lastname tend="9999-12-31" tstart="1994-10-03">Sudbeck</lastname>
+    <LongestPeriod>P5539D</LongestPeriod>
+    <salary tstart="1994-10-03" tend="2016-11-30">90768</salary>
+  </employee>
+  <employee tstart="1992-06-04" tend="2016-11-30">
+    <firstname tend="9999-12-31" tstart="1992-06-04">Cathie</firstname>
+    <lastname tend="9999-12-31" tstart="1992-06-04">Brlek</lastname>
+    <LongestPeriod>P5295D</LongestPeriod>
+    <salary tstart="1992-06-04" tend="2016-11-30">59728</salary>
+  </employee>
+  <employee tstart="1988-09-23" tend="2016-11-30">
+    <firstname tend="9999-12-31" tstart="1988-09-23">Martien</firstname>
+    <lastname tend="9999-12-31" tstart="1988-09-23">Improta</lastname>
+    <LongestPeriod>P5550D</LongestPeriod>
+    <salary tstart="1988-09-23" tend="2016-11-30">70554</salary>
+  </employee>
+  <employee tstart="1998-07-05" tend="2016-11-30">
+    <firstname tend="9999-12-31" tstart="1998-07-05">Ferdinand</firstname>
+    <lastname tend="9999-12-31" tstart="1998-07-05">Chenney</lastname>
+    <LongestPeriod>P5263D</LongestPeriod>
+    <salary tstart="1998-07-05" tend="2016-11-30">48092</salary>
+  </employee>
+  <employee tstart="1987-10-08" tend="2016-11-30">
+    <firstname tend="9999-12-31" tstart="1987-10-08">Patricio</firstname>
+    <lastname tend="9999-12-31" tstart="1987-10-08">Bugrara</lastname>
+    <LongestPeriod>P5536D</LongestPeriod>
+    <salary tstart="1987-10-08" tend="2016-11-30">86445</salary>
+  </employee>
+  <employee tstart="1990-08-13" tend="2016-11-30">
+    <firstname tend="9999-12-31" tstart="1990-08-13">Hisao</firstname>
+    <lastname tend="9999-12-31" tstart="1990-08-13">Tiemann</lastname>
+    <LongestPeriod>P5591D</LongestPeriod>
+    <salary tstart="1990-08-13" tend="2016-11-30">63568</salary>
+  </employee>
+  <employee tstart="1992-11-26" tend="2016-11-30">
+    <firstname tend="9999-12-31" tstart="1992-11-26">Reuven</firstname>
+    <lastname tend="9999-12-31" tstart="1992-11-26">Dengi</lastname>
+    <LongestPeriod>P5485D</LongestPeriod>
+    <salary tstart="1992-11-26" tend="2016-11-30">63139</salary>
+  </employee>
+  <employee tstart="1995-06-27" tend="2002-06-22">
+    <firstname tend="2002-06-22" tstart="1995-06-27">Dzung</firstname>
+    <lastname tend="2002-06-22" tstart="1995-06-27">Peltason</lastname>
+    <LongestPeriod>P365D</LongestPeriod>
+    <salary tstart="1995-06-27" tend="2002-06-22">40000</salary>
+    <salary tstart="1995-06-27" tend="2002-06-22">42841</salary>
+    <salary tstart="1995-06-27" tend="2002-06-22">44291</salary>
+    <salary tstart="1995-06-27" tend="2002-06-22">44408</salary>
+    <salary tstart="1995-06-27" tend="2002-06-22">46945</salary>
+    <salary tstart="1995-06-27" tend="2002-06-22">49512</salary>
+  </employee>
+  <employee tstart="1996-06-08" tend="2016-11-30">
+    <firstname tend="9999-12-31" tstart="1996-06-08">Marsha</firstname>
+    <lastname tend="9999-12-31" tstart="1996-06-08">Tagansky</lastname>
+    <LongestPeriod>P5290D</LongestPeriod>
+    <salary tstart="1996-06-08" tend="2016-11-30">54288</salary>
+  </employee>
+  <employee tstart="1988-01-30" tend="2016-11-30">
+    <firstname tend="9999-12-31" tstart="1988-01-30">Yahiko</firstname>
+    <lastname tend="9999-12-31" tstart="1988-01-30">Lammel</lastname>
+    <LongestPeriod>P5422D</LongestPeriod>
+    <salary tstart="1988-01-30" tend="2016-11-30">73708</salary>
+  </employee>
+  <employee tstart="1996-04-12" tend="2016-11-30">
+    <firstname tend="9999-12-31" tstart="1996-04-12">Narain</firstname>
+    <lastname tend="9999-12-31" tstart="1996-04-12">Reeker</lastname>
+    <LongestPeriod>P5347D</LongestPeriod>
+    <salary tstart="1996-04-12" tend="2016-11-30">71490</salary>
+  </employee>
+  <employee tstart="1990-01-19" tend="2016-11-30">
+    <firstname tend="9999-12-31" tstart="1990-01-19">Evgueni</firstname>
+    <lastname tend="9999-12-31" tstart="1990-01-19">Srimani</lastname>
+    <LongestPeriod>P5432D</LongestPeriod>
+    <salary tstart="1990-01-19" tend="2016-11-30">72839</salary>
+  </employee>
+  <employee tstart="1993-05-01" tend="2016-11-30">
+    <firstname tend="9999-12-31" tstart="1993-05-01">Jolita</firstname>
+    <lastname tend="9999-12-31" tstart="1993-05-01">Jarecki</lastname>
+    <LongestPeriod>P5329D</LongestPeriod>
+    <salary tstart="1993-05-01" tend="2016-11-30">86481</salary>
+  </employee>
+  <employee tstart="1997-04-04" tend="2016-11-30">
+    <firstname tend="9999-12-31" tstart="1997-04-04">Akeel</firstname>
+    <lastname tend="9999-12-31" tstart="1997-04-04">Narahara</lastname>
+    <LongestPeriod>P5355D</LongestPeriod>
+    <salary tstart="1997-04-04" tend="2016-11-30">62469</salary>
+  </employee>
+  <employee tstart="1988-07-12" tend="2016-11-30">
+    <firstname tend="9999-12-31" tstart="1988-07-12">Adel</firstname>
+    <lastname tend="9999-12-31" tstart="1988-07-12">Perfilyeva</lastname>
+    <LongestPeriod>P5258D</LongestPeriod>
+    <salary tstart="1988-07-12" tend="2016-11-30">71913</salary>
+  </employee>
+  <employee tstart="1992-02-12" tend="2001-03-13">
+    <firstname tend="2001-03-13" tstart="1992-02-12">Volkmar</firstname>
+    <lastname tend="2001-03-13" tstart="1992-02-12">Unno</lastname>
+    <LongestPeriod>P365D</LongestPeriod>
+    <salary tstart="1992-02-12" tend="2001-03-13">46005</salary>
+    <salary tstart="1992-02-12" tend="2001-03-13">49699</salary>
+    <salary tstart="1992-02-12" tend="2001-03-13">51975</salary>
+    <salary tstart="1992-02-12" tend="2001-03-13">51509</salary>
+    <salary tstart="1992-02-12" tend="2001-03-13">55987</salary>
+    <salary tstart="1992-02-12" tend="2001-03-13">55970</salary>
+    <salary tstart="1992-02-12" tend="2001-03-13">56881</salary>
+    <salary tstart="1992-02-12" tend="2001-03-13">59117</salary>
+    <salary tstart="1992-02-12" tend="2001-03-13">58958</salary>
+  </employee>
+  <employee tstart="1989-08-01" tend="2002-07-06">
+    <firstname tend="2002-07-06" tstart="1989-08-01">Shichao</firstname>
+    <lastname tend="2002-07-06" tstart="1989-08-01">Litvinov</lastname>
+    <LongestPeriod>P365D</LongestPeriod>
+    <salary tstart="1989-08-01" tend="2002-07-06">55299</salary>
+    <salary tstart="1989-08-01" tend="2002-07-06">58984</salary>
+    <salary tstart="1989-08-01" tend="2002-07-06">59077</salary>
+    <salary tstart="1989-08-01" tend="2002-07-06">60431</salary>
+    <salary tstart="1989-08-01" tend="2002-07-06">62087</salary>
+    <salary tstart="1989-08-01" tend="2002-07-06">64103</salary>
+    <salary tstart="1989-08-01" tend="2002-07-06">68249</salary>
+    <salary tstart="1989-08-01" tend="2002-07-06">68335</salary>
+    <salary tstart="1989-08-01" tend="2002-07-06">68149</salary>
+    <salary tstart="1989-08-01" tend="2002-07-06">67940</salary>
+    <salary tstart="1989-08-01" tend="2002-07-06">67516</salary>
+    <salary tstart="1989-08-01" tend="2002-07-06">67138</salary>
+  </employee>
+  <employee tstart="1994-10-23" tend="2016-11-30">
+    <firstname tend="9999-12-31" tstart="1994-10-23">Kazuhira</firstname>
+    <lastname tend="9999-12-31" tstart="1994-10-23">Rosis</lastname>
+    <LongestPeriod>P5519D</LongestPeriod>
+    <salary tstart="1994-10-23" tend="2016-11-30">103063</salary>
+  </employee>
+  <employee tstart="1987-11-04" tend="2016-11-30">
+    <firstname tend="9999-12-31" tstart="1987-11-04">Junichi</firstname>
+    <lastname tend="9999-12-31" tstart="1987-11-04">Kavanagh</lastname>
+    <LongestPeriod>P5509D</LongestPeriod>
+    <salary tstart="1987-11-04" tend="2016-11-30">78518</salary>
+  </employee>
+  <employee tstart="1996-12-25" tend="2016-11-30">
+    <firstname tend="9999-12-31" tstart="1996-12-25">Ebru</firstname>
+    <lastname tend="9999-12-31" tstart="1996-12-25">Chepyzhov</lastname>
+    <LongestPeriod>P5455D</LongestPeriod>
+    <salary tstart="1996-12-25" tend="2016-11-30">60783</salary>
+  </employee>
+  <employee tstart="1988-12-29" tend="2000-11-15">
+    <firstname tend="2000-11-15" tstart="1988-12-29">Ronghao</firstname>
+    <lastname tend="2000-11-15" tstart="1988-12-29">Yavatkar</lastname>
+    <LongestPeriod>P365D</LongestPeriod>
+    <salary tstart="1988-12-29" tend="2000-11-15">40000</salary>
+    <salary tstart="1988-12-29" tend="2000-11-15">41748</salary>
+    <salary tstart="1988-12-29" tend="2000-11-15">41561</salary>
+    <salary tstart="1988-12-29" tend="2000-11-15">44075</salary>
+    <salary tstart="1988-12-29" tend="2000-11-15">47985</salary>
+    <salary tstart="1988-12-29" tend="2000-11-15">51834</salary>
+    <salary tstart="1988-12-29" tend="2000-11-15">52818</salary>
+    <salary tstart="1988-12-29" tend="2000-11-15">53918</salary>
+    <salary tstart="1988-12-29" tend="2000-11-15">57099</salary>
+    <salary tstart="1988-12-29" tend="2000-11-15">60175</salary>
+    <salary tstart="1988-12-29" tend="2000-11-15">61463</salary>
+  </employee>
+  <employee tstart="1992-03-12" tend="2016-11-30">
+    <firstname tend="9999-12-31" tstart="1992-03-12">Phule</firstname>
+    <lastname tend="9999-12-31" tstart="1992-03-12">Oxenboll</lastname>
+    <LongestPeriod>P5379D</LongestPeriod>
+    <salary tstart="1992-03-12" tend="2016-11-30">68210</salary>
+  </employee>
+  <employee tstart="1987-03-28" tend="2016-11-30">
+    <firstname tend="9999-12-31" tstart="1987-03-28">Aleksandar</firstname>
+    <lastname tend="9999-12-31" tstart="1987-03-28">Sudkamp</lastname>
+    <LongestPeriod>P5365D</LongestPeriod>
+    <salary tstart="1987-03-28" tend="2016-11-30">87735</salary>
+  </employee>
+  <employee tstart="1997-08-24" tend="2016-11-30">
+    <firstname tend="9999-12-31" tstart="1997-08-24">Khun</firstname>
+    <lastname tend="9999-12-31" tstart="1997-08-24">Harbusch</lastname>
+    <LongestPeriod>P5578D</LongestPeriod>
+    <salary tstart="1997-08-24" tend="2016-11-30">50217</salary>
+  </employee>
+  <employee tstart="1988-03-12" tend="2016-11-30">
+    <firstname tend="9999-12-31" tstart="1988-03-12">Bodh</firstname>
+    <lastname tend="9999-12-31" tstart="1988-03-12">Ranta</lastname>
+    <LongestPeriod>P5380D</LongestPeriod>
+    <salary tstart="1988-03-12" tend="2016-11-30">71084</salary>
+  </employee>
+  <employee tstart="1995-11-12" tend="2001-10-11">
+    <firstname tend="2001-10-11" tstart="1995-11-12">Werner</firstname>
+    <lastname tend="2001-10-11" tstart="1995-11-12">Hasham</lastname>
+    <LongestPeriod>P365D</LongestPeriod>
+    <salary tstart="1995-11-12" tend="2001-10-11">40000</salary>
+    <salary tstart="1995-11-12" tend="2001-10-11">42459</salary>
+    <salary tstart="1995-11-12" tend="2001-10-11">44215</salary>
+    <salary tstart="1995-11-12" tend="2001-10-11">48276</salary>
+    <salary tstart="1995-11-12" tend="2001-10-11">51142</salary>
+  </employee>
+  <employee tstart="1985-04-02" tend="2016-11-30">
+    <firstname tend="9999-12-31" tstart="1985-04-02">Tsvetan</firstname>
+    <lastname tend="9999-12-31" tstart="1985-04-02">Matzel</lastname>
+    <LongestPeriod>P5360D</LongestPeriod>
+    <salary tstart="1985-04-02" tend="2016-11-30">75440</salary>
+  </employee>
+  <employee tstart="1989-04-16" tend="2016-11-30">
+    <firstname tend="9999-12-31" tstart="1989-04-16">Wonhee</firstname>
+    <lastname tend="9999-12-31" tstart="1989-04-16">Badr</lastname>
+    <LongestPeriod>P5345D</LongestPeriod>
+    <salary tstart="1989-04-16" tend="2016-11-30">110048</salary>
+  </employee>
+  <employee tstart="1995-02-19" tend="2016-11-30">
+    <firstname tend="9999-12-31" tstart="1995-02-19">Sverrir</firstname>
+    <lastname tend="9999-12-31" tstart="1995-02-19">Streng</lastname>
+    <LongestPeriod>P5400D</LongestPeriod>
+    <salary tstart="1995-02-19" tend="2016-11-30">116386</salary>
+  </employee>
+  <employee tstart="2000-01-06" tend="2016-11-30">
+    <firstname tend="9999-12-31" tstart="2000-01-06">Stepehn</firstname>
+    <lastname tend="9999-12-31" tstart="2000-01-06">Hardjono</lastname>
+    <LongestPeriod>P5443D</LongestPeriod>
+    <salary tstart="2000-01-06" tend="2016-11-30">60887</salary>
+  </employee>
+  <employee tstart="1999-10-23" tend="2016-11-30">
+    <firstname tend="9999-12-31" tstart="1999-10-23">Oddvar</firstname>
+    <lastname tend="9999-12-31" tstart="1999-10-23">Schlenzig</lastname>
+    <LongestPeriod>P5518D</LongestPeriod>
+    <salary tstart="1999-10-23" tend="2016-11-30">68411</salary>
+  </employee>
+  <employee tstart="1994-07-05" tend="2016-11-30">
+    <firstname tend="9999-12-31" tstart="1994-07-05">Gina</firstname>
+    <lastname tend="9999-12-31" tstart="1994-07-05">Engelmann</lastname>
+    <LongestPeriod>P5264D</LongestPeriod>
+    <salary tstart="1994-07-05" tend="2016-11-30">100685</salary>
+  </employee>
+  <employee tstart="1997-06-28" tend="2016-11-30">
+    <firstname tend="9999-12-31" tstart="1997-06-28">Ennio</firstname>
+    <lastname tend="9999-12-31" tstart="1997-06-28">Trogemann</lastname>
+    <LongestPeriod>P5270D</LongestPeriod>
+    <salary tstart="1997-06-28" tend="2016-11-30">56269</salary>
+  </employee>
+  <employee tstart="1999-06-30" tend="2001-04-15">
+    <firstname tend="2001-04-15" tstart="1999-06-30">Shushma</firstname>
+    <lastname tend="2001-04-15" tstart="1999-06-30">VanScheik</lastname>
+    <LongestPeriod>P365D</LongestPeriod>
+    <salary tstart="1999-06-30" tend="2001-04-15">40000</salary>
+  </employee>
+  <employee tstart="1987-08-03" tend="2016-11-30">
+    <firstname tend="9999-12-31" tstart="1987-08-03">Gal</firstname>
+    <lastname tend="9999-12-31" tstart="1987-08-03">Karcich</lastname>
+    <LongestPeriod>P5237D</LongestPeriod>
+    <salary tstart="1987-08-03" tend="2016-11-30">103382</salary>
+  </employee>
+  <employee tstart="1996-03-25" tend="2016-11-30">
+    <firstname tend="9999-12-31" tstart="1996-03-25">Sumali</firstname>
+    <lastname tend="9999-12-31" tstart="1996-03-25">Schlenzig</lastname>
+    <LongestPeriod>P5365D</LongestPeriod>
+    <salary tstart="1996-03-25" tend="2016-11-30">50923</salary>
+  </employee>
+  <employee tstart="1994-02-17" tend="2016-11-30">
+    <firstname tend="9999-12-31" tstart="1994-02-17">Ung</firstname>
+    <lastname tend="9999-12-31" tstart="1994-02-17">Zaiane</lastname>
+    <LongestPeriod>P5402D</LongestPeriod>
+    <salary tstart="1994-02-17" tend="2016-11-30">88502</salary>
+  </employee>
+  <employee tstart="1991-05-21" tend="2016-11-30">
+    <firstname tend="9999-12-31" tstart="1991-05-21">Mang</firstname>
+    <lastname tend="9999-12-31" tstart="1991-05-21">Maginnis</lastname>
+    <LongestPeriod>P5310D</LongestPeriod>
+    <salary tstart="1991-05-21" tend="2016-11-30">64408</salary>
+  </employee>
+  <employee tstart="1994-12-11" tend="2016-11-30">
+    <firstname tend="9999-12-31" tstart="1994-12-11">Claudi</firstname>
+    <lastname tend="9999-12-31" tstart="1994-12-11">Shackel</lastname>
+    <LongestPeriod>P5470D</LongestPeriod>
+    <salary tstart="1994-12-11" tend="2016-11-30">80628</salary>
+  </employee>
+  <employee tstart="1997-08-22" tend="2000-08-15">
+    <firstname tend="2000-08-15" tstart="1997-08-22">Jiakeng</firstname>
+    <lastname tend="2000-08-15" tstart="1997-08-22">Himler</lastname>
+    <LongestPeriod>P365D</LongestPeriod>
+    <salary tstart="1997-08-22" tend="2000-08-15">55318</salary>
+    <salary tstart="1997-08-22" tend="2000-08-15">55859</salary>
+  </employee>
+  <employee tstart="1992-05-22" tend="1999-11-01">
+    <firstname tend="1999-11-01" tstart="1992-05-22">Dipayan</firstname>
+    <lastname tend="1999-11-01" tstart="1992-05-22">Suomi</lastname>
+    <LongestPeriod>P365D</LongestPeriod>
+    <salary tstart="1992-05-22" tend="1999-11-01">79905</salary>
+    <salary tstart="1992-05-22" tend="1999-11-01">82053</salary>
+    <salary tstart="1992-05-22" tend="1999-11-01">82994</salary>
+    <salary tstart="1992-05-22" tend="1999-11-01">85453</salary>
+    <salary tstart="1992-05-22" tend="1999-11-01">89268</salary>
+    <salary tstart="1992-05-22" tend="1999-11-01">90455</salary>
+    <salary tstart="1992-05-22" tend="1999-11-01">93299</salary>
+  </employee>
+  <employee tstart="1991-05-28" tend="2016-11-30">
+    <firstname tend="9999-12-31" tstart="1991-05-28">Yoshimitsu</firstname>
+    <lastname tend="9999-12-31" tstart="1991-05-28">Shobatake</lastname>
+    <LongestPeriod>P5303D</LongestPeriod>
+    <salary tstart="1991-05-28" tend="2016-11-30">62566</salary>
+  </employee>
+  <employee tstart="1985-06-05" tend="2016-11-30">
+    <firstname tend="9999-12-31" tstart="1985-06-05">Munehiko</firstname>
+    <lastname tend="9999-12-31" tstart="1985-06-05">Ananiadou</lastname>
+    <LongestPeriod>P5296D</LongestPeriod>
+    <salary tstart="1985-06-05" tend="2016-11-30">79598</salary>
+  </employee>
+  <employee tstart="1989-09-19" tend="2016-11-30">
+    <firstname tend="9999-12-31" tstart="1989-09-19">Peternela</firstname>
+    <lastname tend="9999-12-31" tstart="1989-09-19">Iwayama</lastname>
+    <LongestPeriod>P5554D</LongestPeriod>
+    <salary tstart="1989-09-19" tend="2016-11-30">65837</salary>
+  </employee>
+  <employee tstart="1990-11-18" tend="2016-11-30">
+    <firstname tend="9999-12-31" tstart="1990-11-18">Jouko</firstname>
+    <lastname tend="9999-12-31" tstart="1990-11-18">Yamaashi</lastname>
+    <LongestPeriod>P5494D</LongestPeriod>
+    <salary tstart="1990-11-18" tend="2016-11-30">82545</salary>
+  </employee>
+  <employee tstart="1999-12-01" tend="2002-01-02">
+    <firstname tend="2002-01-02" tstart="1999-12-01">Salvador</firstname>
+    <lastname tend="2002-01-02" tstart="1999-12-01">Lodder</lastname>
+    <LongestPeriod>P365D</LongestPeriod>
+    <salary tstart="1999-12-01" tend="2002-01-02">48561</salary>
+    <salary tstart="1999-12-01" tend="2002-01-02">50933</salary>
+  </employee>
+  <employee tstart="1997-09-23" tend="2016-11-30">
+    <firstname tend="9999-12-31" tstart="1997-09-23">Przemyslawa</firstname>
+    <lastname tend="9999-12-31" tstart="1997-09-23">Oskamp</lastname>
+    <LongestPeriod>P5548D</LongestPeriod>
+    <salary tstart="1997-09-23" tend="2016-11-30">53721</salary>
+  </employee>
+  <employee tstart="1987-02-21" tend="2016-11-30">
+    <firstname tend="9999-12-31" tstart="1987-02-21">Kenton</firstname>
+    <lastname tend="9999-12-31" tstart="1987-02-21">Garnham</lastname>
+    <LongestPeriod>P5400D</LongestPeriod>
+    <salary tstart="1987-02-21" tend="2016-11-30">72532</salary>
+  </employee>
+  <employee tstart="1992-05-13" tend="1994-12-30">
+    <firstname tend="1994-12-30" tstart="1992-05-13">Mario</firstname>
+    <lastname tend="1994-12-30" tstart="1992-05-13">Rodite</lastname>
+    <LongestPeriod>P365D</LongestPeriod>
+    <salary tstart="1992-05-13" tend="1994-12-30">51203</salary>
+    <salary tstart="1992-05-13" tend="1994-12-30">51687</salary>
+  </employee>
+  <employee tstart="1987-09-20" tend="2016-11-30">
+    <firstname tend="9999-12-31" tstart="1987-09-20">Kokou</firstname>
+    <lastname tend="9999-12-31" tstart="1987-09-20">Iisaka</lastname>
+    <LongestPeriod>P5554D</LongestPeriod>
+    <salary tstart="1987-09-20" tend="2016-11-30">86744</salary>
+  </employee>
+  <employee tstart="1997-05-26" tend="2016-11-30">
+    <firstname tend="9999-12-31" tstart="1997-05-26">Guoxiang</firstname>
+    <lastname tend="9999-12-31" tstart="1997-05-26">Trogemann</lastname>
+    <LongestPeriod>P5303D</LongestPeriod>
+    <salary tstart="1997-05-26" tend="2016-11-30">68859</salary>
+  </employee>
+  <employee tstart="1992-06-09" tend="2016-11-30">
+    <firstname tend="9999-12-31" tstart="1992-06-09">Maik</firstname>
+    <lastname tend="9999-12-31" tstart="1992-06-09">Ushiama</lastname>
+    <LongestPeriod>P5290D</LongestPeriod>
+    <salary tstart="1992-06-09" tend="2016-11-30">54545</salary>
+  </employee>
+  <employee tstart="1993-07-24" tend="2016-11-30">
+    <firstname tend="9999-12-31" tstart="1993-07-24">Duro</firstname>
+    <lastname tend="9999-12-31" tstart="1993-07-24">Coney</lastname>
+    <LongestPeriod>P5245D</LongestPeriod>
+    <salary tstart="1993-07-24" tend="2016-11-30">56148</salary>
+  </employee>
+  <employee tstart="1988-05-18" tend="1989-06-03">
+    <firstname tend="1989-06-03" tstart="1988-05-18">Make</firstname>
+    <lastname tend="1989-06-03" tstart="1988-05-18">Baba</lastname>
+    <LongestPeriod>P365D</LongestPeriod>
+    <salary tstart="1988-05-18" tend="1989-06-03">55669</salary>
+  </employee>
+  <employee tstart="1989-10-03" tend="2016-11-30">
+    <firstname tend="9999-12-31" tstart="1989-10-03">Yongmao</firstname>
+    <lastname tend="9999-12-31" tstart="1989-10-03">Pintelas</lastname>
+    <LongestPeriod>P5540D</LongestPeriod>
+    <salary tstart="1989-10-03" tend="2016-11-30">62773</salary>
+  </employee>
+  <employee tstart="1996-02-26" tend="2016-11-30">
+    <firstname tend="9999-12-31" tstart="1996-02-26">Goa</firstname>
+    <lastname tend="9999-12-31" tstart="1996-02-26">Pleszkun</lastname>
+    <LongestPeriod>P5393D</LongestPeriod>
+    <salary tstart="1996-02-26" tend="2016-11-30">91895</salary>
+  </employee>
+  <employee tstart="1993-11-10" tend="2016-11-30">
+    <firstname tend="9999-12-31" tstart="1993-11-10">Zhiwei</firstname>
+    <lastname tend="9999-12-31" tstart="1993-11-10">Anick</lastname>
+    <LongestPeriod>P5501D</LongestPeriod>
+    <salary tstart="1993-11-10" tend="2016-11-30">69741</salary>
+  </employee>
+  <employee tstart="1996-12-20" tend="2016-11-30">
+    <firstname tend="9999-12-31" tstart="1996-12-20">Nirmal</firstname>
+    <lastname tend="9999-12-31" tstart="1996-12-20">Varley</lastname>
+    <LongestPeriod>P5460D</LongestPeriod>
+    <salary tstart="1996-12-20" tend="2016-11-30">53316</salary>
+  </employee>
+  <employee tstart="1996-01-21" tend="2016-11-30">
+    <firstname tend="9999-12-31" tstart="1996-01-21">Teruyuki</firstname>
+    <lastname tend="9999-12-31" tstart="1996-01-21">Sundgren</lastname>
+    <LongestPeriod>P5429D</LongestPeriod>
+    <salary tstart="1996-01-21" tend="2016-11-30">64129</salary>
+  </employee>
+  <employee tstart="1987-10-08" tend="2016-11-30">
+    <firstname tend="9999-12-31" tstart="1987-10-08">Amstein</firstname>
+    <lastname tend="9999-12-31" tstart="1987-10-08">Kossowski</lastname>
+    <LongestPeriod>P5536D</LongestPeriod>
+    <salary tstart="1987-10-08" tend="2016-11-30">100894</salary>
+  </employee>
+  <employee tstart="1992-08-14" tend="2016-11-30">
+    <firstname tend="9999-12-31" tstart="1992-08-14">Perla</firstname>
+    <lastname tend="9999-12-31" tstart="1992-08-14">Middleton</lastname>
+    <LongestPeriod>P5589D</LongestPeriod>
+    <salary tstart="1992-08-14" tend="2016-11-30">61185</salary>
+  </employee>
+  <employee tstart="1994-07-09" tend="2016-11-30">
+    <firstname tend="9999-12-31" tstart="1994-07-09">Mihalis</firstname>
+    <lastname tend="9999-12-31" tstart="1994-07-09">Heering</lastname>
+    <LongestPeriod>P5260D</LongestPeriod>
+    <salary tstart="1994-07-09" tend="2016-11-30">58297</salary>
+  </employee>
+  <employee tstart="1989-09-10" tend="1989-10-06">
+    <firstname tend="1989-10-06" tstart="1989-09-10">Elvia</firstname>
+    <lastname tend="1989-10-06" tstart="1989-09-10">Homond</lastname>
+    <LongestPeriod>P26D</LongestPeriod>
+    <salary tstart="1989-09-10" tend="1989-10-06">56739</salary>
+  </employee>
+  <employee tstart="1992-11-22" tend="2016-11-30">
+    <firstname tend="9999-12-31" tstart="1992-11-22">Huiqun</firstname>
+    <lastname tend="9999-12-31" tstart="1992-11-22">Vuskovic</lastname>
+    <LongestPeriod>P5489D</LongestPeriod>
+    <salary tstart="1992-11-22" tend="2016-11-30">80723</salary>
+  </employee>
+  <employee tstart="1990-01-17" tend="2016-11-30">
+    <firstname tend="9999-12-31" tstart="1990-01-17">Garnik</firstname>
+    <lastname tend="9999-12-31" tstart="1990-01-17">Narahari</lastname>
+    <LongestPeriod>P5434D</LongestPeriod>
+    <salary tstart="1990-01-17" tend="2016-11-30">89966</salary>
+  </employee>
+  <employee tstart="1988-04-29" tend="2016-11-30">
+    <firstname tend="9999-12-31" tstart="1988-04-29">Lobel</firstname>
+    <lastname tend="9999-12-31" tstart="1988-04-29">Kumaresan</lastname>
+    <LongestPeriod>P5332D</LongestPeriod>
+    <salary tstart="1988-04-29" tend="2016-11-30">88092</salary>
+  </employee>
+  <employee tstart="1998-10-29" tend="2016-11-30">
+    <firstname tend="9999-12-31" tstart="1998-10-29">Maris</firstname>
+    <lastname tend="9999-12-31" tstart="1998-10-29">Haraldson</lastname>
+    <LongestPeriod>P5512D</LongestPeriod>
+    <salary tstart="1998-10-29" tend="2016-11-30">50195</salary>
+  </employee>
+  <employee tstart="1991-12-18" tend="2016-11-30">
+    <firstname tend="9999-12-31" tstart="1991-12-18">Yakkov</firstname>
+    <lastname tend="9999-12-31" tstart="1991-12-18">Servieres</lastname>
+    <LongestPeriod>P5464D</LongestPeriod>
+    <salary tstart="1991-12-18" tend="2016-11-30">66837</salary>
+  </employee>
+  <employee tstart="1989-09-24" tend="2016-11-30">
+    <firstname tend="9999-12-31" tstart="1989-09-24">Anyuan</firstname>
+    <lastname tend="9999-12-31" tstart="1989-09-24">Zhiwei</lastname>
+    <LongestPeriod>P5549D</LongestPeriod>
+    <salary tstart="1989-09-24" tend="2016-11-30">97302</salary>
+  </employee>
+  <employee tstart="1995-08-29" tend="1999-01-26">
+    <firstname tend="1999-01-26" tstart="1995-08-29">Gretta</firstname>
+    <lastname tend="1999-01-26" tstart="1995-08-29">Baig</lastname>
+    <LongestPeriod>P365D</LongestPeriod>
+    <salary tstart="1995-08-29" tend="1999-01-26">41835</salary>
+    <salary tstart="1995-08-29" tend="1999-01-26">44987</salary>
+    <salary tstart="1995-08-29" tend="1999-01-26">49147</salary>
+  </employee>
+  <employee tstart="1992-01-22" tend="2016-11-30">
+    <firstname tend="9999-12-31" tstart="1992-01-22">Pramod</firstname>
+    <lastname tend="9999-12-31" tstart="1992-01-22">Rabehasaina</lastname>
+    <LongestPeriod>P5429D</LongestPeriod>
+    <salary tstart="1992-01-22" tend="2016-11-30">84550</salary>
+  </employee>
+  <employee tstart="1994-03-09" tend="2016-11-30">
+    <firstname tend="9999-12-31" tstart="1994-03-09">Valter</firstname>
+    <lastname tend="9999-12-31" tstart="1994-03-09">Cappelletti</lastname>
+    <LongestPeriod>P5382D</LongestPeriod>
+    <salary tstart="1994-03-09" tend="2016-11-30">51552</salary>
+  </employee>
+  <employee tstart="1996-07-31" tend="2016-11-30">
+    <firstname tend="9999-12-31" tstart="1996-07-31">Maik</firstname>
+    <lastname tend="9999-12-31" tstart="1996-07-31">Luft</lastname>
+    <LongestPeriod>P5237D</LongestPeriod>
+    <salary tstart="1996-07-31" tend="2016-11-30">49476</salary>
+  </employee>
+  <employee tstart="1996-12-16" tend="2016-11-30">
+    <firstname tend="9999-12-31" tstart="1996-12-16">Vojin</firstname>
+    <lastname tend="9999-12-31" tstart="1996-12-16">Narwekar</lastname>
+    <LongestPeriod>P5464D</LongestPeriod>
+    <salary tstart="1996-12-16" tend="2016-11-30">54628</salary>
+  </employee>
+</duration>
