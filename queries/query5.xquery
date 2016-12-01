@@ -24,7 +24,7 @@ declare function local:getManager( $deptno as element() ) as element()*
 		
 		for $mgrno in $mgrnos
 			let $start := local:maxDate($mgrno/@tstart, $deptno/@tstart),
-				$end := local:minDate($mgrno/@tstart, $deptno/@tend)
+				$end := local:minDate($mgrno/@tend, $deptno/@tend)
 			where not ($mgrno/@tend < $deptno/@tstart or $mgrno/@tstart > $deptno/@tend)
 
 			return element manager {
