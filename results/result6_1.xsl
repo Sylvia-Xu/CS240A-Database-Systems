@@ -8,8 +8,10 @@
             <body>
                 <h2>Temporal Count: History  of  employee count for each department</h2>
                 <xsl:for-each select="department_count/department">
-                	<h4><xsl:value-of select="@deptno"></h4>
-                	<h4><xsl:value-of select="@deptname"></h4>
+                	<h4>
+                        <xsl:value-of select="@deptno"/>
+                        <xsl:value-of select="@deptname"/>
+                    </h4>
                 	<table border="1">
                     	<tr bgcolor="#9acd32">
                         	<th style="text-align:center">Start Date</th>
